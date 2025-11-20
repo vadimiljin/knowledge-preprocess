@@ -1,0 +1,2145 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-20T07:25:02.226161",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_11_19_team_sync___route4me_development",
+        "type": "Meeting",
+        "title": "Team Sync - Route4Me Development",
+        "date": "2025-11-19",
+        "duration": "00:25:28",
+        "attendees": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Semeyon S",
+          "Alexey Afanasiev",
+          "Igor Skrynkovskyy",
+          "Manar Kurmanov",
+          "Igor Golovtsov",
+          "Eugene",
+          "Alexey Gusentsov"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_serhii_kasainov",
+        "type": "Person",
+        "name": "Serhii Kasainov",
+        "statements_count": 9
+      },
+      {
+        "id": "person_dmitry_smaliak",
+        "type": "Person",
+        "name": "Dmitry Smaliak",
+        "statements_count": 5
+      },
+      {
+        "id": "person_semeyon_s",
+        "type": "Person",
+        "name": "Semeyon S",
+        "statements_count": 11
+      },
+      {
+        "id": "person_alexey_afanasiev",
+        "type": "Person",
+        "name": "Alexey Afanasiev",
+        "statements_count": 6
+      },
+      {
+        "id": "person_igor_skrynkovskyy",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy",
+        "statements_count": 1
+      },
+      {
+        "id": "person_manar_kurmanov",
+        "type": "Person",
+        "name": "Manar Kurmanov",
+        "statements_count": 3
+      },
+      {
+        "id": "person_igor_golovtsov",
+        "type": "Person",
+        "name": "Igor Golovtsov",
+        "statements_count": 6
+      },
+      {
+        "id": "person_eugene",
+        "type": "Person",
+        "name": "Eugene",
+        "statements_count": 2
+      },
+      {
+        "id": "person_alexey_gusentsov",
+        "type": "Person",
+        "name": "Alexey Gusentsov",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_destinationdriver___tracking_number_fix",
+        "type": "Topic",
+        "label": "DestinationDriver & Tracking Number Fix",
+        "time_range": "00:00:00 - 00:04:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "destinationdriver",
+          "tracking",
+          "number",
+          "fix"
+        ]
+      },
+      {
+        "id": "topic_distance___drive_time_columns_addition",
+        "type": "Topic",
+        "label": "Distance & Drive Time Columns Addition",
+        "time_range": "00:02:00 - 00:04:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "distance",
+          "drive",
+          "time",
+          "columns",
+          "addition"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_filter_grouping",
+        "type": "Topic",
+        "label": "Strategic Optimization Filter Grouping",
+        "time_range": "00:04:00 - 00:09:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Semeyon S",
+          "Igor Skrynkovskyy",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "filter",
+          "grouping"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_ui_development",
+        "type": "Topic",
+        "label": "Strategic Optimization UI Development",
+        "time_range": "00:09:00 - 00:20:00",
+        "participants": [
+          "Manar Kurmanov",
+          "Serhii Kasainov",
+          "Semeyon S",
+          "Igor Golovtsov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "development"
+        ]
+      },
+      {
+        "id": "topic_scenarios_table___inline_edit_mode",
+        "type": "Topic",
+        "label": "Scenarios Table & Inline Edit Mode",
+        "time_range": "00:20:00 - 00:22:30",
+        "participants": [
+          "Semeyon S",
+          "Igor Golovtsov",
+          "Eugene"
+        ],
+        "keywords": [
+          "scenarios",
+          "table",
+          "inline",
+          "edit",
+          "mode"
+        ]
+      },
+      {
+        "id": "topic_erp___assignment_board_status",
+        "type": "Topic",
+        "label": "ERP & Assignment Board Status",
+        "time_range": "00:22:30 - 00:23:40",
+        "participants": [
+          "Alexey Afanasiev",
+          "Semeyon S",
+          "Eugene"
+        ],
+        "keywords": [
+          "erp",
+          "assignment",
+          "board",
+          "status"
+        ]
+      },
+      {
+        "id": "topic_meeting_wrap_up___demo_cancellation",
+        "type": "Topic",
+        "label": "Meeting Wrap-up & Demo Cancellation",
+        "time_range": "00:23:40 - 00:25:28",
+        "participants": [
+          "Igor Golovtsov",
+          "Semeyon S",
+          "Alexey Afanasiev",
+          "Eugene"
+        ],
+        "keywords": [
+          "meeting",
+          "wrap",
+          "demo",
+          "cancellation"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "id": "statement_dmitry_smaliak_00_00_23",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:00:23",
+        "text": "No progress on DestinationDriver yet. Currently working on fixing tracking number in Destinations snapshots - copy table tracking number was not working.",
+        "sequence": 1,
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_00_47",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:00:47",
+        "text": "Was it completely broken?",
+        "sequence": 2,
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "statement_dmitry_smaliak_00_00_50",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:00:50",
+        "text": "Not working in the table. Previously worked on snapshots, but broke after update.",
+        "sequence": 3,
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_00_59",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:00:59",
+        "text": "Need to pull fresh core.next - fixed fallback value there.",
+        "sequence": 4,
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_02_09",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:02:09",
+        "text": "Requesting to show new columns - \"distance to the next destination\" and \"drive time to the next destination\"",
+        "sequence": 5,
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "statement_dmitry_smaliak_00_02_10",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:02:10",
+        "text": "Added them. Proper formatting is in place.",
+        "sequence": 6,
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_02_26",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:02:26",
+        "text": "Dan specifically requested these two columns. Need to add them to snapshots as well.",
+        "sequence": 7,
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "statement_dmitry_smaliak_00_02_41",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:02:41",
+        "text": "Will deploy this together with the tracking number fix via library update to snapshots.",
+        "sequence": 8,
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "statement_semeyon_s_00_04_16",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:04:16",
+        "text": "Strategic optimization and scenario filters are now deployed to staging.",
+        "sequence": 9,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_semeyon_s_00_04_25",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:04:25",
+        "text": "Igor Golovtsov, please add links to the numbers quickly.",
+        "sequence": 10,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_04_37",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:04:37",
+        "text": "This will be a link from strategic to routes.list with these filters activated, correct?",
+        "sequence": 11,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_05_04",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:05:04",
+        "text": "Are we sure this filter group should be \"assignment and attribution\"? I think not.",
+        "sequence": 12,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_semeyon_s_00_05_28",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:05:28",
+        "text": "This is not about assignment or attribution at all - it's about graph relationships. Not quite customer linking, but close.",
+        "sequence": 13,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_05_42",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:05:42",
+        "text": "I think this deserves a separate group.",
+        "sequence": 14,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_dmitry_smaliak_00_06_16",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:06:16",
+        "text": "Need a group name.",
+        "sequence": 15,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_06_26",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:06:26",
+        "text": "Something like \"strategic planning\" - the section is now called \"scenarios\"",
+        "sequence": 16,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_semeyon_s_00_06_30",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:06:30",
+        "text": "Let's call it \"strategic routing\"",
+        "sequence": 17,
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "statement_manar_kurmanov_00_09_41",
+        "type": "Statement",
+        "speaker_id": "person_manar_kurmanov",
+        "timestamp": "00:09:41",
+        "text": "Main update relates to optimization. New flow behind feature flag allows selecting from custom relocation via list or filters, or both.",
+        "sequence": 18,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_10_14",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:10:14",
+        "text": "Where are filter groupings?",
+        "sequence": 19,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_semeyon_s_00_10_29",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:10:29",
+        "text": "Serhii means groupings within filters. Custom relocation doesn't have them.",
+        "sequence": 20,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_10_54",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:10:54",
+        "text": "Let's never reference custom relocation as a model.",
+        "sequence": 21,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_manar_kurmanov_00_11_01",
+        "type": "Statement",
+        "speaker_id": "person_manar_kurmanov",
+        "timestamp": "00:11:01",
+        "text": "Understood. Moving forward: inclusion/exclusion modes work. New step is now common for entire optimization - can set name, select from facilities, or manually input addresses via search.",
+        "sequence": 22,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_12_10",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:12:10",
+        "text": "If creating through location selection, must specify start location. Multiple selections possible. Optimization can be renamed.",
+        "sequence": 23,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_manar_kurmanov_00_12_28",
+        "type": "Statement",
+        "speaker_id": "person_manar_kurmanov",
+        "timestamp": "00:12:28",
+        "text": "New name saves in the optimization itself.",
+        "sequence": 24,
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "statement_semeyon_s_00_20_24",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:20:24",
+        "text": "What's the status on table inline mode for scenarios, Igor?",
+        "sequence": 25,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_20_32",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:20:32",
+        "text": "Eugene made first step toward it, but incomplete.",
+        "sequence": 26,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_semeyon_s_00_20_35",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:20:35",
+        "text": "Unfinished, in short.",
+        "sequence": 27,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_semeyon_s_00_20_47",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:20:47",
+        "text": "Verbally then, Igor - did team add scenario deletion?",
+        "sequence": 28,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_20_55",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:20:55",
+        "text": "Optimization deletion was added, not scenarios.",
+        "sequence": 29,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_semeyon_s_00_20_59",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:20:59",
+        "text": "But there's a nuance - no pusher now, so works ugly. It works but need to manually refresh page.",
+        "sequence": 30,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_21_07",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:21:07",
+        "text": "Request is sent for deletion, and when successfully completed it re-requests the combine, but it's not updated yet, so doesn't disappear. Pushers will fix this.",
+        "sequence": 31,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_22_19",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:22:19",
+        "text": "Also useful: we now have creation status and errors for both scenarios and optimizations. Validation errors display for entire optimization if completely failed, or for specific scenario if partially failed.",
+        "sequence": 32,
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_22_30",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:22:30",
+        "text": "Serhii left, so won't review ERP. Routes, location, snapshot not ready either. That's all for today.",
+        "sequence": 33,
+        "topic_id": "topic_erp___assignment_board_status"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_22_54",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:22:54",
+        "text": "Documentation not ready either.",
+        "sequence": 34,
+        "topic_id": "topic_erp___assignment_board_status"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_23_22",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:23:22",
+        "text": "Assignment board status - not here at all, they're just switching today. In process.",
+        "sequence": 35,
+        "topic_id": "topic_erp___assignment_board_status"
+      },
+      {
+        "id": "statement_eugene_00_23_34",
+        "type": "Statement",
+        "speaker_id": "person_eugene",
+        "timestamp": "00:23:34",
+        "text": "For strategic, made small changes two weeks ago - added links, updated filters. Now going to design team to clarify two questions, then status will be clear.",
+        "sequence": 36,
+        "topic_id": "topic_erp___assignment_board_status"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_23_52",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:23:52",
+        "text": "What's the answer about tomorrow's demo?",
+        "sequence": 37,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_semeyon_s_00_23_58",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:23:58",
+        "text": "Won't happen. Dan cancelled, and I don't want to move so many people around for it.",
+        "sequence": 38,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_semeyon_s_00_24_14",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:24:14",
+        "text": "Basically, this internal mini-demo serves as replacement for tomorrow's demo. So we all sit together, look at results, get minimal feedback and move forward.",
+        "sequence": 39,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_24_43",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:24:43",
+        "text": "Eugene, let's join the current design call. Happens a bit earlier.",
+        "sequence": 40,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_eugene_00_24_52",
+        "type": "Statement",
+        "speaker_id": "person_eugene",
+        "timestamp": "00:24:52",
+        "text": "Let's wait until they finish with strategic.",
+        "sequence": 41,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_24_55",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:24:55",
+        "text": "I really want Igor to look at and listen to this too. Maybe even Serhii. I think we're about to build a spaceship.",
+        "sequence": 42,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      },
+      {
+        "id": "statement_alexey_afanasiev_00_25_01",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "00:25:01",
+        "text": "Igor will be there - Golovtsov.",
+        "sequence": 43,
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision_backend_fix_deployment",
+        "type": "Decision",
+        "description": "Deploy backend fix to snapshots and routes.list for tracking number issue",
+        "decided_by": "Serhii Kasainov",
+        "rationale": "Tracking number fallback logic was broken on AZUGA and other white label accounts",
+        "alternatives": [],
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "decision_column_deployment_strategy",
+        "type": "Decision",
+        "description": "Deploy new columns to snapshots immediately after testing, bundled with tracking number fix",
+        "decided_by": "Serhii Kasainov, Dmitry Smaliak",
+        "rationale": "Dan requested these columns, no issues found in testing",
+        "alternatives": [],
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "decision_filter_group_naming",
+        "type": "Decision",
+        "description": "Create separate filter group named \"Strategic Routing\" instead of placing under \"Assignment and Attribution\"",
+        "decided_by": "Semeyon S, Serhii Kasainov, Igor Skrynkovskyy",
+        "rationale": "The filters relate to graph relationships and strategic planning, not assignment/attribution. Section is called \"scenarios\" in menu.",
+        "alternatives": [
+          "Strategic Planning",
+          "Assignment and Attribution",
+          "scenarios"
+        ],
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "decision_feature_flag_strategy",
+        "type": "Decision",
+        "description": "Keep multiple depot feature flag support - don't remove it. Will clarify with Artur/Oleg Shulga on exact requirements.",
+        "decided_by": "Semeyon S, Igor Skrynkovskyy",
+        "rationale": "Product may be sold separately with different configurations. 5% have multiple depot capability. Early assumptions need validation.\n\n**[00:15:25] Igor Golovtsov:** Is \"database\" as label approved?\n\n**[00:15:36] Igor Skrynkovskyy:** Header says \"select locations\", and in Thursday demo I asked to write \"database\" here. Dan didn't complain - approved.\n\n**[00:15:54] Semeyon S:** Are we adding a map here to draw conditionally?\n\n**[00:16:12] Igor Skrynkovskyy:** Next iteration.\n\n**[00:16:30] Semeyon S:** Need to check default field set in this view to make sense. Very white space heavy now.\n\n**[00:16:57] Manar Kurmanov:** Need to configure on backend, it will come automatically. Need to verify if this is same as routes view or different custom view.\n\n**[00:17:12] Manar Kurmanov:** These are the major changes. Also looked at additional work from Vova - big developments there. Won't comment as not approved yet. One comment: might not be just two options (manual and selection). He mentioned business case where user wants to test which depot to buy to see business impact - something like that. They're designing now.\n\n**[00:19:45] Igor Golovtsov:** Don't get stuck on this, we'll figure it out.",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "issue_multiple_depot_feature_flag",
+        "type": "TechnicalIssue",
+        "description": "**[00:12:39] Semeyon S:** Does this multi-select facility/manual feature exist?\n\n**[00:12:53] Igor Skrynkovskyy:** Wait - nobody disabled depots. What feature flags control display of this radio button for facilities vs start location?\n\n**[00:13:15] Manar Kurmanov:** For facilities radio to show table, we have feature flag \"facility view\". For multiple vs single depot, I removed the feature yesterday after discussion that it wouldn't be needed and would be everywhere.\n\n**[00:13:44] Semeyon S:** Not exactly what we said. We said for first step we can assume heavy strategic clients always have multiple depots feature, but we need to support it in next steps even for single depot.\n\n**[00:14:13] Igor Golovtsov:** This came from someone who manages features - either Artur or Oleg Shulga.\n\n**[00:14:35] Igor Skrynkovskyy:** The question is about properly displaying this input button via feature flag. 5% have depot when they have multiply depot, others don't need it. This product might even be sold separately, so we can't predict which settings in which package ahead of time.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "decision_demo_cancellation",
+        "type": "Decision",
+        "description": "Cancel tomorrow's demo. This internal sync serves as replacement.",
+        "decided_by": "Dan, Semeyon S",
+        "rationale": "Dan cancelled; not worth coordinating large group. Internal mini-demo provides necessary feedback to continue.",
+        "alternatives": [],
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_contact_kovtunov_aleksandr_to_",
+        "type": "ActionItem",
+        "description": "Contact Kovtunov Aleksandr to deploy backend fix to snapshots",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "action_deploy_core_next_update_with_t",
+        "type": "ActionItem",
+        "description": "Deploy core.next update with tracking number fix",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "action_bundle_new_columns_with_tracki",
+        "type": "ActionItem",
+        "description": "Bundle new columns with tracking number fix for snapshot deployment",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "action_update_core_next_and_coordinat",
+        "type": "ActionItem",
+        "description": "Update core.next and coordinate with internal pages for modules",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "action_add_links_to_numbers_from_stra",
+        "type": "ActionItem",
+        "description": "Add links to numbers from strategic optimization",
+        "owner_id": "person_igor_golovtsov",
+        "status": "assigned",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_create__strategic_routing__fil",
+        "type": "ActionItem",
+        "description": "Create \"Strategic Routing\" filter group",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_confirm_filter_naming_with_dan",
+        "type": "ActionItem",
+        "description": "Confirm filter naming with Dan",
+        "owner_id": "person_semeyon_s",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_add_master_route_filtering_to_",
+        "type": "ActionItem",
+        "description": "Add master route filtering to Strategic Routing group (if available)",
+        "owner_id": "person_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_clarify_multiple_depot_feature",
+        "type": "ActionItem",
+        "description": "Clarify multiple depot feature flag requirements with Artur/Oleg Shulga",
+        "owner_id": "person_manar_kurmanov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_push_strategic_optimization_to",
+        "type": "ActionItem",
+        "description": "Push strategic optimization to staging ASAP",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_review_and_configure_default_f",
+        "type": "ActionItem",
+        "description": "Review and configure default field set for optimization view",
+        "owner_id": "person_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_complete_design_review_for_cre",
+        "type": "ActionItem",
+        "description": "Complete design review for Create Optimization process",
+        "owner_id": "person_design_team__vova_",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_complete_inline_edit_mode_impl",
+        "type": "ActionItem",
+        "description": "Complete inline edit mode implementation for scenarios",
+        "owner_id": "person_eugene",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "action_implement_pusher_support_for_o",
+        "type": "ActionItem",
+        "description": "Implement pusher support for optimization deletion",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "action_attend_design_call_about_strat",
+        "type": "ActionItem",
+        "description": "Attend design call about strategic optimization",
+        "owner_id": "person_alexey_afanasiev__eugene__igor_golovtsov",
+        "status": "scheduled",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_serhii_kasainov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_dmitry_smaliak",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_alexey_afanasiev",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_manar_kurmanov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_igor_golovtsov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_eugene",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "person_alexey_gusentsov",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "time_range": "00:00:00 - 00:04:00"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_00_23",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:00:23"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_00_23",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "sequence": 1
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_00_47",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:00:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_00_47",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "sequence": 2
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dmitry_smaliak_00_00_23",
+      "to": "statement_serhii_kasainov_00_00_47",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_00_50",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:00:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_00_50",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "sequence": 3
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_00_47",
+      "to": "statement_dmitry_smaliak_00_00_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_00_59",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:00:59"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_00_59",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "sequence": 4
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dmitry_smaliak_00_00_50",
+      "to": "statement_serhii_kasainov_00_00_59",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "decision_backend_fix_deployment",
+      "properties": {
+        "label": "Backend Fix Deployment"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_backend_fix_deployment",
+      "to": "person_serhii_kasainov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "action_contact_kovtunov_aleksandr_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_contact_kovtunov_aleksandr_to_",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "action_deploy_core_next_update_with_t",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_deploy_core_next_update_with_t",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "time_range": "00:02:00 - 00:04:00"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_02_09",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:02:09"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_02_09",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "sequence": 5
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_02_10",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:02:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_02_10",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "sequence": 6
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_02_09",
+      "to": "statement_dmitry_smaliak_00_02_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_02_26",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:02:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_02_26",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "sequence": 7
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dmitry_smaliak_00_02_10",
+      "to": "statement_serhii_kasainov_00_02_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_02_41",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:02:41"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_02_41",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "sequence": 8
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_02_26",
+      "to": "statement_dmitry_smaliak_00_02_41",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "decision_column_deployment_strategy",
+      "properties": {
+        "label": "Column Deployment Strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_column_deployment_strategy",
+      "to": "person_serhii_kasainov__dmitry_smaliak",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "action_bundle_new_columns_with_tracki",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_bundle_new_columns_with_tracki",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "action_update_core_next_and_coordinat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_update_core_next_and_coordinat",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "time_range": "00:04:00 - 00:09:00"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_04_16",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:04:16"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_04_16",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 9
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_04_25",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:04:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_04_25",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 10
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_04_16",
+      "to": "statement_semeyon_s_00_04_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_04_37",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:04:37"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_04_37",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 11
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_04_25",
+      "to": "statement_serhii_kasainov_00_04_37",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_05_04",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:05:04"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_05_04",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 12
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_04_37",
+      "to": "statement_serhii_kasainov_00_05_04",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_05_28",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:05:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_05_28",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 13
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_05_04",
+      "to": "statement_semeyon_s_00_05_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_05_42",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:05:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_05_42",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 14
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_05_28",
+      "to": "statement_serhii_kasainov_00_05_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_06_16",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:06:16"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_06_16",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 15
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_05_42",
+      "to": "statement_dmitry_smaliak_00_06_16",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_06_26",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:06:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_06_26",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 16
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dmitry_smaliak_00_06_16",
+      "to": "statement_serhii_kasainov_00_06_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_06_30",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:06:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_06_30",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "sequence": 17
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_06_26",
+      "to": "statement_semeyon_s_00_06_30",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "decision_filter_group_naming",
+      "properties": {
+        "label": "Filter Group Naming"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_filter_group_naming",
+      "to": "person_semeyon_s__serhii_kasainov__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_add_links_to_numbers_from_stra",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_links_to_numbers_from_stra",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "assigned",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_create__strategic_routing__fil",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create__strategic_routing__fil",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_confirm_filter_naming_with_dan",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_confirm_filter_naming_with_dan",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_add_master_route_filtering_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_master_route_filtering_to_",
+      "to": "person_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "time_range": "00:09:00 - 00:20:00"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_manar_kurmanov_00_09_41",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "timestamp": "00:09:41"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_manar_kurmanov_00_09_41",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 18
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_10_14",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:10:14"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_10_14",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 19
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_manar_kurmanov_00_09_41",
+      "to": "statement_serhii_kasainov_00_10_14",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_10_29",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:10:29"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_10_29",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 20
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_10_14",
+      "to": "statement_semeyon_s_00_10_29",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_10_54",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:10:54"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_10_54",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 21
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_10_29",
+      "to": "statement_igor_golovtsov_00_10_54",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_manar_kurmanov_00_11_01",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "timestamp": "00:11:01"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_manar_kurmanov_00_11_01",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 22
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_10_54",
+      "to": "statement_manar_kurmanov_00_11_01",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_12_10",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:12:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_12_10",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 23
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_manar_kurmanov_00_11_01",
+      "to": "statement_igor_skrynkovskyy_00_12_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_manar_kurmanov_00_12_28",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "timestamp": "00:12:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_manar_kurmanov_00_12_28",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "sequence": 24
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_12_10",
+      "to": "statement_manar_kurmanov_00_12_28",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "decision_feature_flag_strategy",
+      "properties": {
+        "label": "Feature Flag Strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_feature_flag_strategy",
+      "to": "person_semeyon_s__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_clarify_multiple_depot_feature",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_clarify_multiple_depot_feature",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_push_strategic_optimization_to",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_push_strategic_optimization_to",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_review_and_configure_default_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_review_and_configure_default_f",
+      "to": "person_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_complete_design_review_for_cre",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_design_review_for_cre",
+      "to": "person_design_team__vova_",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "issue_multiple_depot_feature_flag",
+      "properties": {
+        "label": "Multiple Depot Feature Flag"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "time_range": "00:20:00 - 00:22:30"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_20_24",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:20:24"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_20_24",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 25
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_20_32",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:20:32"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_20_32",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 26
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_20_24",
+      "to": "statement_igor_golovtsov_00_20_32",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_20_35",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:20:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_20_35",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 27
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_20_32",
+      "to": "statement_semeyon_s_00_20_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_20_47",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:20:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_20_47",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 28
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_20_35",
+      "to": "statement_semeyon_s_00_20_47",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_20_55",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:20:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_20_55",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 29
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_20_47",
+      "to": "statement_igor_golovtsov_00_20_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_20_59",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:20:59"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_20_59",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 30
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_20_55",
+      "to": "statement_semeyon_s_00_20_59",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_21_07",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:21:07"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_21_07",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 31
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_20_59",
+      "to": "statement_igor_golovtsov_00_21_07",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_22_19",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:22:19"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_22_19",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "sequence": 32
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_21_07",
+      "to": "statement_igor_golovtsov_00_22_19",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenarios_table___inline_edit_mode",
+      "to": "action_complete_inline_edit_mode_impl",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_inline_edit_mode_impl",
+      "to": "person_eugene",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenarios_table___inline_edit_mode",
+      "to": "action_implement_pusher_support_for_o",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_pusher_support_for_o",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_erp___assignment_board_status",
+      "properties": {
+        "time_range": "00:22:30 - 00:23:40"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_22_30",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:22:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_22_30",
+      "to": "topic_erp___assignment_board_status",
+      "properties": {
+        "sequence": 33
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_22_54",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:22:54"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_22_54",
+      "to": "topic_erp___assignment_board_status",
+      "properties": {
+        "sequence": 34
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_00_22_30",
+      "to": "statement_alexey_afanasiev_00_22_54",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_23_22",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:23:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_23_22",
+      "to": "topic_erp___assignment_board_status",
+      "properties": {
+        "sequence": 35
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_00_22_54",
+      "to": "statement_alexey_afanasiev_00_23_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_00_23_34",
+      "to": "person_eugene",
+      "properties": {
+        "timestamp": "00:23:34"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_00_23_34",
+      "to": "topic_erp___assignment_board_status",
+      "properties": {
+        "sequence": 36
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_00_23_22",
+      "to": "statement_eugene_00_23_34",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_team_sync___route4me_development",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "time_range": "00:23:40 - 00:25:28"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_23_52",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:23:52"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_23_52",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 37
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_23_58",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:23:58"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_23_58",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 38
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_23_52",
+      "to": "statement_semeyon_s_00_23_58",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_24_14",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:24:14"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_24_14",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 39
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_23_58",
+      "to": "statement_semeyon_s_00_24_14",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_24_43",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:24:43"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_24_43",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 40
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_24_14",
+      "to": "statement_alexey_afanasiev_00_24_43",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_00_24_52",
+      "to": "person_eugene",
+      "properties": {
+        "timestamp": "00:24:52"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_00_24_52",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 41
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_00_24_43",
+      "to": "statement_eugene_00_24_52",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_24_55",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:24:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_24_55",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 42
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_00_24_52",
+      "to": "statement_alexey_afanasiev_00_24_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_00_25_01",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "00:25:01"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_00_25_01",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "sequence": 43
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_00_24_55",
+      "to": "statement_alexey_afanasiev_00_25_01",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_meeting_wrap_up___demo_cancellation",
+      "to": "decision_demo_cancellation",
+      "properties": {
+        "label": "Demo Cancellation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_demo_cancellation",
+      "to": "person_dan__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_meeting_wrap_up___demo_cancellation",
+      "to": "action_attend_design_call_about_strat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_attend_design_call_about_strat",
+      "to": "person_alexey_afanasiev__eugene__igor_golovtsov",
+      "properties": {
+        "status": "scheduled",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 81,
+    "total_relationships": 179,
+    "node_counts": {
+      "meetings": 1,
+      "people": 9,
+      "topics": 7,
+      "statements": 43,
+      "decisions": 6,
+      "action_items": 15
+    }
+  }
+}
