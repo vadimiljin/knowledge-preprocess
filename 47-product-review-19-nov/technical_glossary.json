@@ -1,0 +1,80 @@
+{
+  "metadata": {
+    "source_quality": "full_transcript",
+    "verification_status": "verified",
+    "processed_date": "2025-11-22",
+    "meeting_date": "2025-11-19",
+    "transcript_accuracy": "94.5%"
+  },
+  "technical_terms": [
+    "DestinationDriver",
+    "tracking number",
+    "core.next",
+    "routes.list",
+    "snapshots",
+    "fallback",
+    "white label",
+    "strategic optimization",
+    "scenarios",
+    "feature flag",
+    "staging",
+    "backend",
+    "frontend",
+    "pusher",
+    "pushers",
+    "inline mode",
+    "validation",
+    "combine",
+    "assignment board",
+    "facilities",
+    "depot",
+    "multi-depot",
+    "locations",
+    "location selection",
+    "database view",
+    "filter grouping",
+    "strategic routing",
+    "assignment and attribution",
+    "customer linking",
+    "graph relationships",
+    "optimization",
+    "creation status",
+    "validation errors",
+    "internal pages"
+  ],
+  "product_names": [
+    "Route4Me",
+    "AZUGA",
+    "Neo4j"
+  ],
+  "code_elements": [
+    "routes.list",
+    "tracking_number",
+    "core.next",
+    "DestinationDriver",
+    "facility_view",
+    "distance_to_next_destination",
+    "drive_time_to_next_destination",
+    "strategic_optimization",
+    "scenarios_table"
+  ],
+  "company_terms": [
+    "strategic optimization",
+    "strategic routing",
+    "scenarios",
+    "white label",
+    "assignment and attribution",
+    "assignment board",
+    "location snapshot",
+    "destinations snapshot",
+    "compare routes",
+    "locations sync"
+  ],
+  "acronyms": [
+    "ERP",
+    "ASAP",
+    "API",
+    "UI",
+    "QA"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "metadata": {
+    "source_quality": "full_transcript_plus_summary",
+    "verification_status": "verified",
+    "processed_date": "2024-11-24",
+    "meeting_date": "2024-10-09"
+  },
+  "technical_terms": [
+    "Strategic Optimization",
+    "routes.list",
+    "calendar",
+    "wizard",
+    "scenario templates",
+    "draft route snapshot",
+    "breaks",
+    "routed",
+    "unrouted",
+    "time zone",
+    "weather layer",
+    "facility snapshot",
+    "map pin",
+    "vehicles visualization",
+    "users visualization",
+    "units architecture",
+    "operation limiter",
+    "billable units",
+    "consistency",
+    "backend",
+    "frontend",
+    "applied settings",
+    "date picker",
+    "time picker",
+    "forecast slider",
+    "depot",
+    "facility",
+    "locations",
+    "route editor",
+    "plan new route",
+    "UTC",
+    "timezone offset",
+    "local time",
+    "server time"
+  ],
+  "product_names": [
+    "Route4Me",
+    "Jira",
+    "Atlassian",
+    "Zoom"
+  ],
+  "code_elements": [
+    "routes.list",
+    "route_editor",
+    "plan_new_route",
+    "facility_page",
+    "R4MWEB-25942",
+    "map_tab",
+    "settings_tab"
+  ],
+  "company_terms": [
+    "Strategic Optimization",
+    "applied settings tab",
+    "scenario templates",
+    "draft route snapshot",
+    "facility snapshot",
+    "weather layer",
+    "operation limiter"
+  ],
+  "acronyms": [
+    "UI",
+    "UTC",
+    "RL",
+    "RE",
+    "QA"
+  ]
+}
