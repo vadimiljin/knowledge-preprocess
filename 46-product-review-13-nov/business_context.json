@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:40:01.480169",
+    "source_file": "46-product-review-13-nov/business_context.md",
+    "meeting_date": "2025-11-13"
+  },
+  "nodes": {
+    "directives": [
+      {
+        "id": "directive_2025-11-13_1",
+        "type": "Directive",
+        "number": 1,
+        "title": "Multi-Service Type Architecture Mandate",
+        "timestamp": "[00:05:43 - 00:11:44] (extended discussion)",
+        "directive_type": "CRITICAL_DIRECTIVE",
+        "authority_level": "CEO_FINAL_DECISION",
+        "urgency": "IMMEDIATE",
+        "assigned_to": "Vladimir Zhakhavets (architecture design), Backend Team (implementation)",
+        "deadline": "2025-11-20 (design concept presentation)",
+        "issue": "System architecture assumes one service type per customer location. Reality is clients have multiple service types (delivery, inspection, service, waste collection, etc.) at same location with different schedules, durations, and frequencies. Current limitation forces clients to use Excel with thousands of CSV files for planning.",
+        "business_impact": "Revenue",
+        "impact_severity": "Critical",
+        "emotion": "Frustrated and concerned",
+        "quotes": [
+          "We have a problem due to legacy decisions. Service time at the location level, but service time should be at the level of service type and location.",
+          "The second problem is the incorrect assumption that at the level of one location there is only one service type.",
+          "Right now I was talking with Parker about why we'll lose two deals right now. And it's because we can't plan from customer locations.",
+          "This thing you drew is 90% correct, but it's 10% useful for the types of clients that David wants us to sell to."
+        ],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_2",
+        "type": "Directive",
+        "number": 2,
+        "title": "Service Time Analytics Enhancement",
+        "timestamp": "[00:14:55 - 00:16:02]",
+        "directive_type": "STRATEGIC_DIRECTIVE",
+        "authority_level": "CEO_APPROVED with enhancement requirements",
+        "urgency": "THIS_SPRINT",
+        "assigned_to": "Vladimir Zhakhavets",
+        "deadline": "2025-11-20",
+        "issue": "Service Time analytics UI is good for management overview but doesn't solve operational planning problem. Need per-location intelligence that's actionable in editors, not just pretty reports.",
+        "business_impact": "User Experience + Operational Efficiency",
+        "impact_severity": "High",
+        "emotion": "Constructive and visionary",
+        "quotes": [],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_3",
+        "type": "Directive",
+        "number": 3,
+        "title": "Depot Selection UX Redesign",
+        "timestamp": "[00:30:11 - 00:33:08]",
+        "directive_type": "CRITICAL_DIRECTIVE",
+        "authority_level": "CEO_FINAL_DECISION",
+        "urgency": "IMMEDIATE",
+        "assigned_to": "Manar Kurmanov",
+        "deadline": "Immediate (no specific date - blocking issue)",
+        "issue": "Strategic optimization depot selection uses text input with geocoding. Enterprise clients have 15+ pre-configured depots and need table-based selection, not manual address entry.",
+        "business_impact": "Revenue (enterprise sales blocker)",
+        "impact_severity": "Critical",
+        "emotion": "Firm and decisive",
+        "quotes": [],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_4",
+        "type": "Directive",
+        "number": 4,
+        "title": "Strategic Solver Performance Goal",
+        "timestamp": "[00:37:26 - 00:39:04]",
+        "directive_type": "STRATEGIC_DIRECTIVE",
+        "authority_level": "CEO_APPROVED with roadmap",
+        "urgency": "LONG_TERM goal with interim solution",
+        "assigned_to": "Igor Skrynkovskyy, Backend Team",
+        "deadline": "No specific date - strategic goal",
+        "issue": "Strategic optimization taking 25 minutes for 5000 locations. Dan diagnosed as clustering inefficiency (clusters shouldn't exceed 2000 addresses).",
+        "business_impact": "User Experience",
+        "impact_severity": "High",
+        "emotion": "Analytical and pragmatic",
+        "quotes": [
+          "25 minutes for 5000 locations is still too long. This is symptom. Root cause is inefficient clustering.",
+          "Long-term goal should be 5-10 minutes maximum for any optimization.",
+          "As interim solution, while we optimize solver, let's set timeout at 30 minutes."
+        ],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_5",
+        "type": "Directive",
+        "number": 5,
+        "title": "Vehicle Tracking Visibility Crisis",
+        "timestamp": "[00:45:11 - 00:52:52] (extended discussion)",
+        "directive_type": "CRITICAL_DIRECTIVE",
+        "authority_level": "CRITICAL_DIRECTIVE",
+        "urgency": "IMMEDIATE",
+        "assigned_to": "Frontend Team, Backend Team, Architecture Team",
+        "deadline": "Immediate",
+        "issue": "Vehicle tracking functionality exists (15-year-old API) but completely hidden from users. After Telematics Gateway setup, users can't see vehicles because: (1) \"pending\" filter disabled by default, (2) map layers not enabled on Vehicles/Users pages, (3) no vehicle location visibility outside route context. Competitors correctly claim Route4Me lacks vehicle tracking.",
+        "business_impact": "Reputation + Competitive Position",
+        "impact_severity": "Critical",
+        "emotion": "Frustrated and embarrassed",
+        "quotes": [],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_6",
+        "type": "Directive",
+        "number": 6,
+        "title": "Show Raw GPS Points Immediately",
+        "timestamp": "[00:49:54 - 00:51:28]",
+        "directive_type": "PHILOSOPHY + DIRECTIVE",
+        "authority_level": "CEO_APPROVED",
+        "urgency": "IMMEDIATE (for raw points), LATER (for polylines)",
+        "assigned_to": "Backend Team",
+        "deadline": "Immediate for raw points",
+        "issue": "Team discussing waiting for polylines before showing vehicle tracking. Dan rejected this - wants raw points shown immediately via straightlines.",
+        "business_impact": "Time to market",
+        "impact_severity": "Medium",
+        "emotion": "Decisive and impatient",
+        "quotes": [
+          "Show the raw points FIRST. That's immediate solution. Straight lines connecting points every 30-60 seconds will look fine - much better than nothing.",
+          "Polylines are nice-to-have optimization. But data is there.",
+          "Priority one is to show SOMETHING. Priority two is to make it pretty."
+        ],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_7",
+        "type": "Directive",
+        "number": 7,
+        "title": "Address Book Map Performance Investigation",
+        "timestamp": "[00:41:02 - 00:41:38]",
+        "directive_type": "STRATEGIC_GUIDANCE",
+        "authority_level": "CEO_GUIDANCE",
+        "urgency": "LONG_TERM",
+        "assigned_to": "Design Team",
+        "deadline": "None specified",
+        "issue": "Optimization work reduced Address Book map load time, but Dan questioned root cause - why are users loading 10K addresses at once?",
+        "business_impact": "User Experience",
+        "impact_severity": "Low (acknowledged as \"symptom\")",
+        "emotion": "Neutral with curiosity",
+        "quotes": [
+          "Good work. But I wonder why users need to load 10,000 addresses at once. This suggests we don't have proper default views or smart filtering. Symptom of bigger UX problem."
+        ],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_8",
+        "type": "Directive",
+        "number": 8,
+        "title": "Dynamic Custom Service Types Table",
+        "timestamp": "[00:19:37 - 00:19:45]",
+        "directive_type": "FEATURE_REQUEST",
+        "authority_level": "CEO_APPROVED",
+        "urgency": "THIS_SPRINT (part of multi-service type architecture)",
+        "assigned_to": "Backend Team",
+        "deadline": "2025-11-20 (coordinated with architecture design)",
+        "issue": "Service types are hardcoded in database enum. Need table allowing system defaults plus user-defined custom types.",
+        "business_impact": "Flexibility + Scalability",
+        "impact_severity": "High",
+        "emotion": "Matter-of-fact technical requirement",
+        "quotes": [
+          "We need to make a service types table. Where there are enums that exist by default in the system [and user can add their own]."
+        ],
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "directive_2025-11-13_9",
+        "type": "Directive",
+        "number": 9,
+        "title": "For-Loop Abstraction Philosophy",
+        "timestamp": "[00:11:37 - 00:11:44] (brief but impactful)",
+        "directive_type": "PHILOSOPHY",
+        "authority_level": "CEO_PHILOSOPHY",
+        "urgency": "STRATEGIC pattern to address",
+        "assigned_to": "Strategic team / Architecture",
+        "deadline": "None specific - philosophical framework",
+        "issue": "Clients manually creating 25-50 CSV files because system doesn't support iterating scenarios (service time variations, multiple depots, what-if analysis).",
+        "business_impact": "Revenue + Operational Efficiency",
+        "impact_severity": "Critical",
+        "emotion": "Frustrated with repeated pattern",
+        "quotes": [
+          "We're talking about for-loop wrapper, that because of five for-loop wrappers we're losing millions of dollars.",
+          "We're losing millions of dollars due to absence of for-loops in async mode."
+        ],
+        "meeting_date": "2025-11-13"
+      }
+    ],
+    "leadership_patterns": [
+      {
+        "id": "leadership_vladimir_zhakhavets_2025-11-13",
+        "type": "LeadershipPattern",
+        "name": "Vladimir Zhakhavets",
+        "role": "UI/UX/Design",
+        "takes_initiative": "UI design, user experience, visual concepts",
+        "seeks_approval": "Major architectural changes, feature philosophy",
+        "authority_scope": "Design decisions, prototyping, concept presentation",
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "leadership_manar_kurmanov_2025-11-13",
+        "type": "LeadershipPattern",
+        "name": "Manar Kurmanov",
+        "role": "Frontend Engineer",
+        "takes_initiative": "UI implementation, workflow design",
+        "seeks_approval": "UX patterns, major interface changes",
+        "authority_scope": "Frontend implementation details, user flow design",
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "leadership_igor_skrynkovskyy_2025-11-13",
+        "type": "LeadershipPattern",
+        "name": "Igor Skrynkovskyy",
+        "role": "SVP Platform",
+        "takes_initiative": "Technical architecture, backend optimization, solver performance",
+        "seeks_approval": "Performance targets, timeout policies",
+        "authority_scope": "Backend technical decisions, platform architecture",
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "leadership_artur_moskalenko_2025-11-13",
+        "type": "LeadershipPattern",
+        "name": "Artur Moskalenko",
+        "role": "QA Director & Product Ops",
+        "takes_initiative": "Identifying quality issues, raising systemic problems",
+        "seeks_approval": "Major feature flag changes, default settings",
+        "authority_scope": "QA process, feature flag configuration, admin panel settings",
+        "meeting_date": "2025-11-13"
+      },
+      {
+        "id": "leadership_semeyon_svetliy_2025-11-13",
+        "type": "LeadershipPattern",
+        "name": "Semeyon Svetliy",
+        "role": "VP Platform",
+        "takes_initiative": "Strategic product questions, platform direction",
+        "seeks_approval": "Performance policies, timeouts, strategic priorities",
+        "authority_scope": "",
+        "meeting_date": "2025-11-13"
+      }
+    ]
+  }
+}

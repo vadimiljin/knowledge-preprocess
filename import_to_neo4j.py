@@ -4,6 +4,7 @@ Unified import script for meeting data and business context into Neo4j.
 """
 
 import json
+import os
 import sys
 from pathlib import Path
 from typing import Dict, List, Any
@@ -215,7 +216,7 @@ def main():
     # Configuration
     NEO4J_URI = "bolt://localhost:7687"
     NEO4J_USER = "neo4j"
-    NEO4J_PASSWORD = "YourPassword123"  # Change this to your password
+    NEO4J_PASSWORD = os.getenv("NEO4J_PASSWORD", "password")  # Set NEO4J_PASSWORD environment variable
     
     BASE_DIR = Path("/home/vadim/Projects/route4me.com/knowledge_preprocess")
     

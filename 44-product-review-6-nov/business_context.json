@@ -1,0 +1,62 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:39:54.995567",
+    "source_file": "44-product-review-6-nov/business_context.md",
+    "meeting_date": "2025-11-06"
+  },
+  "nodes": {
+    "directives": [],
+    "leadership_patterns": [
+      {
+        "id": "leadership_dan_khasis_2025-11-06",
+        "type": "LeadershipPattern",
+        "name": "Dan Khasis",
+        "role": "CEO",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-06"
+      },
+      {
+        "id": "leadership_serhii_kasainov_2025-11-06",
+        "type": "LeadershipPattern",
+        "name": "Serhii Kasainov",
+        "role": "Frontend Lead",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-06"
+      },
+      {
+        "id": "leadership_igor_skrynkovskyy_2025-11-06",
+        "type": "LeadershipPattern",
+        "name": "Igor Skrynkovskyy",
+        "role": "SVP Platform",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-06"
+      },
+      {
+        "id": "leadership_igor_golovtsov_2025-11-06",
+        "type": "LeadershipPattern",
+        "name": "Igor Golovtsov",
+        "role": "Senior Frontend Engineer",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-06"
+      },
+      {
+        "id": "leadership_vova_2025-11-06",
+        "type": "LeadershipPattern",
+        "name": "Vova",
+        "role": "UI/UX",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-06"
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:40:08.793787",
+    "source_file": "47-product-review-19-nov/business_context.md",
+    "meeting_date": "2025-11-19"
+  },
+  "nodes": {
+    "directives": [],
+    "leadership_patterns": [
+      {
+        "id": "leadership_semeyon_s_2025-11-19",
+        "type": "LeadershipPattern",
+        "name": "Semeyon S",
+        "role": "VP Platform",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-19"
+      },
+      {
+        "id": "leadership_igor_skrynkovskyy_2025-11-19",
+        "type": "LeadershipPattern",
+        "name": "Igor Skrynkovskyy",
+        "role": "SVP Platform",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-19"
+      },
+      {
+        "id": "leadership_serhii_kasainov_2025-11-19",
+        "type": "LeadershipPattern",
+        "name": "Serhii Kasainov",
+        "role": "Front-End Tech Lead",
+        "takes_initiative": "",
+        "seeks_approval": "",
+        "authority_scope": "",
+        "meeting_date": "2025-11-19"
+      }
+    ]
+  }
+}

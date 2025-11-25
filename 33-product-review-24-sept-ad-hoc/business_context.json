@@ -1,0 +1,42 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:39:05.335296",
+    "source_file": "33-product-review-24-sept-ad-hoc/business_context.md",
+    "meeting_date": "2025-09-24"
+  },
+  "nodes": {
+    "directives": [],
+    "leadership_patterns": [
+      {
+        "id": "leadership_dan_khasis_2025-09-24",
+        "type": "LeadershipPattern",
+        "name": "Dan Khasis",
+        "role": "CEO",
+        "takes_initiative": "Architecture decisions, strategic product direction, competitive positioning",
+        "seeks_approval": "N/A - Dan is ultimate approver",
+        "authority_scope": "Unlimited - final say on everything",
+        "meeting_date": "2025-09-24"
+      },
+      {
+        "id": "leadership_igor_skrynkovskyy_2025-09-24",
+        "type": "LeadershipPattern",
+        "name": "Igor Skrynkovskyy",
+        "role": "SVP Platform",
+        "takes_initiative": "Implementation questions, technical feasibility analysis, schema clarifications",
+        "seeks_approval": "Architecture approaches, design decisions",
+        "authority_scope": "Implementation autonomy within Dan's architecture",
+        "meeting_date": "2025-09-24"
+      },
+      {
+        "id": "leadership_serhii_kasainov_2025-09-24",
+        "type": "LeadershipPattern",
+        "name": "Serhii Kasainov",
+        "role": "Front-End Tech Lead",
+        "takes_initiative": "UI implementation approaches",
+        "seeks_approval": "User experience patterns",
+        "authority_scope": "Frontend implementation within product requirements",
+        "meeting_date": "2025-09-24"
+      }
+    ]
+  }
+}

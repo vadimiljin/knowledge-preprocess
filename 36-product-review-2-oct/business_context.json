@@ -1,0 +1,255 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:39:19.447066",
+    "source_file": "36-product-review-2-oct/business_context.md",
+    "meeting_date": "2025-10-02"
+  },
+  "nodes": {
+    "directives": [
+      {
+        "id": "directive_2025-10-02_1",
+        "type": "Directive",
+        "number": 1,
+        "title": "TimeZone Must Move to Backend (CRITICAL)",
+        "timestamp": "[00:03:12 - 00:12:47]",
+        "directive_type": "CRITICAL_ARCHITECTURAL_DIRECTIVE",
+        "authority_level": "CEO_FINAL_DECISION",
+        "urgency": "IMMEDIATE",
+        "assigned_to": "Backend Team, Frontend Team, Igor Skrynkovskyy",
+        "deadline": "Not explicitly stated but Dan's tone indicates this is blocking issue",
+        "issue": "Frontend currently holds 150K+ addresses in memory, does all TimeZone calculations, processes Time Windows with string manipulation. This creates:\n- MVC architectural violations\n- Inconsistency between Frontend and other access methods (SDK, Web Service, mobile)\n- Performance problems with large datasets\n- Code duplication across clients",
+        "business_impact": "Technical Debt, User Experience (inconsistency), Operational (maintenance nightmare)",
+        "impact_severity": "Critical",
+        "emotion": "Frustrated, emphatic (\"bit of an outrage\", \"what madness is it\")",
+        "quotes": [
+          "When Frontend does business logic, we know that's a problem",
+          "This is violation of MVC and violation of other architectural principles",
+          "Frontend deciding TimeZone is wrong",
+          "Backend won't work consistently - SDK or Web Service will have inconsistent behavior with Frontend",
+          "We'll need to implement this again inside mobile application",
+          "Frontend shouldn't even do this at all"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_2",
+        "type": "Directive",
+        "number": 2,
+        "title": "Consolidate All Gateways into Single Connections Section",
+        "timestamp": "[00:13:50 - 00:18:25]",
+        "directive_type": "STRATEGIC_DIRECTIVE",
+        "authority_level": "CEO_FINAL_DECISION",
+        "urgency": "THIS_SPRINT",
+        "assigned_to": "Frontend Team, Igor Skrynkovskyy",
+        "deadline": "Not specified but described as \"can be done at any time\"",
+        "issue": "Team was planning separate sections for each integration type (Telematics Gateway, ERP Gateway, CRM Gateway), creating UI bloat and maintenance burden.",
+        "business_impact": "User Experience (simpler), Technical Debt (less code), Operational (easier to maintain)",
+        "impact_severity": "Medium",
+        "emotion": "Pragmatic, strategic thinking",
+        "quotes": [
+          "Meaningless to grow another section - ERP Gateway, then CRM Gateway",
+          "Gateway is Gateway, Wizard selects by type",
+          "It renames to Connections, Connection Type appears, you can add anything",
+          "World has developed enough - all these systems have same classifications of objects",
+          "99% covered by: orders, vehicles, customers, customer locations, invoices, items"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_3",
+        "type": "Directive",
+        "number": 3,
+        "title": "Log All Egress Webhooks with Payload Examples",
+        "timestamp": "[00:22:19 - 00:24:54]",
+        "directive_type": "TECHNICAL_REQUIREMENT",
+        "authority_level": "CEO_TECHNICAL_REQUIREMENT",
+        "urgency": "THIS_SPRINT",
+        "assigned_to": "Backend Team (BigQuery logging), Frontend Team (UI)",
+        "deadline": "Not specified",
+        "issue": "Only logging incoming webhooks, not outgoing. Users need to see what Route4Me sends to their systems.",
+        "business_impact": "Customer Success (debugging), User Experience (transparency)",
+        "impact_severity": "Medium",
+        "emotion": "Technical precision, customer empathy",
+        "quotes": [
+          "We need to save all events, both incoming and those we send them",
+          "We don't always know what's in this webhook",
+          "Users will want to see example payload - template, specification or schema",
+          "So we have integration checker, test their API right from our system"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_4",
+        "type": "Directive",
+        "number": 4,
+        "title": "Strategic Optimization Summary Tab with Histogram",
+        "timestamp": "[00:48:34 - 00:54:35]",
+        "directive_type": "PRODUCT_VISION",
+        "authority_level": "CEO_PRODUCT_VISION",
+        "urgency": "LONG_TERM (explicitly said \"when you get to it\")",
+        "assigned_to": "Vova (design), Frontend Team (implementation)",
+        "deadline": "Future iteration",
+        "issue": "When users test many parameter combinations (visit frequency, working days, vehicle counts), they generate hundreds of scenarios and need quick way to find best ones.",
+        "business_impact": "User Experience (analysis speed), Competitive Advantage (advanced analytics)",
+        "impact_severity": "Medium",
+        "emotion": "Visionary, enthusiastic about advanced features",
+        "quotes": [
+          "New tab called summary",
+          "Histogram mode showing 100% routed - 10 scenarios, 95-99% - 10 scenarios",
+          "Click opens DeepLink filter",
+          "They don't need to walk through all bad ideas",
+          "Can generate 150-250 scenarios when testing different parameters",
+          "Need histogram because of combinatorial explosion"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_5",
+        "type": "Directive",
+        "number": 5,
+        "title": "Weather Layer as Premium Enterprise Feature",
+        "timestamp": "[01:46:45 - 01:50:22]",
+        "directive_type": "STRATEGIC_DIRECTIVE",
+        "authority_level": "CEO_STRATEGIC_DECISION",
+        "urgency": "THIS_WEEK (customer-facing)",
+        "assigned_to": "Parker Woodward (sales positioning), Product Team (packaging)",
+        "deadline": "Before customer demos",
+        "issue": "Weather Layer has API costs. Pricing strategy needed.",
+        "business_impact": "Revenue (new premium tier), Reputation (competitive differentiator)",
+        "impact_severity": "High",
+        "emotion": "Strategic, market-focused",
+        "quotes": [
+          "Weather Layer as premium feature for enterprise customers",
+          "Target weather-dependent industries: construction, utilities, field service, delivery",
+          "Has real API costs - data providers charge per request",
+          "Enterprise customers willing to pay premium for accurate forecast",
+          "Competitive analysis shows few competitors have this capability",
+          "Strong sales differentiator"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_6",
+        "type": "Directive",
+        "number": 6,
+        "title": "Facility Snapshot Must Have Clear Naming and Versioning",
+        "timestamp": "[01:57:10 - 02:15:18]",
+        "directive_type": "TECHNICAL_REQUIREMENT",
+        "authority_level": "CEO_TECHNICAL_REQUIREMENT",
+        "urgency": "THIS_SPRINT",
+        "assigned_to": "Alexey Gusentsov, Backend Team",
+        "deadline": "Not specified",
+        "issue": "Confusion about relationship between Snapshot and Location entities. Need clear data model.",
+        "business_impact": "User Experience (clarity), Compliance (audit trail)",
+        "impact_severity": "Medium",
+        "emotion": "Technical precision, detail-oriented",
+        "quotes": [
+          "Naming must clearly distinguish Snapshot from live Location data",
+          "Once created, Snapshot never changes - new updates create new version",
+          "Need version history, comparison between snapshots",
+          "Full audit trail of changes",
+          "Immutability ensures Snapshot integrity for audit purposes"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_7",
+        "type": "Directive",
+        "number": 7,
+        "title": "Map Layers Restructuring for Clarity",
+        "timestamp": "[02:36:24 - 02:39:50]",
+        "directive_type": "UX_DIRECTIVE",
+        "authority_level": "CEO_UX_DIRECTIVE",
+        "urgency": "THIS_SPRINT",
+        "assigned_to": "Vova (design), Frontend Team (implementation)",
+        "deadline": "Not specified",
+        "issue": "\"Locations\" appearing in multiple places causing user confusion about which locations they're viewing.",
+        "business_impact": "User Experience (clarity), Technical Debt (simpler code)",
+        "impact_severity": "Medium",
+        "emotion": "Problem-solving, clarifying",
+        "quotes": [
+          "One and same entity, just shown different ways (latitude/longitude vs heatmap)",
+          "Consolidate under Map Layers with location as parent, clustering/heatmap as child options",
+          "Remove separate locations section - causing confusion",
+          "Distinguish newly imported with qualifying label"
+        ],
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "directive_2025-10-02_8",
+        "type": "Directive",
+        "number": 8,
+        "title": "TimeZone Gantt Chart Timeline View",
+        "timestamp": "[01:39:33 - 01:40:38]",
+        "directive_type": "FEATURE_REQUEST",
+        "authority_level": "CEO_FEATURE_REQUEST",
+        "urgency": "LONG_TERM",
+        "assigned_to": "Vova (design)",
+        "deadline": "Not specified",
+        "issue": "Gantt chart timeline needs TimeZone selector so users can view schedule in preferred TimeZone.",
+        "business_impact": "User Experience (flexibility)",
+        "impact_severity": "Low",
+        "emotion": "Collaborative, giving design guidance",
+        "quotes": [
+          "Design timeline where they can select TimeZone for Gantt chart",
+          "They can choose computer hour, any arbitrary TimeZone, or show all in their TimeZone with each route having offset",
+          "Must be done very cleanly",
+          "First thing to do is let them choose what they want to see on Gantt chart"
+        ],
+        "meeting_date": "2025-10-02"
+      }
+    ],
+    "leadership_patterns": [
+      {
+        "id": "leadership_dan_khasis_2025-10-02",
+        "type": "LeadershipPattern",
+        "name": "Dan Khasis",
+        "role": "CEO",
+        "takes_initiative": "Architectural mandates, strategic product direction, pricing/packaging, resolving naming confusion",
+        "seeks_approval": "None (final authority)",
+        "authority_scope": "Everything - architecture, product, pricing, UX details",
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "leadership_semeyon_s_2025-10-02",
+        "type": "LeadershipPattern",
+        "name": "Semeyon S",
+        "role": "VP Platform",
+        "takes_initiative": "Implementation details, technical feasibility assessments",
+        "seeks_approval": "Major product changes, UX decisions",
+        "authority_scope": "Technical implementation within approved product direction",
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "leadership_igor_skrynkovskyy_2025-10-02",
+        "type": "LeadershipPattern",
+        "name": "Igor Skrynkovskyy",
+        "role": "SVP Platform",
+        "takes_initiative": "Technical architecture decisions, system integrations",
+        "seeks_approval": "Major changes visible to users",
+        "authority_scope": "Platform architecture within approved strategy",
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "leadership_vova_2025-10-02",
+        "type": "LeadershipPattern",
+        "name": "Vova",
+        "role": "Design Lead",
+        "takes_initiative": "Design proposals, UX flows",
+        "seeks_approval": "Design directions, interaction patterns",
+        "authority_scope": "Visual design and UX within product requirements",
+        "meeting_date": "2025-10-02"
+      },
+      {
+        "id": "leadership_parker_woodward_2025-10-02",
+        "type": "LeadershipPattern",
+        "name": "Parker Woodward",
+        "role": "Sales",
+        "takes_initiative": "Customer feedback, market intelligence",
+        "seeks_approval": "Pricing, positioning",
+        "authority_scope": "Sales strategy within product capabilities",
+        "meeting_date": "2025-10-02"
+      }
+    ]
+  }
+}
