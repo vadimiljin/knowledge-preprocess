@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "source_quality": "full_transcript",
+    "verification_status": "verified",
+    "processed_date": "2024-11-24",
+    "meeting_date": "2025-09-04"
+  },
+  "technical_terms": [
+    "Drag'n'Drop",
+    "Routes Map",
+    "Route Editor",
+    "Facility Assignment",
+    "User Assignment",
+    "Customer Location",
+    "Notification Settings",
+    "Account Settings",
+    "Organization Settings",
+    "Map Settings",
+    "Map Layers",
+    "Weather Layer",
+    "Telematics",
+    "Asset Snapshot",
+    "Location History",
+    "Event History",
+    "Tracking",
+    "Configuration Case",
+    "Default Fields",
+    "Input Volume",
+    "Audio Device",
+    "Time-based",
+    "LLM",
+    "Fallback",
+    "Billing",
+    "Features",
+    "Modules",
+    "SMS",
+    "Email",
+    "API",
+    "Backend",
+    "Frontend"
+  ],
+  "product_names": [
+    "Iron Mountain",
+    "Samsara",
+    "Route4Me",
+    "Geotab",
+    "BlueNet",
+    "Zoom",
+    "Slack",
+    "Customer Portal"
+  ],
+  "code_elements": [
+    "routes.list",
+    "routes-map",
+    "route-editor",
+    "staging",
+    "production",
+    "deploy",
+    "JSON"
+  ],
+  "company_terms": [
+    "Assignment Board",
+    "Bulk Action",
+    "Drawer",
+    "Facility Snapshot",
+    "Asset Type",
+    "Asset Details",
+    "Customer Locations",
+    "Organization Settings",
+    "Product Review",
+    "White Label"
+  ],
+  "acronyms": [
+    "UI",
+    "UX",
+    "API",
+    "SMS",
+    "LLM",
+    "RPM"
+  ]
+}
