@@ -1,0 +1,1563 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:41.396038",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+        "type": "Meeting",
+        "title": "Product Review - Strategic Planning & Feature Releases",
+        "date": "2025-11-06",
+        "duration": "03:01:25",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Serhii Kasainov (Frontend Lead)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Semeyon S (VP Platform)",
+          "Vova (UI/UX)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Manar Kurmanov (Frontend Engineer)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Artur Moskalenko (QA Director)",
+          "Davron Usmonov (Frontend Engineer)",
+          "Alex Shulga (QA)",
+          "Mihail Krivulya (Backend Engineer)",
+          "Volodymyr Ishchenko (QA)",
+          "Maksym Silman (QA)",
+          "Oleg Pravyk (QA)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__frontend_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__ui_ux_",
+        "type": "Person",
+        "name": "Vova (UI/UX)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_manar_kurmanov__frontend_engineer_",
+        "type": "Person",
+        "name": "Manar Kurmanov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_davron_usmonov__frontend_engineer_",
+        "type": "Person",
+        "name": "Davron Usmonov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alex_shulga__qa_",
+        "type": "Person",
+        "name": "Alex Shulga (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_mihail_krivulya__backend_engineer_",
+        "type": "Person",
+        "name": "Mihail Krivulya (Backend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_volodymyr_ishchenko__qa_",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_maksym_silman__qa_",
+        "type": "Person",
+        "name": "Maksym Silman (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_oleg_pravyk__qa_",
+        "type": "Person",
+        "name": "Oleg Pravyk (QA)",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_destination_snapshot_release_review",
+        "type": "Topic",
+        "label": "Destination Snapshot Release Review",
+        "time_range": "00:03:14 - 00:25:59",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Vova",
+          "Alexey Gusentsov",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "destination",
+          "snapshot",
+          "release",
+          "review"
+        ]
+      },
+      {
+        "id": "topic_sap_connection_interface_review",
+        "type": "Topic",
+        "label": "SAP Connection Interface Review",
+        "time_range": "00:26:22 - 00:46:44",
+        "participants": [
+          "Dan Khasis",
+          "Davron Usmonov",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "sap",
+          "connection",
+          "interface",
+          "review"
+        ]
+      },
+      {
+        "id": "topic_visit_details_interface___time_window_violations",
+        "type": "Topic",
+        "label": "Visit Details Interface & Time Window Violations",
+        "time_range": "00:47:02 - 01:01:22",
+        "participants": [
+          "Dan Khasis",
+          "Alexey Gusentsov",
+          "Vova",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "visit",
+          "details",
+          "interface",
+          "time",
+          "window"
+        ]
+      },
+      {
+        "id": "topic_service_time_analytics_widget_redesign",
+        "type": "Topic",
+        "label": "Service Time Analytics Widget Redesign",
+        "time_range": "01:01:22 - 01:32:11",
+        "participants": [
+          "Dan Khasis",
+          "Alexey Gusentsov",
+          "Vova",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "service",
+          "time",
+          "analytics",
+          "widget",
+          "redesign"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+        "type": "Topic",
+        "label": "Strategic Optimizations - Scatter Plot, Radar Chart, AI Generator",
+        "time_range": "01:32:11 - 02:03:01",
+        "participants": [
+          "Dan Khasis",
+          "Manar Kurmanov",
+          "Igor Golovtsov",
+          "Semeyon S",
+          "Vova",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "optimizations",
+          "scatter",
+          "plot",
+          "radar"
+        ]
+      },
+      {
+        "id": "topic_route_balancing___noodle_routes_problem",
+        "type": "Topic",
+        "label": "Route Balancing & Noodle Routes Problem",
+        "time_range": "02:11:31 - 02:24:15",
+        "participants": [
+          "Dan Khasis",
+          "Igor Skrynkovskyy",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "route",
+          "balancing",
+          "noodle",
+          "routes",
+          "problem"
+        ]
+      },
+      {
+        "id": "topic_administrative_items___quick_decisions",
+        "type": "Topic",
+        "label": "Administrative Items & Quick Decisions",
+        "time_range": "02:24:15 - 03:04:21",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy",
+          "Alex Shulga",
+          "Vova"
+        ],
+        "keywords": [
+          "administrative",
+          "items",
+          "quick",
+          "decisions"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_block_destination_snapshot_release",
+        "type": "Decision",
+        "description": "Block destination snapshot release until critical contextual links and proper History tab are implemented",
+        "decided_by": "Dan",
+        "rationale": "Without links to Order, Customer, Customer Location, Strategic Route, and proper geofence visualization, the snapshot has no practical value to users. The History tab must show historical visits to the address, not activity feed. [CEO_REJECTED current implementation]",
+        "alternatives": [
+          "Release as-is with minor fixes",
+          "Delay indefinitely"
+        ],
+        "topic_id": "topic_destination_snapshot_release_review"
+      },
+      {
+        "id": "decision_utc_display_for_technical_fields",
+        "type": "Decision",
+        "description": "All technical timestamp fields (created_at, updated_at) must display in UTC format with explicit indication in column headers",
+        "decided_by": "Dan",
+        "rationale": "Prevents confusion during log analysis and transaction troubleshooting. Technical fields are for debugging, not user time visualization. [CEO_FINAL_DECISION on technical standards]",
+        "alternatives": [],
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "decision_archive_mechanism_for_atoms",
+        "type": "Decision",
+        "description": "Implement archive flag for atoms similar to active/inactive for vehicles",
+        "decided_by": "Dan",
+        "rationale": "Allows hiding obsolete or incorrect data from SAP that cannot be deleted from source system, keeping interface clean for drivers and users. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "decision_rebrand_telematics_to_connections",
+        "type": "Decision",
+        "description": "Rename Telematics section to Connections, with future evolution to Asset Tracking",
+        "decided_by": "Dan",
+        "rationale": "Better reflects actual functionality and future direction of integration capabilities. [CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "decision_time_window_violation_detection",
+        "type": "Decision",
+        "description": "System must detect and visually indicate time window violations with icon (yellow/red triangle) plus specific minutes early/late, regardless of whether route used optimization",
+        "decided_by": "Dan",
+        "rationale": "Critical for customer operations planning. Backend must calculate violations for all routes. Specific minutes give actionable data. [CEO_CRITICAL_DIRECTIVE - customer-facing feature]",
+        "alternatives": [],
+        "topic_id": "topic_visit_details_interface___time_window_violations"
+      },
+      {
+        "id": "decision_service_time_widget_logic_redesign",
+        "type": "Decision",
+        "description": "Complete redesign of service time analytics widget to focus on plan versus actual comparison with neutral color palette and required user controls (data type selector, date range picker)",
+        "decided_by": "Dan",
+        "rationale": "Current widget provides no actionable insights. Plan vs actual comparison is what customers need. Colors are misleading without configurable metric direction. [CEO_REJECTED current implementation, CRITICAL_DIRECTIVE for redesign]",
+        "alternatives": [],
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "decision_hide_radar_chart",
+        "type": "Decision",
+        "description": "Remove Radar Chart from interface until complete redesign",
+        "decided_by": "Dan",
+        "rationale": "Current visualization looks terrible and scares users. Not ready for release. [CEO_REJECTED current implementation]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "decision_man_hours_global_metric",
+        "type": "Decision",
+        "description": "Add Man-Hours concept (Service Time × Worker Count) to data model and begin tracking throughout system",
+        "decided_by": "Dan",
+        "rationale": "Critically important metric for service businesses affecting cost calculations and efficiency metrics. Currently missing from entire platform. [CEO_CRITICAL_DIRECTIVE - platform-wide change]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "decision_ai_generator_immediate_deployment",
+        "type": "Decision",
+        "description": "Prioritize AI scenario generator for immediate video demo and partnership presentations",
+        "decided_by": "Dan",
+        "rationale": "Prototype is perfectly correct and represents major competitive advantage. Must showcase to partners immediately. [CEO_APPROVED with HIGHEST_PRIORITY]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "decision_communication_protocol_for_client_issues",
+        "type": "Decision",
+        "description": "Juan must immediately share all client data, datasets, examples, and correspondence with Igor's algorithm team for systematic problem solving",
+        "decided_by": "Dan",
+        "rationale": "Critical communication failure - sales team working in isolation for weeks while development team unaware of major client issues. Problems must be solved systematically through algorithm improvements, not manual intervention. [CEO_FRUSTRATED - organizational dysfunction]",
+        "alternatives": [],
+        "topic_id": "topic_route_balancing___noodle_routes_problem"
+      },
+      {
+        "id": "issue_route_balancing_for_major_client",
+        "type": "TechnicalIssue",
+        "description": "**[02:11:31] Igor Skrynkovskyy**: Major client experiencing suboptimal routes - fewer routes created but they are longer and inefficient. Hypothesis is FedEx clustering algorithm not enabled for this client, which solves noodle routes and creates human-like geometry.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_route_balancing___noodle_routes_problem"
+      },
+      {
+        "id": "decision_stop_limits_configuration_delegation",
+        "type": "Decision",
+        "description": "Train QA team (Alex Shulga) to configure client stop limits via Postman until admin panel UI is available",
+        "decided_by": "Dan (implicit approval)",
+        "rationale": "Feature ready but API-only. Delegation prevents overloading Juan with manual configuration tasks. [CEO_APPROVED delegation approach]",
+        "alternatives": [],
+        "topic_id": "topic_administrative_items___quick_decisions"
+      },
+      {
+        "id": "decision_facility_custom_data_announcement_scope",
+        "type": "Decision",
+        "description": "Announce facility custom data API only to internal people, not external clients",
+        "decided_by": "Dan",
+        "rationale": "No UI available yet for end users. Premature external announcement would create support burden. [CEO_FINAL_DECISION]",
+        "alternatives": [],
+        "topic_id": "topic_administrative_items___quick_decisions"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_add_clickable_links_to_custome",
+        "type": "ActionItem",
+        "description": "Add clickable links to Customer and Customer Location on destination snapshot",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_destination_snapshot_release_review"
+      },
+      {
+        "id": "action_rework_history_tab_to_show_all",
+        "type": "ActionItem",
+        "description": "Rework History tab to show all previous visits to address (not activity feed)",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_destination_snapshot_release_review"
+      },
+      {
+        "id": "action_redesign_activities_tab_to_sho",
+        "type": "ActionItem",
+        "description": "Redesign Activities tab to show driver notes and proof of visit",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destination_snapshot_release_review"
+      },
+      {
+        "id": "action_add_geofence_polygon_visualiza",
+        "type": "ActionItem",
+        "description": "Add geofence polygon visualization on map when available",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destination_snapshot_release_review"
+      },
+      {
+        "id": "action_fix_all_formatting_issues___da",
+        "type": "ActionItem",
+        "description": "Fix all formatting issues - date format, add column selector and export",
+        "owner_id": "person_davron_usmonov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_display_technical_time_fields_",
+        "type": "ActionItem",
+        "description": "Display technical time fields in UTC with explicit labeling in headers",
+        "owner_id": "person_davron_usmonov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_implement_backend_mechanism_fo",
+        "type": "ActionItem",
+        "description": "Implement backend mechanism for archive flags on atoms",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_implement_frontend_support_for",
+        "type": "ActionItem",
+        "description": "Implement frontend support for atom archive flags",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_rename_telematics_section_to_c",
+        "type": "ActionItem",
+        "description": "Rename Telematics section to Connections across interface",
+        "owner_id": "person_davron_usmonov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_configure_permanent_redirect_f",
+        "type": "ActionItem",
+        "description": "Configure permanent redirect from old Telematics URL to new Connections URL",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_sap_connection_interface_review"
+      },
+      {
+        "id": "action_implement_time_window_violatio",
+        "type": "ActionItem",
+        "description": "Implement time window violation detection for all routes regardless of optimization method",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_visit_details_interface___time_window_violations"
+      },
+      {
+        "id": "action_add_visual_indicator__yellow_r",
+        "type": "ActionItem",
+        "description": "Add visual indicator (yellow/red triangle) for time window violations",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_visit_details_interface___time_window_violations"
+      },
+      {
+        "id": "action_display_specific_minutes_early",
+        "type": "ActionItem",
+        "description": "Display specific minutes early/late alongside violation indicator",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_visit_details_interface___time_window_violations"
+      },
+      {
+        "id": "action_verify_time_window_constraints",
+        "type": "ActionItem",
+        "description": "Verify time window constraints are respected during route optimization",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_visit_details_interface___time_window_violations"
+      },
+      {
+        "id": "action_implement_plan_vs_actual_as_pr",
+        "type": "ActionItem",
+        "description": "Implement plan vs actual as primary widget logic",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_provide_plan_vs_actual_compari",
+        "type": "ActionItem",
+        "description": "Provide plan vs actual comparison data via API",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_change_color_palette_to_neutra",
+        "type": "ActionItem",
+        "description": "Change color palette to neutral single-color gradient until metric direction is configurable",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_add_data_type_selector__report",
+        "type": "ActionItem",
+        "description": "Add data type selector (Reported/Detected vs Planned) to UI",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_add_date_range_picker_for_time",
+        "type": "ActionItem",
+        "description": "Add Date Range Picker for time period selection",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_add_visit_count_to_tooltip_for",
+        "type": "ActionItem",
+        "description": "Add visit count to tooltip for each cell",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_widget_redesign"
+      },
+      {
+        "id": "action_hide_radar_chart_from_interfac",
+        "type": "ActionItem",
+        "description": "Hide Radar Chart from interface until redesign",
+        "owner_id": "person_manar_kurmanov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_add_filters_to_scatter_plot_fo",
+        "type": "ActionItem",
+        "description": "Add filters to Scatter Plot for route selection",
+        "owner_id": "person_manar_kurmanov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_make_scatter_plot_points_click",
+        "type": "ActionItem",
+        "description": "Make Scatter Plot points clickable to drill into details",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_add_man_hours_concept_to_data_",
+        "type": "ActionItem",
+        "description": "Add Man-Hours concept to data model",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_implement_man_hours_calculatio",
+        "type": "ActionItem",
+        "description": "Implement Man-Hours calculations across system",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_record_video_demo_of_ai_genera",
+        "type": "ActionItem",
+        "description": "Record video demo of AI generator for partners",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_continue_ai_generator_developm",
+        "type": "ActionItem",
+        "description": "Continue AI generator development in chat format",
+        "owner_id": "person_semeyon_s",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_expand_ai_generator_to_support",
+        "type": "ActionItem",
+        "description": "Expand AI generator to support multiple scenario generation from single request",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator"
+      },
+      {
+        "id": "action_urgently_contact_juan_and_obta",
+        "type": "ActionItem",
+        "description": "Urgently contact Juan and obtain all client data for problem analysis",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_route_balancing___noodle_routes_problem"
+      },
+      {
+        "id": "action_test_with_clustering_algorithm",
+        "type": "ActionItem",
+        "description": "Test with clustering algorithm enabled for this client",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_route_balancing___noodle_routes_problem"
+      },
+      {
+        "id": "action_train_alex_shulga_to_configure",
+        "type": "ActionItem",
+        "description": "Train Alex Shulga to configure stop limits via Postman",
+        "owner_id": "person_qa_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_administrative_items___quick_decisions"
+      },
+      {
+        "id": "action_send_facility_custom_data_anno",
+        "type": "ActionItem",
+        "description": "Send facility custom data announcement to internal team only",
+        "owner_id": "person_artur_moskalenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_administrative_items___quick_decisions"
+      },
+      {
+        "id": "action_schedule_morning_discussion_wi",
+        "type": "ActionItem",
+        "description": "Schedule morning discussion with Dan about after assignment and mobile designs (conditional on balancing progress)",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_administrative_items___quick_decisions"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_serhii_kasainov__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_vova__ui_ux_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_manar_kurmanov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_davron_usmonov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_alex_shulga__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_mihail_krivulya__backend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_volodymyr_ishchenko__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_maksym_silman__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "person_oleg_pravyk__qa_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_destination_snapshot_release_review",
+      "properties": {
+        "time_range": "00:03:14 - 00:25:59"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_destination_snapshot_release_review",
+      "to": "decision_block_destination_snapshot_release",
+      "properties": {
+        "label": "Block Destination Snapshot Release"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_block_destination_snapshot_release",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destination_snapshot_release_review",
+      "to": "action_add_clickable_links_to_custome",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_clickable_links_to_custome",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destination_snapshot_release_review",
+      "to": "action_rework_history_tab_to_show_all",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rework_history_tab_to_show_all",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destination_snapshot_release_review",
+      "to": "action_redesign_activities_tab_to_sho",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_redesign_activities_tab_to_sho",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destination_snapshot_release_review",
+      "to": "action_add_geofence_polygon_visualiza",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_geofence_polygon_visualiza",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_sap_connection_interface_review",
+      "properties": {
+        "time_range": "00:26:22 - 00:46:44"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_sap_connection_interface_review",
+      "to": "decision_utc_display_for_technical_fields",
+      "properties": {
+        "label": "UTC Display for Technical Fields"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_utc_display_for_technical_fields",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_sap_connection_interface_review",
+      "to": "decision_archive_mechanism_for_atoms",
+      "properties": {
+        "label": "Archive Mechanism for Atoms"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_archive_mechanism_for_atoms",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_sap_connection_interface_review",
+      "to": "decision_rebrand_telematics_to_connections",
+      "properties": {
+        "label": "Rebrand Telematics to Connections"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_rebrand_telematics_to_connections",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_fix_all_formatting_issues___da",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_all_formatting_issues___da",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_display_technical_time_fields_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_display_technical_time_fields_",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_implement_backend_mechanism_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_backend_mechanism_fo",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_implement_frontend_support_for",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_frontend_support_for",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_rename_telematics_section_to_c",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rename_telematics_section_to_c",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_sap_connection_interface_review",
+      "to": "action_configure_permanent_redirect_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_configure_permanent_redirect_f",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_visit_details_interface___time_window_violations",
+      "properties": {
+        "time_range": "00:47:02 - 01:01:22"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_visit_details_interface___time_window_violations",
+      "to": "decision_time_window_violation_detection",
+      "properties": {
+        "label": "Time Window Violation Detection"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_time_window_violation_detection",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_visit_details_interface___time_window_violations",
+      "to": "action_implement_time_window_violatio",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_time_window_violatio",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_visit_details_interface___time_window_violations",
+      "to": "action_add_visual_indicator__yellow_r",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_visual_indicator__yellow_r",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_visit_details_interface___time_window_violations",
+      "to": "action_display_specific_minutes_early",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_display_specific_minutes_early",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_visit_details_interface___time_window_violations",
+      "to": "action_verify_time_window_constraints",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_verify_time_window_constraints",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_service_time_analytics_widget_redesign",
+      "properties": {
+        "time_range": "01:01:22 - 01:32:11"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "decision_service_time_widget_logic_redesign",
+      "properties": {
+        "label": "Service Time Widget Logic Redesign"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_service_time_widget_logic_redesign",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_implement_plan_vs_actual_as_pr",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_plan_vs_actual_as_pr",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_provide_plan_vs_actual_compari",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_provide_plan_vs_actual_compari",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_change_color_palette_to_neutra",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_change_color_palette_to_neutra",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_add_data_type_selector__report",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_data_type_selector__report",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_add_date_range_picker_for_time",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_date_range_picker_for_time",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_widget_redesign",
+      "to": "action_add_visit_count_to_tooltip_for",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_visit_count_to_tooltip_for",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "properties": {
+        "time_range": "01:32:11 - 02:03:01"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "decision_hide_radar_chart",
+      "properties": {
+        "label": "Hide Radar Chart"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_hide_radar_chart",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "decision_man_hours_global_metric",
+      "properties": {
+        "label": "Man-Hours Global Metric"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_man_hours_global_metric",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "decision_ai_generator_immediate_deployment",
+      "properties": {
+        "label": "AI Generator Immediate Deployment"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_ai_generator_immediate_deployment",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_hide_radar_chart_from_interfac",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_hide_radar_chart_from_interfac",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_add_filters_to_scatter_plot_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_filters_to_scatter_plot_fo",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_make_scatter_plot_points_click",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_make_scatter_plot_points_click",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_add_man_hours_concept_to_data_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_man_hours_concept_to_data_",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_implement_man_hours_calculatio",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_man_hours_calculatio",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_record_video_demo_of_ai_genera",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_record_video_demo_of_ai_genera",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_continue_ai_generator_developm",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_continue_ai_generator_developm",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimizations___scatter_plot__radar_chart__ai_generator",
+      "to": "action_expand_ai_generator_to_support",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_expand_ai_generator_to_support",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_route_balancing___noodle_routes_problem",
+      "properties": {
+        "time_range": "02:11:31 - 02:24:15"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_route_balancing___noodle_routes_problem",
+      "to": "decision_communication_protocol_for_client_issues",
+      "properties": {
+        "label": "Communication Protocol for Client Issues"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_communication_protocol_for_client_issues",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_balancing___noodle_routes_problem",
+      "to": "action_urgently_contact_juan_and_obta",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_urgently_contact_juan_and_obta",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_balancing___noodle_routes_problem",
+      "to": "action_test_with_clustering_algorithm",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_test_with_clustering_algorithm",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_route_balancing___noodle_routes_problem",
+      "to": "issue_route_balancing_for_major_client",
+      "properties": {
+        "label": "Route Balancing for Major Client"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_06_product_review___strategic_planning___feature_releases",
+      "to": "topic_administrative_items___quick_decisions",
+      "properties": {
+        "time_range": "02:24:15 - 03:04:21"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_administrative_items___quick_decisions",
+      "to": "decision_stop_limits_configuration_delegation",
+      "properties": {
+        "label": "Stop Limits Configuration Delegation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_stop_limits_configuration_delegation",
+      "to": "person_dan__implicit_approval_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_administrative_items___quick_decisions",
+      "to": "decision_facility_custom_data_announcement_scope",
+      "properties": {
+        "label": "Facility Custom Data Announcement Scope"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_facility_custom_data_announcement_scope",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_administrative_items___quick_decisions",
+      "to": "action_train_alex_shulga_to_configure",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_train_alex_shulga_to_configure",
+      "to": "person_qa_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_administrative_items___quick_decisions",
+      "to": "action_send_facility_custom_data_anno",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_send_facility_custom_data_anno",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_administrative_items___quick_decisions",
+      "to": "action_schedule_morning_discussion_wi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_schedule_morning_discussion_wi",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 70,
+    "total_relationships": 114,
+    "node_counts": {
+      "meetings": 1,
+      "people": 16,
+      "topics": 7,
+      "statements": 0,
+      "decisions": 13,
+      "action_items": 33
+    }
+  }
+}

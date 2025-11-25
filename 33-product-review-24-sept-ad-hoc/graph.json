@@ -1,0 +1,1121 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.407714",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+        "type": "Meeting",
+        "title": "Product Review Ad Hoc - Asset Management Architecture Design",
+        "date": "2024-09-24",
+        "duration": "01:26:13",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Serhii Kasainov (Front-End Tech Lead)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__front_end_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Front-End Tech Lead)",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_asset_management_schema_architecture_design",
+        "type": "Topic",
+        "label": "Asset Management Schema Architecture Design",
+        "time_range": "00:00:25 - 00:35:27",
+        "participants": [
+          "Dan Khasis",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "asset",
+          "management",
+          "schema",
+          "architecture",
+          "design"
+        ]
+      },
+      {
+        "id": "topic_strategic_planner_snapshot_ui_requirements",
+        "type": "Topic",
+        "label": "Strategic Planner Snapshot UI Requirements",
+        "time_range": "00:35:27 - 00:58:46",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "planner",
+          "snapshot",
+          "requirements"
+        ]
+      },
+      {
+        "id": "topic_gps_data_quality_issues_and_bigquery_integration",
+        "type": "Topic",
+        "label": "GPS Data Quality Issues and BigQuery Integration",
+        "time_range": "00:58:46 - 01:03:24",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon (referenced)",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "gps",
+          "data",
+          "quality",
+          "issues",
+          "bigquery"
+        ]
+      },
+      {
+        "id": "topic_flexible_service_time_and_time_window_logic",
+        "type": "Topic",
+        "label": "Flexible Service Time and Time Window Logic",
+        "time_range": "01:03:24 - 01:15:30",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "flexible",
+          "service",
+          "time",
+          "time",
+          "window"
+        ]
+      },
+      {
+        "id": "topic_route_comparison_legacy_system_issues",
+        "type": "Topic",
+        "label": "Route Comparison Legacy System Issues",
+        "time_range": "01:15:30 - 01:23:49",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "route",
+          "comparison",
+          "legacy",
+          "system",
+          "issues"
+        ]
+      },
+      {
+        "id": "topic_meeting_wrap_up_and_next_steps",
+        "type": "Topic",
+        "label": "Meeting Wrap-up and Next Steps",
+        "time_range": "01:23:49 - 01:26:13",
+        "participants": [
+          "Dan Khasis",
+          "Igor Skrynkovskyy",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "meeting",
+          "wrap",
+          "next",
+          "steps"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_entity_attribute_value_pattern_for_assets",
+        "type": "Decision",
+        "description": "Implement Entity Attribute Value pattern for asset management instead of fixed columns approach used in vehicles table",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO-level architectural decision for maximum flexibility. EAV pattern allows unlimited attributes per asset without schema modifications, eliminating constant code base changes for elastic indexing. Enables support for diverse asset types across new market verticals without database restructuring. [CEO_APPROVED]",
+        "alternatives": [
+          "Continue with fixed columns in vehicles table",
+          "Create separate tables for each asset type"
+        ],
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "decision_asset_categorization_hierarchy",
+        "type": "Decision",
+        "description": "Implement three-level hierarchy: asset master list, asset types with categories, and user-defined groups",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO dictating data model architecture. Three-level approach provides both system-level classification and user flexibility. System maintains type taxonomy while allowing arbitrary user grouping for operational needs. [CEO_APPROVED]",
+        "alternatives": [
+          "Single-level flat structure",
+          "Two-level type/instance only"
+        ],
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "decision_attribute_type_categories",
+        "type": "Decision",
+        "description": "Create attribute type categories table for dynamic frontend grouping. Initially fixed categories, future customer-defined categories",
+        "decided_by": "Dan Khasis, Igor Skrynkovskyy",
+        "rationale": "Enables dynamic frontend rendering without hardcoded columns. Dan approved phased approach - fixed categories in version 1, customer categories as future enhancement. [CEO_APPROVED]",
+        "alternatives": [
+          "UUID-based extensible system from start",
+          "Hardcoded attribute groups"
+        ],
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "decision_physical_and_logical_group_support",
+        "type": "Decision",
+        "description": "Support both physical and logical group classifications simultaneously",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO's gut instinct that assets can be in both physical location grouping and logical operational grouping simultaneously. Hospital equipment example - physically in surgery department, logically on mobile cart. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "decision_strategic_planner_snapshot_ui_design",
+        "type": "Decision",
+        "description": "Read-only snapshot must copy Route List UI/UX exactly - table view, interactive map in separate tab, full filtering capabilities",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO dictating critical sales blocker resolution. Current snapshot is uninformative and prevents demos. Copying proven Route List design ensures usability and leverages existing user familiarity. [CRITICAL_DIRECTIVE]",
+        "alternatives": [
+          "Custom snapshot-specific UI",
+          "Simplified report view"
+        ],
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "decision_day_and_week_filtering",
+        "type": "Decision",
+        "description": "Add filters by day and week that activate when user clicks matrix results cells",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO identifying fundamental missing requirement. Users must click matrix cell and immediately see filtered routes for that day/week on map and table. This is baseline functionality for scenario analysis. [CRITICAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "decision_route_comparison_feature",
+        "type": "Decision",
+        "description": "Implement multi-route selection and side-by-side comparison on single map, similar to e-commerce product comparison",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO demanding competitive feature. Clients don't believe optimization results without visual proof. Need ability to select multiple instances of same route across different time periods and visually compare side-by-side. Legacy route comparison exists but needs modernization. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "decision_restore_ios_foreground_service",
+        "type": "Decision",
+        "description": "Immediately restore Foreground Service functionality in iOS app to enable background GPS tracking",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO directive to fix critical data quality issue. Foreground Service was previously disabled but is essential for continuous tracking. Current sparse data from Amwaste proves background tracking failure. Without this, product analytics are broken. [CRITICAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "decision_mobile_session_analytics",
+        "type": "Decision",
+        "description": "Implement collection and analysis of mobile app active session duration metrics",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO ordering proof mechanism. Need data to demonstrate to clients that problem is driver behavior closing app, not system malfunction. Session metrics provide objective evidence. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "decision_bigquery_gps_data_integration",
+        "type": "Decision",
+        "description": "Prioritize and implement export of all GPS data to BigQuery",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO strategic directive for analytics infrastructure. BigQuery integration unlocks advanced analytics capabilities currently impossible. This is foundational for future data science initiatives. [CRITICAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "decision_flexible_time_window_validation",
+        "type": "Decision",
+        "description": "Modify optimization and validation logic to support service time exceeding time window duration, validating only arrival time",
+        "decided_by": "Dan Khasis",
+        "rationale": "CEO identifying unique competitive advantage from client discussion. Real-world scenarios require arrival during restricted access window but service extending beyond. Current competitor systems fail this use case. Implementing this unlocks heavy logistics, construction, and service maintenance verticals. [CEO_APPROVED]",
+        "alternatives": [
+          "Maintain current strict time window validation",
+          "Split long services into multiple stops"
+        ],
+        "topic_id": "topic_flexible_service_time_and_time_window_logic"
+      },
+      {
+        "id": "issue_route_comparison_ui_broken",
+        "type": "TechnicalIssue",
+        "description": "**[01:15:30] Serhii Kasainov**: Route comparison interface broken. Something broke during today's deployment. List that should have 25 elements not appearing. No output, nothing else.\n\n**[01:16:45] Dan Khasis**: Console shows possible API call failure. Grouping by facility type also missing. Multiple UI elements not rendering properly.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_route_comparison_legacy_system_issues"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_implement_eav_pattern_schema_f",
+        "type": "ActionItem",
+        "description": "Implement EAV pattern schema for asset management",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_create_asset_master_list__asse",
+        "type": "ActionItem",
+        "description": "Create asset master list, asset attributes, asset attribute values tables",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_create_asset_types__asset_type",
+        "type": "ActionItem",
+        "description": "Create asset types, asset type categories, asset groups tables",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_implement_versioning_mechanism",
+        "type": "ActionItem",
+        "description": "Implement versioning mechanism with is_current, effective_from, effective_to fields",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_create_polymorphic_relationshi",
+        "type": "ActionItem",
+        "description": "Create polymorphic relationship for asset-to-facility linking",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_finalize_ddl_and_provide_to_te",
+        "type": "ActionItem",
+        "description": "Finalize DDL and provide to team",
+        "owner_id": "person_dan_khasis",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_asset_management_schema_architecture_design"
+      },
+      {
+        "id": "action_implement_snapshot_ui_copying_",
+        "type": "ActionItem",
+        "description": "Implement snapshot UI copying Route List design",
+        "owner_id": "person_frontend_team",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "action_add_interactive_map_in_separat",
+        "type": "ActionItem",
+        "description": "Add interactive map in separate tab for snapshot",
+        "owner_id": "person_frontend_team",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "action_implement_day_week_filtering_a",
+        "type": "ActionItem",
+        "description": "Implement day/week filtering activated by matrix cell clicks",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "action_create_multi_route_selection_a",
+        "type": "ActionItem",
+        "description": "Create multi-route selection and side-by-side comparison feature",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "action_optimize_map_rendering_for_hun",
+        "type": "ActionItem",
+        "description": "Optimize map rendering for hundreds of routes using existing approaches",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_snapshot_ui_requirements"
+      },
+      {
+        "id": "action_restore_foreground_service_imp",
+        "type": "ActionItem",
+        "description": "Restore Foreground Service implementation in iOS app",
+        "owner_id": "person_mobile_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "immediate",
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "action_implement_mobile_app_session_d",
+        "type": "ActionItem",
+        "description": "Implement mobile app session duration tracking and analytics",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "action_design_and_implement_gps_data_",
+        "type": "ActionItem",
+        "description": "Design and implement GPS data export pipeline to BigQuery",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_gps_data_quality_issues_and_bigquery_integration"
+      },
+      {
+        "id": "action_add_constraint_level_option_fo",
+        "type": "ActionItem",
+        "description": "Add constraint-level option for flexible time window validation",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_flexible_service_time_and_time_window_logic"
+      },
+      {
+        "id": "action_modify_validation_logic_to_che",
+        "type": "ActionItem",
+        "description": "Modify validation logic to check only arrival time within time window",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_flexible_service_time_and_time_window_logic"
+      },
+      {
+        "id": "action_ensure_service_time_properly_a",
+        "type": "ActionItem",
+        "description": "Ensure service time properly accounts in route calculation for subsequent stops",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_flexible_service_time_and_time_window_logic"
+      },
+      {
+        "id": "action_debug_and_fix_route_comparison",
+        "type": "ActionItem",
+        "description": "Debug and fix route comparison UI broken in today's deployment",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_route_comparison_legacy_system_issues"
+      },
+      {
+        "id": "action_add_sync_assets_tab_to_telemat",
+        "type": "ActionItem",
+        "description": "Add sync assets tab to telematics connections interface",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_route_comparison_legacy_system_issues"
+      },
+      {
+        "id": "action_add_number_of_assets_field_to_",
+        "type": "ActionItem",
+        "description": "Add number of assets field to customers and customer locations views",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_route_comparison_legacy_system_issues"
+      },
+      {
+        "id": "action_plan_hos_sync_model_and_implem",
+        "type": "ActionItem",
+        "description": "Plan HOS sync model and implementation",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_route_comparison_legacy_system_issues"
+      },
+      {
+        "id": "action_send_final_ddl_for_asset_manag",
+        "type": "ActionItem",
+        "description": "Send final DDL for asset management schema",
+        "owner_id": "person_dan_khasis",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_meeting_wrap_up_and_next_steps"
+      },
+      {
+        "id": "action_add_invoicing_table_to_schema_",
+        "type": "ActionItem",
+        "description": "Add invoicing table to schema if needed",
+        "owner_id": "person_dan_khasis",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_meeting_wrap_up_and_next_steps"
+      },
+      {
+        "id": "action_report_on_ai_related_developme",
+        "type": "ActionItem",
+        "description": "Report on AI-related developments tomorrow",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_meeting_wrap_up_and_next_steps"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "person_serhii_kasainov__front_end_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_asset_management_schema_architecture_design",
+      "properties": {
+        "time_range": "00:00:25 - 00:35:27"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "decision_entity_attribute_value_pattern_for_assets",
+      "properties": {
+        "label": "Entity Attribute Value Pattern for Assets"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_entity_attribute_value_pattern_for_assets",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "decision_asset_categorization_hierarchy",
+      "properties": {
+        "label": "Asset Categorization Hierarchy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_asset_categorization_hierarchy",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "decision_attribute_type_categories",
+      "properties": {
+        "label": "Attribute Type Categories"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_attribute_type_categories",
+      "to": "person_dan_khasis__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "decision_physical_and_logical_group_support",
+      "properties": {
+        "label": "Physical and Logical Group Support"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_physical_and_logical_group_support",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_implement_eav_pattern_schema_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_eav_pattern_schema_f",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_create_asset_master_list__asse",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_asset_master_list__asse",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_create_asset_types__asset_type",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_asset_types__asset_type",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_implement_versioning_mechanism",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_versioning_mechanism",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_create_polymorphic_relationshi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_polymorphic_relationshi",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_asset_management_schema_architecture_design",
+      "to": "action_finalize_ddl_and_provide_to_te",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_finalize_ddl_and_provide_to_te",
+      "to": "person_dan_khasis",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_strategic_planner_snapshot_ui_requirements",
+      "properties": {
+        "time_range": "00:35:27 - 00:58:46"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "decision_strategic_planner_snapshot_ui_design",
+      "properties": {
+        "label": "Strategic Planner Snapshot UI Design"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_strategic_planner_snapshot_ui_design",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "decision_day_and_week_filtering",
+      "properties": {
+        "label": "Day and Week Filtering"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_day_and_week_filtering",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "decision_route_comparison_feature",
+      "properties": {
+        "label": "Route Comparison Feature"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_route_comparison_feature",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "action_implement_snapshot_ui_copying_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_snapshot_ui_copying_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "action_add_interactive_map_in_separat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_interactive_map_in_separat",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "action_implement_day_week_filtering_a",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_day_week_filtering_a",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "action_create_multi_route_selection_a",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_multi_route_selection_a",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_snapshot_ui_requirements",
+      "to": "action_optimize_map_rendering_for_hun",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_optimize_map_rendering_for_hun",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "properties": {
+        "time_range": "00:58:46 - 01:03:24"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "decision_restore_ios_foreground_service",
+      "properties": {
+        "label": "Restore iOS Foreground Service"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_restore_ios_foreground_service",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "decision_mobile_session_analytics",
+      "properties": {
+        "label": "Mobile Session Analytics"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_mobile_session_analytics",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "decision_bigquery_gps_data_integration",
+      "properties": {
+        "label": "BigQuery GPS Data Integration"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_bigquery_gps_data_integration",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "action_restore_foreground_service_imp",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_restore_foreground_service_imp",
+      "to": "person_mobile_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "action_implement_mobile_app_session_d",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_mobile_app_session_d",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_gps_data_quality_issues_and_bigquery_integration",
+      "to": "action_design_and_implement_gps_data_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_and_implement_gps_data_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_flexible_service_time_and_time_window_logic",
+      "properties": {
+        "time_range": "01:03:24 - 01:15:30"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_flexible_service_time_and_time_window_logic",
+      "to": "decision_flexible_time_window_validation",
+      "properties": {
+        "label": "Flexible Time Window Validation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_flexible_time_window_validation",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_flexible_service_time_and_time_window_logic",
+      "to": "action_add_constraint_level_option_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_constraint_level_option_fo",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_flexible_service_time_and_time_window_logic",
+      "to": "action_modify_validation_logic_to_che",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_modify_validation_logic_to_che",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_flexible_service_time_and_time_window_logic",
+      "to": "action_ensure_service_time_properly_a",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_service_time_properly_a",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_route_comparison_legacy_system_issues",
+      "properties": {
+        "time_range": "01:15:30 - 01:23:49"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_comparison_legacy_system_issues",
+      "to": "action_debug_and_fix_route_comparison",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_debug_and_fix_route_comparison",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_comparison_legacy_system_issues",
+      "to": "action_add_sync_assets_tab_to_telemat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_sync_assets_tab_to_telemat",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_comparison_legacy_system_issues",
+      "to": "action_add_number_of_assets_field_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_number_of_assets_field_to_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route_comparison_legacy_system_issues",
+      "to": "action_plan_hos_sync_model_and_implem",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_plan_hos_sync_model_and_implem",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_route_comparison_legacy_system_issues",
+      "to": "issue_route_comparison_ui_broken",
+      "properties": {
+        "label": "Route Comparison UI Broken"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_09_24_product_review_ad_hoc___asset_management_architecture_design",
+      "to": "topic_meeting_wrap_up_and_next_steps",
+      "properties": {
+        "time_range": "01:23:49 - 01:26:13"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_meeting_wrap_up_and_next_steps",
+      "to": "action_send_final_ddl_for_asset_manag",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_send_final_ddl_for_asset_manag",
+      "to": "person_dan_khasis",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_meeting_wrap_up_and_next_steps",
+      "to": "action_add_invoicing_table_to_schema_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_invoicing_table_to_schema_",
+      "to": "person_dan_khasis",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_meeting_wrap_up_and_next_steps",
+      "to": "action_report_on_ai_related_developme",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_report_on_ai_related_developme",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 46,
+    "total_relationships": 80,
+    "node_counts": {
+      "meetings": 1,
+      "people": 3,
+      "topics": 6,
+      "statements": 0,
+      "decisions": 12,
+      "action_items": 24
+    }
+  }
+}

@@ -1,0 +1,2825 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:41.528362",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+        "type": "Meeting",
+        "title": "Product Progress Review - Service Time, Strategic Optimization & Vehicle Tracking",
+        "date": "2025-11-13",
+        "duration": "01:02:10",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Vladimir Zhakhavets (UI/UX/Design)",
+          "Manar Kurmanov (Frontend Engineer)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Semeyon Svetliy (VP Platform)",
+          "Artur Moskalenko (QA Director & Product Ops)",
+          "Vladimir Fedorov (Frontend Developer)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Volodymyr Ishchenko (QA)",
+          "Vadim Iljin"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladimir_zhakhavets__ui_ux_design_",
+        "type": "Person",
+        "name": "Vladimir Zhakhavets (UI/UX/Design)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_manar_kurmanov__frontend_engineer_",
+        "type": "Person",
+        "name": "Manar Kurmanov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_svetliy__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon Svetliy (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director___product_ops_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director & Product Ops)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladimir_fedorov__frontend_developer_",
+        "type": "Person",
+        "name": "Vladimir Fedorov (Frontend Developer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_volodymyr_ishchenko__qa_",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vadim_iljin",
+        "type": "Person",
+        "name": "Vadim Iljin",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladimir_zhakhavets",
+        "type": "Person",
+        "name": "Vladimir Zhakhavets",
+        "statements_count": 20
+      },
+      {
+        "id": "person_dan_khasis",
+        "type": "Person",
+        "name": "Dan Khasis",
+        "statements_count": 26
+      },
+      {
+        "id": "person_manar_kurmanov",
+        "type": "Person",
+        "name": "Manar Kurmanov",
+        "statements_count": 2
+      },
+      {
+        "id": "person_semeyon_svetliy",
+        "type": "Person",
+        "name": "Semeyon Svetliy",
+        "statements_count": 2
+      },
+      {
+        "id": "person_igor_skrynkovskyy",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy",
+        "statements_count": 2
+      },
+      {
+        "id": "person_vladimir_fedorov",
+        "type": "Person",
+        "name": "Vladimir Fedorov",
+        "statements_count": 1
+      },
+      {
+        "id": "person_artur_moskalenko",
+        "type": "Person",
+        "name": "Artur Moskalenko",
+        "statements_count": 3
+      },
+      {
+        "id": "person_volodymyr_ishchenko",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko",
+        "statements_count": 1
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_service_time_analytics_ui_design___heat_map",
+        "type": "Topic",
+        "label": "Service Time Analytics UI Design & Heat Map",
+        "time_range": "00:00:06 - 00:15:47",
+        "participants": [
+          "Vladimir Zhakhavets",
+          "Dan Khasis",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "service",
+          "time",
+          "analytics",
+          "design",
+          "heat"
+        ]
+      },
+      {
+        "id": "topic_multi_service_type_architecture___customer_location_config",
+        "type": "Topic",
+        "label": "Multi-Service Type Architecture & Customer Location Config",
+        "time_range": "00:15:47 - 00:26:54",
+        "participants": [
+          "Vladimir Zhakhavets",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "multi",
+          "service",
+          "type",
+          "architecture",
+          "customer"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_ui___depot_selection_redesign",
+        "type": "Topic",
+        "label": "Strategic Optimization UI - Depot Selection Redesign",
+        "time_range": "00:27:03 - 00:39:04",
+        "participants": [
+          "Manar Kurmanov",
+          "Dan Khasis",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "depot",
+          "selection",
+          "redesign"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_solver_performance___timeout",
+        "type": "Topic",
+        "label": "Strategic Optimization Solver Performance & Timeout",
+        "time_range": "00:39:04 - 00:48:20",
+        "participants": [
+          "Semeyon Svetliy",
+          "Igor Skrynkovskyy",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "solver",
+          "performance",
+          "timeout"
+        ]
+      },
+      {
+        "id": "topic_address_book_map_performance_optimization",
+        "type": "Topic",
+        "label": "Address Book Map Performance Optimization",
+        "time_range": "00:48:20 - 00:50:15",
+        "participants": [
+          "Vladimir Fedorov",
+          "Dan Khasis",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "address",
+          "book",
+          "map",
+          "performance",
+          "optimization"
+        ]
+      },
+      {
+        "id": "topic_vehicle_tracking_visibility_crisis",
+        "type": "Topic",
+        "label": "Vehicle Tracking Visibility Crisis",
+        "time_range": "00:50:59 - 01:01:32",
+        "participants": [
+          "Artur Moskalenko",
+          "Dan Khasis",
+          "Volodymyr Ishchenko",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "vehicle",
+          "tracking",
+          "visibility",
+          "crisis"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "id": "statement_vladimir_zhakhavets_00_00_16",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:00:16",
+        "text": "I used the guys to help pick the palette while you weren't here. This is Customer Allocation Snapshot showing average Service Time. You can choose which type to view - Actual, Plant, difference Actual vs Plant, or percentage difference. You can select metric direction Lower is Better or Higher is Better, which colors the palette from green to red or red to green. When hovering over a cell, you see total visits, over all time, and average. We forgot to add the control for Average method - which calculation method to use: median, weighted average, or with peak trimming.",
+        "sequence": 1,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_02_08",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:02:08",
+        "text": "I don't know what I think. This is Customer Location, Destination. This can be shown in Route Destination Snapshot, but it would refer to the address, not the Destination itself.",
+        "sequence": 2,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_02_44",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:02:44",
+        "text": "To the address, because Destination is one visit in one route and isn't repeated, but an address can occur multiple times. It can be shown in Destination Snapshot tied to the address.",
+        "sequence": 3,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_03_14",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:03:14",
+        "text": "This is like in programming - PassByReference, PassByValue.",
+        "sequence": 4,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_03_24",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:03:24",
+        "text": "Destination is an instance of an address - one specific visit to this address in our paradigm.",
+        "sequence": 5,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_03_35",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:03:35",
+        "text": "In RouteData there can be Destination with full link to CustomerLocation. When you open Service Time, if I were a client, I'd understand you highlighted with an icon that this is Service Time - not of this Destination, but Service Time statistically.",
+        "sequence": 6,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_04_04",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:04:04",
+        "text": "Statistically of this Location, yes. We just need to write Location Service Time without an icon.",
+        "sequence": 7,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_04_50",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:04:50",
+        "text": "Second idea was to let user choose to focus on bad or good. If they focus on bad, red accents on bad things. If focus on good, palette flips to green.",
+        "sequence": 8,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_05_43",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:05:43",
+        "text": "Vova is absolutely right. But this report doesn't show what Vova voiced. We have a problem due to legacy decisions. If you look at custom location in our database, we have two or three huge problems at the custom location level. Service time at the location level, but service time should be at the level of service type and location. The second problem is the incorrect assumption that at the level of one location there is only one service type. Because here there can be delivery, service, inspection, and so on. And everything changes proportionally. Because if you made a route today, during planning, we have a fourth problem - destination type selection should happen intelligently. You have recurring schedule, but ours is wrong. Our recurring schedule is at the location level, but recurring schedule should be at location plus service time potentially. Then this service time dynamically changes by day of week. Ordered and actual also change dynamically, but we don't have support for this.",
+        "sequence": 9,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_11_37",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:11:37",
+        "text": "Show me service time like this, show me service time like this.",
+        "sequence": 10,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_11_44",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:11:44",
+        "text": "Because of what? Due to absence of new scenario where we can say another for loop. Change my service time plus-minus 10%, five intervals up and five intervals down. This is new scenario. For this they have to upload 25 or 50 CSV files. Again because of for loop. So it turns out optimizers don't care, right? The algorithm only matters to initialize. You don't even need to redo distance matrix because it's cached. Only service time changes. What I'm trying to say is this thing you drew is 90% correct, but it's 10% useful for the types of clients that David wants us to sell to. Because service time changes - service type from time of day, season and so on.",
+        "sequence": 11,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_13_32",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:13:32",
+        "text": "If we tag these destinations somehow when they do different service types, then we can give them ability to choose here which service type to consider.",
+        "sequence": 12,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_13_46",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:13:46",
+        "text": "Absolutely right. Or all at once. And Artem should take - there's one thing missing in the tooltip. As soon as we write average, people like David cling to this. Why don't you use line energy, why don't you use this.",
+        "sequence": 13,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_14_02",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:14:02",
+        "text": "They assume they know statistics. Yes, here there will be averaging method, mathematical formula to choose. Several options.",
+        "sequence": 14,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_14_22",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:14:22",
+        "text": "Such, such, such. Because there's moving average, exponential moving average, different options. Maybe we don't even publish, maybe we shouldn't even say our method.",
+        "sequence": 15,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_14_47",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:14:47",
+        "text": "Why even write average at all?",
+        "sequence": 16,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_dan_khasis_00_14_55",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:14:55",
+        "text": "Maybe we can write service time, detected service time. Why even write the word average? Smart guys will want to know what math is inside. So smart guys, you'll click on the cell and open scatter plot or line graph that will be a curve both by time and by selected range of this report. This curve will show green-yellow-red ranges and show within those ranges the historical trend history for that cell. Because the cell is hourly range plus a factor - day of week, season, quarter, and so on. We need to look if you want, right now on custom allocations, to decide or figure out how to add service type and time in custom allocations editor.",
+        "sequence": 17,
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_16_12",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:16:12",
+        "text": "I'll think about it. Very quickly, what I think now - possibly something like a new entity, a service contract for this customer location. You can have multiple service contracts simultaneously for same location, each contract has its own schedule, conditions, visit frequency and visit duration.",
+        "sequence": 18,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_16_41",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:16:41",
+        "text": "Yes, but even before talking about contract, we can just add elementary config table in custom allocations. The most elementary.",
+        "sequence": 19,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_16_59",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:16:59",
+        "text": "Yes, imagine you have a location. In this location editor there's currently nothing related to scheduling or service type. But there should be. What should be there? Something like a table. Location, service type, frequency - there's already frequency. But duration. And you can add rows. Click add. Service type delivery, frequency daily, duration 20 minutes. Add. Service type inspection, frequency weekly on Mondays, duration 40 minutes. You add a row. Multiple rows in this table.",
+        "sequence": 20,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_17_35",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:17:35",
+        "text": "When you come to strategic, you'll already have what should be planned. Instead of manually in Excel creating multiple CSVs for one same address. This all already exists in database and in table. So strategic will automatically understand - this one delivery, that one delivery and service, that one only service. Moreover, even when you start planning master routes with this logic, it becomes clear what's planned. Because now when someone plans or makes recurring schedule, the assumption is same visit everywhere. But there can be different visits depending on the day.",
+        "sequence": 21,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_18_17",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:18:17",
+        "text": "That's how custom routes generally are - we have a recurring visit. But here we can have two recurring visits, not one, multiple. Then at optimization stage we have this whole table. At planning stage, at strategic stage, I select my locations and say I want to make strategic optimization. In background, strategic optimization goes and looks - oh look, these locations have not just one service type but three different ones. Which one do you want to optimize for today?",
+        "sequence": 22,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_18_56",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:18:56",
+        "text": "So we still need dynamic custom types.",
+        "sequence": 23,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_19_01",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:19:01",
+        "text": "But if we have these service types, this is no longer a problem. We'll just pass them to strategic. Strategic optimization will have no problem with this.",
+        "sequence": 24,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_19_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:19:15",
+        "text": "What do you mean? What's our problem with custom types?",
+        "sequence": 25,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_19_18",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:19:18",
+        "text": "I don't know if this is backend or database problem. We can't dynamically add service types. They're kind of hardcoded in our database. They're stored in some enum or something. We can't dynamically add service types.",
+        "sequence": 26,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_19_37",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:19:37",
+        "text": "Yes. We need to make a service types table. Where there are enums that exist by default in the system.",
+        "sequence": 27,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_19_45",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:19:45",
+        "text": "And user can add their own. User can create. But then problem is, remember we discussed with Igor, we have different icons for different service types. If someone creates their own service type, we can't have icon for it. So we'll just give them circle or square.",
+        "sequence": 28,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_20_22",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:20:22",
+        "text": "This is what I'm talking about. When destination is created based on customer location, when you're making new destination, system looks - ah, customer location X has these service types configured. If these service types are fixed, meaning delivery always, service once a week, inspection once every two weeks - this is recurring schedule. Then route planner can automatically in UI say, I see you added this customer location, and I see that today according to its schedule it should have service and inspection, not delivery, because delivery is on other days. Route planner already knows from the schedule. But if schedule isn't fixed, route planner simply offers all available service types for this location as possible options, and user picks which they want. But problem is that now when route planner creates destination for this location, if there are three different service times, system doesn't know which service time to assign.",
+        "sequence": 29,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_21_47",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:21:47",
+        "text": "Well, in dropdown you'll select service type first, only after you select service type the system can autocomplete service time based on that service type. Okay, let's say user manually creates destination for this customer location. First they pick service type. Then service time automatically fills in. If not, they can override. Okay. But we still have huge problem. That service time can change by day of week.",
+        "sequence": 30,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_22_21",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:22:21",
+        "text": "Even more. Time of day, day of week. Because, for example, morning rush hour. Morning delivery might take longer than afternoon delivery.",
+        "sequence": 31,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_22_34",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:22:34",
+        "text": "So service time becomes not a number anymore. Service time becomes a function. A formula. Service time equals if day of week equals Monday and if time of day between 8 and 10 AM, then 30 minutes, else if... Or maybe it's a table. Like you have a table. Column one - day of week. Column two - time of day range. Column three - service time. And you have rows. Monday 8-10 AM 30 minutes. Monday 10 AM-12 PM 25 minutes. Tuesday 8-10 AM 20 minutes. This is service time table.",
+        "sequence": 32,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_23_44",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:23:44",
+        "text": "This is exactly what I showed in heat map. But we're not showing this for individual location. We're showing aggregated statistics. What you're talking about, each location should have its own mini heat map potentially. In location editor. Click on service time cell, boom, opens modal with this table or this heat map. User fills it in. Or system automatically learns from history. System says, based on your past visits to this location, we detected these patterns. Do you want to use detected patterns or override manually?",
+        "sequence": 33,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_24_19",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:24:19",
+        "text": "Automatically learning from history is exactly what the analytical report does. The report you're seeing now. This is what it does. It aggregates historical data.",
+        "sequence": 34,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_24_34",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:24:34",
+        "text": "But this is aggregated across all locations. What I'm saying is, for each individual location, system should be able to say, for customer location ABC Plumbing, we detected that on Mondays at 9 AM service time is usually 45 minutes, but on Fridays at 3 PM it's 20 minutes. And this is specific to ABC Plumbing, not averaged across all customers. That's the difference. This report is useful for enterprise analytics. But for route planning and optimization, we need per-location intelligence.",
+        "sequence": 35,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_25_13",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:25:13",
+        "text": "I understand. So in location editor there should be something like a button. \"Configure Service Time Intelligence\" or something. Click it, opens modal. Shows same heat map but filtered to this location only. Shows historical patterns. User can accept automated suggestions or manually override any cell. Save. Now this location has intelligent service time.",
+        "sequence": 36,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_dan_khasis_00_25_47",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:25:47",
+        "text": "Exactly. And this intelligence should be used everywhere. In recurring schedule, in strategic optimization, in route planning. Everywhere. So this is why I'm saying this report is great for analytics team, for management to understand overall performance. But it doesn't solve core problem, which is how do we intelligently assign service time during planning, taking into account service type, day of week, time of day, and historical patterns for that specific location.",
+        "sequence": 37,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_26_29",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:26:29",
+        "text": "Got it. So this report is foundation. It shows system works. But we need to extend this intelligence down to individual location level. And make it actionable in editors. I'll work on this. Show you concept next week.",
+        "sequence": 38,
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "statement_manar_kurmanov_00_27_03",
+        "type": "Statement",
+        "speaker_id": "person_manar_kurmanov",
+        "timestamp": "00:27:03",
+        "text": "[Demonstrates new strategic optimization UI flow starting from customer locations list with filtering, then configuration step]",
+        "sequence": 39,
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "statement_dan_khasis_00_30_11",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:30:11",
+        "text": "This is much better than before. Starting from customer locations makes sense. But I have critical feedback on depot selection step. Here you have text input field where user types depot address and geocodes it. This is completely wrong approach for enterprise clients. They don't want to type depot address every time. They have 15 depots already configured in system. They want to SELECT from existing facilities, not type and geocode new ones. This text field should be replaced with searchable, filterable table showing all their existing facilities. User checks the ones they want to use for this optimization. It's like selecting customers - same UX pattern. And THEN, as secondary option, if they really need to add new depot for what-if scenario, there can be button \"Add New Depot\" which opens geocoding. But primary flow is SELECT existing facilities. This is non-negotiable for enterprise. Without this we can't sell to large clients.",
+        "sequence": 40,
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "statement_manar_kurmanov_00_33_08",
+        "type": "Statement",
+        "speaker_id": "person_manar_kurmanov",
+        "timestamp": "00:33:08",
+        "text": "Understood. So main interface is facilities table with checkboxes and search. Adding new depot address is secondary option accessed via button. Will redesign this immediately.",
+        "sequence": 41,
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_33_42",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:33:42",
+        "text": "While we're on strategic optimization topic, I have question about solver performance. What's acceptable timeout?",
+        "sequence": 42,
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_34_15",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:34:15",
+        "text": "Currently with new FastAPI solver using C++ library, we're seeing much better performance. 2500-5000 locations taking about 25 minutes. Above 1500 addresses, automatic clustering kicks in. New solver is faster and uses less memory than old Python solver.",
+        "sequence": 43,
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "statement_dan_khasis_00_37_26",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:37:26",
+        "text": "25 minutes for 5000 locations is still too long. This is symptom. Root cause is inefficient clustering. No single cluster should have more than 2000 addresses. Long-term goal should be 5-10 minutes maximum for any optimization. But as interim solution, while we optimize solver, let's set timeout at 30 minutes. Anything longer than that, we kill it and tell user to break it into smaller optimizations. But we need to work toward that 5-10 minute goal aggressively.",
+        "sequence": 44,
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_39_04",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:39:04",
+        "text": "So temporary timeout 30 minutes, strategic goal 5-10 minutes. Got it.",
+        "sequence": 45,
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "statement_vladimir_fedorov_00_39_25",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_fedorov",
+        "timestamp": "00:39:25",
+        "text": "[Explains optimization work on Address Book map for accounts with 10K+ addresses. Initially took up to minute to load with 30 seconds spent loading addresses alone. After backend optimization, reduced to 8 seconds for address loading.]",
+        "sequence": 46,
+        "topic_id": "topic_address_book_map_performance_optimization"
+      },
+      {
+        "id": "statement_dan_khasis_00_41_02",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:41:02",
+        "text": "Good work. But I wonder why users need to load 10,000 addresses at once. This suggests we don't have proper default views or smart filtering. Symptom of bigger UX problem. But thank you for optimization anyway.",
+        "sequence": 47,
+        "topic_id": "topic_address_book_map_performance_optimization"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_41_47",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:41:47",
+        "text": "I need to bring up issue with vehicle limits and tracking visibility. We have 100 vehicle default limit configurable in admin panel, but changes aren't applying due to caching bug. But bigger issue is vehicle tracking visibility.",
+        "sequence": 48,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_dan_khasis_00_42_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:42:15",
+        "text": "Go on, what's the tracking problem?",
+        "sequence": 49,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_42_20",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:42:20",
+        "text": "After setting up Telematics Gateway, users can't see their vehicles because \"pending\" filter is disabled by default on Vehicles page. Additionally, map layers for vehicles and users aren't enabled by default on Vehicles and Users pages - only on Routes page. So vehicle tracking exists but is completely hidden. There's API for vehicle location that's been there for 15 years, but it's not exposed in UI outside route context.",
+        "sequence": 50,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_dan_khasis_00_45_11",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:45:11",
+        "text": "This is huge and embarrassing. This is exactly what I'm talking about. Competitors are right when they say we don't have vehicle tracking - because users can't find it! Feature exists but it's buried. Here's what needs to happen immediately. As soon as Telematics Gateway module is enabled for account, ALL tracking-related UI elements must be turned on by default everywhere. One - \"pending\" filter on Vehicles page ON by default. Two - Vehicle and User map layers ON by default on ALL pages with maps, not just Routes. Three - Users should see vehicle location in Vehicles Snapshot just like they see it in Route Editor. Four - Historical tracking should be visible. We have the data, we just don't show it. Volodymyr, you mentioned we don't have polylines in vehicles/users API response?",
+        "sequence": 51,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_volodymyr_ishchenko_00_48_20",
+        "type": "Statement",
+        "speaker_id": "person_volodymyr_ishchenko",
+        "timestamp": "00:48:20",
+        "text": "Correct, we have raw GPS points but not polylines like in routes. We could draw straightlines connecting points, but that looks ugly. Proper solution is to add polylines generation to backend for vehicles and users.",
+        "sequence": 52,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_dan_khasis_00_49_54",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:49:54",
+        "text": "Show the raw points FIRST. That's immediate solution. Straight lines connecting points every 30-60 seconds will look fine - much better than nothing. Polylines are nice-to-have optimization. But data is there, devices have local buffering and cache, even if connection drops for 5 hours all coordinates come through. Priority one is to show SOMETHING. Priority two is to make it pretty.",
+        "sequence": 53,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_50_42",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:50:42",
+        "text": "We're actually starting to collect full polylines from devices now - phones are sending complete detailed paths, not just points every 10 seconds. We're working with Andrey on compliance algorithm analysis. If it goes well we'll show this data in routes. But I don't think we can show one giant sausage of entire driving path for vehicle for all time. Better to use points for that.",
+        "sequence": 54,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_dan_khasis_00_51_28",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:51:28",
+        "text": "Fine. But that's future enhancement. TODAY the problem is we have vehicle location API working for 15 years and it's not visible anywhere except in route context. When you open Vehicles Snapshot there's nothing. When you open Vehicle page there's map but no vehicles shown. This must be fixed immediately. It's product death by a thousand feature flags.",
+        "sequence": 55,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_52_05",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:52:05",
+        "text": "The feature checkboxes for Users and Vehicles map layers got tied to features during map refactoring and weren't added to default packages. That's root cause.",
+        "sequence": 56,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "statement_dan_khasis_00_52_52",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:52:52",
+        "text": "This is exactly the problem. Every time we refactor something we accidentally hide existing functionality behind new feature flags that aren't enabled by default. This is systemic issue. When Telematics Gateway is enabled, it should automatically enable all dependent modules. Vehicle Tracking UI should be automatic dependency. Not separate optional feature.",
+        "sequence": 57,
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision_service_time_analytics_ui_approved_with_enhancements",
+        "type": "Decision",
+        "description": "Approve Service Time heat map UI design with requirement to add service type filtering and averaging method selection",
+        "decided_by": "Dan Khasis",
+        "rationale": "UI is 90% correct but only 10% useful without service type filtering. Report is great for enterprise analytics but doesn't solve core planning problem. System must distinguish between different service types at same location. Dan explicitly approved visual design but mandated critical enhancements before full rollout. [CEO_APPROVED with conditions]",
+        "alternatives": [
+          "Reject design entirely",
+          "Deploy without service type support",
+          "Wait for full architecture solution"
+        ],
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "decision_multi_service_type_architecture_solution_required",
+        "type": "Decision",
+        "description": "Mandate development of multi-service type support at customer location level with config table in location editor",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current architecture limitation prevents selling to large enterprise clients. Company is losing deals because system assumes one service type per location. Parker confirmed two deals lost specifically due to this limitation. Solution requires config table in customer location editor allowing multiple service types with different schedules, frequencies, and durations per location. This is critical revenue blocker. [CRITICAL_DIRECTIVE - strategic priority]",
+        "alternatives": [
+          "Continue with single service type model",
+          "Manual workarounds via Excel/CSV",
+          "Per-client custom development"
+        ],
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "issue_dynamic_custom_service_types_not_supported",
+        "type": "TechnicalIssue",
+        "description": "**[00:19:18] Vladimir Zhakhavets:** We can't dynamically add service types. They're kind of hardcoded in our database. They're stored in some enum or something. We can't dynamically add service types.\n\n**[00:19:37] Dan Khasis:** We need to make a service types table where there are enums that exist by default in the system and user can add their own.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "decision_depot_selection_ux_must_use_facilities_table",
+        "type": "Decision",
+        "description": "Replace text input geocoding field with searchable facilities table for depot selection in strategic optimization workflow",
+        "decided_by": "Dan Khasis",
+        "rationale": "Enterprise clients have 15+ pre-configured depots and need to SELECT from existing facilities, not type addresses repeatedly. Current text field approach is wrong for target market. Table-based selection with checkboxes is enterprise-standard UX pattern. Geocoding new addresses should be secondary \"Add New Depot\" option for what-if scenarios only. This is non-negotiable for large client sales. [CEO_FINAL_DECISION - blocking issue for enterprise]",
+        "alternatives": [
+          "Keep text input as primary",
+          "Hybrid approach with recent addresses",
+          "Auto-detect nearest facilities"
+        ],
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "decision_strategic_solver_timeout_strategy",
+        "type": "Decision",
+        "description": "Set temporary 30-minute timeout for strategic optimization with long-term goal of 5-10 minutes maximum execution time",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current 25-minute performance for 5000 locations is symptom of inefficient clustering. No cluster should exceed 2000 addresses. 30-minute timeout is interim compromise while solver and clustering algorithms are optimized. Strategic goal is aggressive reduction to 5-10 minutes to meet enterprise user experience expectations. [CEO_APPROVED - with mandated roadmap to 5-10 minute goal]",
+        "alternatives": [
+          "No timeout",
+          "15-minute timeout",
+          "Dynamic timeout based on location count"
+        ],
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "issue_strategic_solver_performance_bottleneck",
+        "type": "TechnicalIssue",
+        "description": "**[00:37:26] Dan Khasis:** 25 minutes for 5000 locations is still too long. This is symptom. Root cause is inefficient clustering. No single cluster should have more than 2000 addresses.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "decision_vehicle_tracking_ui_must_be_visible_by_default",
+        "type": "Decision",
+        "description": "Immediately enable all vehicle tracking UI elements by default when Telematics Gateway module is active for an account",
+        "decided_by": "Dan Khasis",
+        "rationale": "Competitors correctly claim Route4Me lacks vehicle tracking because feature is completely hidden from users despite 15-year-old working API. This is huge embarrassment and product failure. Specific requirements - (1) \"pending\" filter ON by default on Vehicles page so new vehicles appear immediately after Telematics setup, (2) Vehicle and User map layers ON by default on ALL pages with maps not just Routes, (3) Vehicle location visible in Vehicles Snapshot independent of routes, (4) Historical tracking data exposed in UI. Show raw GPS points immediately as straightlines - polylines are secondary optimization. Telematics Gateway should auto-enable all dependent tracking UI modules, not require separate manual feature flags. This is systemic refactoring problem - hiding working features behind new flags. [CRITICAL_DIRECTIVE - product reputation at stake]",
+        "alternatives": [
+          "Keep current feature flag system",
+          "Gradual rollout",
+          "Wait for polylines before showing anything"
+        ],
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "issue_vehicle_limit_caching_bug",
+        "type": "TechnicalIssue",
+        "description": "**[00:42:20] Artur Moskalenko:** We have 100 vehicle default limit configurable in admin panel but changes aren't applying due to caching bug.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "issue_map_layer_feature_flags_hidden_during_refactoring",
+        "type": "TechnicalIssue",
+        "description": "**[00:52:05] Artur Moskalenko:** The feature checkboxes for Users and Vehicles map layers got tied to features during map refactoring and weren't added to default packages.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_add_control_for_selecting_aver",
+        "type": "ActionItem",
+        "description": "Add control for selecting averaging method (median, weighted average, outlier trimming) in Service Time analytics",
+        "owner_id": "person_vladimir_zhakhavets",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "action_add_service_type_filtering_cap",
+        "type": "ActionItem",
+        "description": "Add service type filtering capability to Service Time heat map",
+        "owner_id": "person_vladimir_zhakhavets",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "action_implement_drill_down_functiona",
+        "type": "ActionItem",
+        "description": "Implement drill-down functionality - clicking cell opens scatter plot or line graph showing historical trend with green-yellow-red ranges",
+        "owner_id": "person_vladimir_zhakhavets",
+        "status": "assigned",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "action_design_ui_concept_for_per_loca",
+        "type": "ActionItem",
+        "description": "Design UI concept for per-location service time intelligence configuration and present next week",
+        "owner_id": "person_vladimir_zhakhavets",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-20",
+        "topic_id": "topic_service_time_analytics_ui_design___heat_map"
+      },
+      {
+        "id": "action_design_and_present_architectur",
+        "type": "ActionItem",
+        "description": "Design and present architecture concept for multi-service type config table in customer location editor including UI mockups",
+        "owner_id": "person_vladimir_zhakhavets",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-20",
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "action_investigate_and_resolve_hardco",
+        "type": "ActionItem",
+        "description": "Investigate and resolve hardcoded service types limitation - create service types table allowing dynamic user-defined types",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "action_design_icon_system_for_custom_",
+        "type": "ActionItem",
+        "description": "Design icon system for custom user-defined service types (generic shapes for custom types)",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_multi_service_type_architecture___customer_location_config"
+      },
+      {
+        "id": "action_redesign_depot_selection_step_",
+        "type": "ActionItem",
+        "description": "Redesign depot selection step in strategic optimization - replace text input with searchable facilities table with checkboxes",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "action_add_secondary__add_new_depot__",
+        "type": "ActionItem",
+        "description": "Add secondary \"Add New Depot\" button that opens geocoding interface for what-if scenarios",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui___depot_selection_redesign"
+      },
+      {
+        "id": "action_implement_30_minute_timeout_fo",
+        "type": "ActionItem",
+        "description": "Implement 30-minute timeout for strategic optimization solver",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "action_optimize_clustering_algorithm_",
+        "type": "ActionItem",
+        "description": "Optimize clustering algorithm to ensure no cluster exceeds 2000 addresses",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "action_work_toward_5_10_minute_maximu",
+        "type": "ActionItem",
+        "description": "Work toward 5-10 minute maximum execution time goal for strategic optimization",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_solver_performance___timeout"
+      },
+      {
+        "id": "action_investigate_why_users_load_10k",
+        "type": "ActionItem",
+        "description": "Investigate why users load 10K+ addresses at once - evaluate default views and smart filtering opportunities",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_address_book_map_performance_optimization"
+      },
+      {
+        "id": "action_fix_vehicle_limit_caching_bug_",
+        "type": "ActionItem",
+        "description": "Fix vehicle limit caching bug preventing admin panel changes from applying",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_enable__pending__filter_by_def",
+        "type": "ActionItem",
+        "description": "Enable \"pending\" filter by default on Vehicles page for all accounts with Telematics Gateway",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_enable_vehicle_and_user_map_la",
+        "type": "ActionItem",
+        "description": "Enable Vehicle and User map layers by default on ALL pages with maps (Vehicles, Users, Routes) for accounts with Telematics Gateway",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_show_vehicle_location_in_vehic",
+        "type": "ActionItem",
+        "description": "Show vehicle location in Vehicles Snapshot independent of route context using same UI as Route Editor",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_expose_historical_vehicle_trac",
+        "type": "ActionItem",
+        "description": "Expose historical vehicle tracking data in API for UI consumption (raw GPS points as immediate solution)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_add_polylines_generation_for_v",
+        "type": "ActionItem",
+        "description": "Add polylines generation for vehicles and users API (secondary enhancement after raw points deployed)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      },
+      {
+        "id": "action_create_automatic_dependency_sy",
+        "type": "ActionItem",
+        "description": "Create automatic dependency system where Telematics Gateway module auto-enables all related tracking UI features by default",
+        "owner_id": "person_architecture_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_tracking_visibility_crisis"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_vladimir_zhakhavets__ui_ux_design_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_manar_kurmanov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_semeyon_svetliy__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_artur_moskalenko__qa_director___product_ops_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_vladimir_fedorov__frontend_developer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_volodymyr_ishchenko__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "person_vadim_iljin",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "time_range": "00:00:06 - 00:15:47"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_00_16",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:00:16"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_00_16",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 1
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_02_08",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:02:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_02_08",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 2
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_00_16",
+      "to": "statement_dan_khasis_00_02_08",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_02_44",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:02:44"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_02_44",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 3
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_02_08",
+      "to": "statement_vladimir_zhakhavets_00_02_44",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_03_14",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:03:14"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_03_14",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 4
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_02_44",
+      "to": "statement_dan_khasis_00_03_14",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_03_24",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:03:24"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_03_24",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 5
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_03_14",
+      "to": "statement_vladimir_zhakhavets_00_03_24",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_03_35",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:03:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_03_35",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 6
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_03_24",
+      "to": "statement_dan_khasis_00_03_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_04_04",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:04:04"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_04_04",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 7
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_03_35",
+      "to": "statement_vladimir_zhakhavets_00_04_04",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_04_50",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:04:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_04_50",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 8
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_04_04",
+      "to": "statement_vladimir_zhakhavets_00_04_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_05_43",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:05:43"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_05_43",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 9
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_04_50",
+      "to": "statement_dan_khasis_00_05_43",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_11_37",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:11:37"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_11_37",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 10
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_05_43",
+      "to": "statement_vladimir_zhakhavets_00_11_37",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_11_44",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:11:44"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_11_44",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 11
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_11_37",
+      "to": "statement_dan_khasis_00_11_44",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_13_32",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:13:32"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_13_32",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 12
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_11_44",
+      "to": "statement_vladimir_zhakhavets_00_13_32",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_13_46",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:13:46"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_13_46",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 13
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_13_32",
+      "to": "statement_dan_khasis_00_13_46",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_14_02",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:14:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_14_02",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 14
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_13_46",
+      "to": "statement_vladimir_zhakhavets_00_14_02",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_14_22",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:14:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_14_22",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 15
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_14_02",
+      "to": "statement_dan_khasis_00_14_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_14_47",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:14:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_14_47",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 16
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_14_22",
+      "to": "statement_vladimir_zhakhavets_00_14_47",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_14_55",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:14:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_14_55",
+      "to": "topic_service_time_analytics_ui_design___heat_map",
+      "properties": {
+        "sequence": 17
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_14_47",
+      "to": "statement_dan_khasis_00_14_55",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_service_time_analytics_ui_design___heat_map",
+      "to": "decision_service_time_analytics_ui_approved_with_enhancements",
+      "properties": {
+        "label": "Service Time Analytics UI Approved With Enhancements"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_service_time_analytics_ui_approved_with_enhancements",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_ui_design___heat_map",
+      "to": "action_add_control_for_selecting_aver",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_control_for_selecting_aver",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_ui_design___heat_map",
+      "to": "action_add_service_type_filtering_cap",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_service_type_filtering_cap",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_ui_design___heat_map",
+      "to": "action_implement_drill_down_functiona",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_drill_down_functiona",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "status": "assigned",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_service_time_analytics_ui_design___heat_map",
+      "to": "action_design_ui_concept_for_per_loca",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_ui_concept_for_per_loca",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "time_range": "00:15:47 - 00:26:54"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_16_12",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:16:12"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_16_12",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 18
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_16_41",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:16:41"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_16_41",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 19
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_16_12",
+      "to": "statement_dan_khasis_00_16_41",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_16_59",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:16:59"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_16_59",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 20
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_16_41",
+      "to": "statement_vladimir_zhakhavets_00_16_59",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_17_35",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:17:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_17_35",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 21
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_16_59",
+      "to": "statement_dan_khasis_00_17_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_18_17",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:18:17"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_18_17",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 22
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_17_35",
+      "to": "statement_vladimir_zhakhavets_00_18_17",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_18_56",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:18:56"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_18_56",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 23
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_18_17",
+      "to": "statement_dan_khasis_00_18_56",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_19_01",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:19:01"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_19_01",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 24
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_18_56",
+      "to": "statement_vladimir_zhakhavets_00_19_01",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_19_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:19:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_19_15",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 25
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_19_01",
+      "to": "statement_dan_khasis_00_19_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_19_18",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:19:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_19_18",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 26
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_19_15",
+      "to": "statement_vladimir_zhakhavets_00_19_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_19_37",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:19:37"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_19_37",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 27
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_19_18",
+      "to": "statement_dan_khasis_00_19_37",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_19_45",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:19:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_19_45",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 28
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_19_37",
+      "to": "statement_vladimir_zhakhavets_00_19_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_20_22",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:20:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_20_22",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 29
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_19_45",
+      "to": "statement_dan_khasis_00_20_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_21_47",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:21:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_21_47",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 30
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_20_22",
+      "to": "statement_vladimir_zhakhavets_00_21_47",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_22_21",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:22:21"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_22_21",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 31
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_21_47",
+      "to": "statement_dan_khasis_00_22_21",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_22_34",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:22:34"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_22_34",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 32
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_22_21",
+      "to": "statement_vladimir_zhakhavets_00_22_34",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_23_44",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:23:44"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_23_44",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 33
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_22_34",
+      "to": "statement_dan_khasis_00_23_44",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_24_19",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:24:19"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_24_19",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 34
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_23_44",
+      "to": "statement_vladimir_zhakhavets_00_24_19",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_24_34",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:24:34"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_24_34",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 35
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_24_19",
+      "to": "statement_dan_khasis_00_24_34",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_25_13",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:25:13"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_25_13",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 36
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_24_34",
+      "to": "statement_vladimir_zhakhavets_00_25_13",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_25_47",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:25:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_25_47",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 37
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_25_13",
+      "to": "statement_dan_khasis_00_25_47",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_26_29",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:26:29"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_26_29",
+      "to": "topic_multi_service_type_architecture___customer_location_config",
+      "properties": {
+        "sequence": 38
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_25_47",
+      "to": "statement_vladimir_zhakhavets_00_26_29",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_multi_service_type_architecture___customer_location_config",
+      "to": "decision_multi_service_type_architecture_solution_required",
+      "properties": {
+        "label": "Multi-Service Type Architecture Solution Required"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_multi_service_type_architecture_solution_required",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_multi_service_type_architecture___customer_location_config",
+      "to": "action_design_and_present_architectur",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_and_present_architectur",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_multi_service_type_architecture___customer_location_config",
+      "to": "action_investigate_and_resolve_hardco",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_investigate_and_resolve_hardco",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_multi_service_type_architecture___customer_location_config",
+      "to": "action_design_icon_system_for_custom_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_icon_system_for_custom_",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_multi_service_type_architecture___customer_location_config",
+      "to": "issue_dynamic_custom_service_types_not_supported",
+      "properties": {
+        "label": "Dynamic Custom Service Types Not Supported"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "properties": {
+        "time_range": "00:27:03 - 00:39:04"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_manar_kurmanov_00_27_03",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "timestamp": "00:27:03"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_manar_kurmanov_00_27_03",
+      "to": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "properties": {
+        "sequence": 39
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_30_11",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:30:11"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_30_11",
+      "to": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "properties": {
+        "sequence": 40
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_manar_kurmanov_00_27_03",
+      "to": "statement_dan_khasis_00_30_11",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_manar_kurmanov_00_33_08",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "timestamp": "00:33:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_manar_kurmanov_00_33_08",
+      "to": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "properties": {
+        "sequence": 41
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_30_11",
+      "to": "statement_manar_kurmanov_00_33_08",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "to": "decision_depot_selection_ux_must_use_facilities_table",
+      "properties": {
+        "label": "Depot Selection UX Must Use Facilities Table"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_depot_selection_ux_must_use_facilities_table",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "to": "action_redesign_depot_selection_step_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_redesign_depot_selection_step_",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui___depot_selection_redesign",
+      "to": "action_add_secondary__add_new_depot__",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_secondary__add_new_depot__",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_strategic_optimization_solver_performance___timeout",
+      "properties": {
+        "time_range": "00:39:04 - 00:48:20"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_33_42",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:33:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_33_42",
+      "to": "topic_strategic_optimization_solver_performance___timeout",
+      "properties": {
+        "sequence": 42
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_34_15",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:34:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_34_15",
+      "to": "topic_strategic_optimization_solver_performance___timeout",
+      "properties": {
+        "sequence": 43
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_33_42",
+      "to": "statement_igor_skrynkovskyy_00_34_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_37_26",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:37:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_37_26",
+      "to": "topic_strategic_optimization_solver_performance___timeout",
+      "properties": {
+        "sequence": 44
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_34_15",
+      "to": "statement_dan_khasis_00_37_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_39_04",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:39:04"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_39_04",
+      "to": "topic_strategic_optimization_solver_performance___timeout",
+      "properties": {
+        "sequence": 45
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_37_26",
+      "to": "statement_semeyon_svetliy_00_39_04",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_solver_performance___timeout",
+      "to": "decision_strategic_solver_timeout_strategy",
+      "properties": {
+        "label": "Strategic Solver Timeout Strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_strategic_solver_timeout_strategy",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_solver_performance___timeout",
+      "to": "action_implement_30_minute_timeout_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_30_minute_timeout_fo",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_solver_performance___timeout",
+      "to": "action_optimize_clustering_algorithm_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_optimize_clustering_algorithm_",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_solver_performance___timeout",
+      "to": "action_work_toward_5_10_minute_maximu",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_work_toward_5_10_minute_maximu",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_strategic_optimization_solver_performance___timeout",
+      "to": "issue_strategic_solver_performance_bottleneck",
+      "properties": {
+        "label": "Strategic Solver Performance Bottleneck"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_address_book_map_performance_optimization",
+      "properties": {
+        "time_range": "00:48:20 - 00:50:15"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_fedorov_00_39_25",
+      "to": "person_vladimir_fedorov",
+      "properties": {
+        "timestamp": "00:39:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_fedorov_00_39_25",
+      "to": "topic_address_book_map_performance_optimization",
+      "properties": {
+        "sequence": 46
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_41_02",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:41:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_41_02",
+      "to": "topic_address_book_map_performance_optimization",
+      "properties": {
+        "sequence": 47
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_fedorov_00_39_25",
+      "to": "statement_dan_khasis_00_41_02",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_address_book_map_performance_optimization",
+      "to": "action_investigate_why_users_load_10k",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_investigate_why_users_load_10k",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_13_product_progress_review___service_time__strategic_optimization___vehicle_tracking",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "time_range": "00:50:59 - 01:01:32"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_41_47",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:41:47"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_41_47",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 48
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_42_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:42:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_42_15",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 49
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_41_47",
+      "to": "statement_dan_khasis_00_42_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_42_20",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:42:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_42_20",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 50
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_42_15",
+      "to": "statement_artur_moskalenko_00_42_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_45_11",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:45:11"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_45_11",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 51
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_42_20",
+      "to": "statement_dan_khasis_00_45_11",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_volodymyr_ishchenko_00_48_20",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "timestamp": "00:48:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_volodymyr_ishchenko_00_48_20",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 52
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_45_11",
+      "to": "statement_volodymyr_ishchenko_00_48_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_49_54",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:49:54"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_49_54",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 53
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_volodymyr_ishchenko_00_48_20",
+      "to": "statement_dan_khasis_00_49_54",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_50_42",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:50:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_50_42",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 54
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_49_54",
+      "to": "statement_igor_skrynkovskyy_00_50_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_51_28",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:51:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_51_28",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 55
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_50_42",
+      "to": "statement_dan_khasis_00_51_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_52_05",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:52:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_52_05",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 56
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_51_28",
+      "to": "statement_artur_moskalenko_00_52_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_52_52",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:52:52"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_52_52",
+      "to": "topic_vehicle_tracking_visibility_crisis",
+      "properties": {
+        "sequence": 57
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_52_05",
+      "to": "statement_dan_khasis_00_52_52",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "decision_vehicle_tracking_ui_must_be_visible_by_default",
+      "properties": {
+        "label": "Vehicle Tracking UI Must Be Visible By Default"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_vehicle_tracking_ui_must_be_visible_by_default",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_fix_vehicle_limit_caching_bug_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_vehicle_limit_caching_bug_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_enable__pending__filter_by_def",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_enable__pending__filter_by_def",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_enable_vehicle_and_user_map_la",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_enable_vehicle_and_user_map_la",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_show_vehicle_location_in_vehic",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_show_vehicle_location_in_vehic",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_expose_historical_vehicle_trac",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_expose_historical_vehicle_trac",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_add_polylines_generation_for_v",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_polylines_generation_for_v",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "action_create_automatic_dependency_sy",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_automatic_dependency_sy",
+      "to": "person_architecture_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "issue_vehicle_limit_caching_bug",
+      "properties": {
+        "label": "Vehicle Limit Caching Bug"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_vehicle_tracking_visibility_crisis",
+      "to": "issue_map_layer_feature_flags_hidden_during_refactoring",
+      "properties": {
+        "label": "Map Layer Feature Flags Hidden During Refactoring"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 112,
+    "total_relationships": 236,
+    "node_counts": {
+      "meetings": 1,
+      "people": 19,
+      "topics": 6,
+      "statements": 57,
+      "decisions": 9,
+      "action_items": 20
+    }
+  }
+}

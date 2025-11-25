@@ -1,0 +1,3585 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.535801",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+        "type": "Meeting",
+        "title": "Product Progress Review - Strategic Planner, Mobile App, Vehicle Snapshot",
+        "date": "2025-09-25",
+        "duration": "03:42:56",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Vova (UI/UX Design)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Parker Woodward (Sales)",
+          "Davron Usmonov (Frontend Engineer)",
+          "Semeyon S (VP Platform)",
+          "Artur Moskalenko (QA Director)",
+          "Kateryna Shevchenko (QA Lead)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "Serhii Kasainov (Frontend Tech Lead)",
+          "Anton Zadyraka (Mobile QA Team Lead)",
+          "Igor S.",
+          "Oleg Pravyk (QA)",
+          "Alex Yasko (Product Manager)",
+          "Manar Kurmanov (Frontend Engineer)",
+          "Eugene (Frontend Engineer)",
+          "Vladimir Fedorov (Frontend Developer)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__ui_ux_design_",
+        "type": "Person",
+        "name": "Vova (UI/UX Design)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_parker_woodward__sales_",
+        "type": "Person",
+        "name": "Parker Woodward (Sales)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_davron_usmonov__frontend_engineer_",
+        "type": "Person",
+        "name": "Davron Usmonov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_kateryna_shevchenko__qa_lead_",
+        "type": "Person",
+        "name": "Kateryna Shevchenko (QA Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__frontend_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Frontend Tech Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_anton_zadyraka__mobile_qa_team_lead_",
+        "type": "Person",
+        "name": "Anton Zadyraka (Mobile QA Team Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_s_",
+        "type": "Person",
+        "name": "Igor S.",
+        "statements_count": 0
+      },
+      {
+        "id": "person_oleg_pravyk__qa_",
+        "type": "Person",
+        "name": "Oleg Pravyk (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alex_yasko__product_manager_",
+        "type": "Person",
+        "name": "Alex Yasko (Product Manager)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_manar_kurmanov__frontend_engineer_",
+        "type": "Person",
+        "name": "Manar Kurmanov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_eugene__frontend_engineer_",
+        "type": "Person",
+        "name": "Eugene (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladimir_fedorov__frontend_developer_",
+        "type": "Person",
+        "name": "Vladimir Fedorov (Frontend Developer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova",
+        "type": "Person",
+        "name": "Vova",
+        "statements_count": 25
+      },
+      {
+        "id": "person_kateryna_shevchenko",
+        "type": "Person",
+        "name": "Kateryna Shevchenko",
+        "statements_count": 2
+      },
+      {
+        "id": "person_igor_skrynkovskyy",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy",
+        "statements_count": 4
+      },
+      {
+        "id": "person_igor_golovtsov",
+        "type": "Person",
+        "name": "Igor Golovtsov",
+        "statements_count": 2
+      },
+      {
+        "id": "person_dan_khasis",
+        "type": "Person",
+        "name": "Dan Khasis",
+        "statements_count": 24
+      },
+      {
+        "id": "person_semeyon_s",
+        "type": "Person",
+        "name": "Semeyon S",
+        "statements_count": 1
+      },
+      {
+        "id": "person_alexey_gusentsov",
+        "type": "Person",
+        "name": "Alexey Gusentsov",
+        "statements_count": 1
+      },
+      {
+        "id": "person_davron_usmonov",
+        "type": "Person",
+        "name": "Davron Usmonov",
+        "statements_count": 4
+      },
+      {
+        "id": "person_artur_moskalenko",
+        "type": "Person",
+        "name": "Artur Moskalenko",
+        "statements_count": 3
+      },
+      {
+        "id": "person_alexey_afanasiev",
+        "type": "Person",
+        "name": "Alexey Afanasiev",
+        "statements_count": 1
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_mobile_app_login_screen_redesign",
+        "type": "Topic",
+        "label": "Mobile App Login Screen Redesign",
+        "time_range": "00:06:09 - 00:08:37",
+        "participants": [
+          "Vova",
+          "Kateryna Shevchenko",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "mobile",
+          "app",
+          "login",
+          "screen",
+          "redesign"
+        ]
+      },
+      {
+        "id": "topic_mobile_app_plan_route_flow_redesign",
+        "type": "Topic",
+        "label": "Mobile App Plan Route Flow Redesign",
+        "time_range": "00:13:00 - 00:28:43",
+        "participants": [
+          "Vova",
+          "Alexey Afanasiev",
+          "Kateryna Shevchenko",
+          "Artur Moskalenko",
+          "Igor Golovtsov",
+          "Anton Zadyraka"
+        ],
+        "keywords": [
+          "mobile",
+          "app",
+          "plan",
+          "route",
+          "flow"
+        ]
+      },
+      {
+        "id": "topic_customer_portal_and_visit_vs_destination_terminology",
+        "type": "Topic",
+        "label": "Customer Portal and Visit vs Destination Terminology",
+        "time_range": "00:37:50 - 00:40:26",
+        "participants": [
+          "Vova",
+          "Dan Khasis",
+          "Team"
+        ],
+        "keywords": [
+          "customer",
+          "portal",
+          "visit",
+          "destination",
+          "terminology"
+        ]
+      },
+      {
+        "id": "topic_strategic_planner_lifecycle_and_status_system",
+        "type": "Topic",
+        "label": "Strategic Planner Lifecycle and Status System",
+        "time_range": "00:40:26 - 00:55:36",
+        "participants": [
+          "Igor Golovtsov",
+          "Semeyon S",
+          "Dan Khasis",
+          "Igor Skrynkovskyy",
+          "Vova"
+        ],
+        "keywords": [
+          "strategic",
+          "planner",
+          "lifecycle",
+          "status",
+          "system"
+        ]
+      },
+      {
+        "id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+        "type": "Topic",
+        "label": "Strategic Planner Analytics Dashboard and Scenario Comparison",
+        "time_range": "00:48:32 - 00:59:02",
+        "participants": [
+          "Vova",
+          "Dan Khasis",
+          "Semeyon S",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "planner",
+          "analytics",
+          "dashboard",
+          "scenario"
+        ]
+      },
+      {
+        "id": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+        "type": "Topic",
+        "label": "Vehicle Snapshot Transformation to Operational Dashboard",
+        "time_range": "01:04:30 - 01:13:40",
+        "participants": [
+          "Alexey Gusentsov",
+          "Vova",
+          "Dan Khasis",
+          "Davron Usmonov"
+        ],
+        "keywords": [
+          "vehicle",
+          "snapshot",
+          "transformation",
+          "operational",
+          "dashboard"
+        ]
+      },
+      {
+        "id": "topic_telematics_fields_and_vehicle_popover_enhancement",
+        "type": "Topic",
+        "label": "Telematics Fields and Vehicle PopOver Enhancement",
+        "time_range": "03:35:50 - 03:39:24",
+        "participants": [
+          "Davron Usmonov",
+          "Dan Khasis",
+          "Alexey Gusentsov",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "telematics",
+          "fields",
+          "vehicle",
+          "popover",
+          "enhancement"
+        ]
+      },
+      {
+        "id": "topic_weather_layer_release_decision",
+        "type": "Topic",
+        "label": "Weather Layer Release Decision",
+        "time_range": "03:39:24 - 03:43:06",
+        "participants": [
+          "Artur Moskalenko",
+          "Dan Khasis",
+          "Eugene"
+        ],
+        "keywords": [
+          "weather",
+          "layer",
+          "release",
+          "decision"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "id": "statement_vova_00_06_09",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:06:09",
+        "text": "We've drawn 150 versions of the login screen. I honestly lean towards this login screen being the best. This is for our mobile app. It's not finished, just a raw draft, but we have a million versions. The third option was best because you can log in with everything and you can reach it with your thumb holding the phone in one hand, instead of stretching for Google Login at the very top like on the first two images.",
+        "sequence": 1,
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "statement_kateryna_shevchenko_00_07_41",
+        "type": "Statement",
+        "speaker_id": "person_kateryna_shevchenko",
+        "timestamp": "00:07:41",
+        "text": "Vova, did you simplify this based on some analytics showing how most people register, or on what basis?",
+        "sequence": 2,
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "statement_vova_00_07_51",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:07:51",
+        "text": "Based on empirical experience, nothing else. We don't collect, we don't have an analytics department to do that.",
+        "sequence": 3,
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_08_13",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:08:13",
+        "text": "This is a very good observation. Because, for example, I know that we don't only use Google. We have two big usages and a third separate one. It's Google, Microsoft, and Apple. These are commonly used things.",
+        "sequence": 4,
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "statement_vova_00_08_38",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:08:38",
+        "text": "What are the proportions between them? We need to find out. I suggest we go to Artem and ask. Good idea. Just so we don't cut off what people use. If Microsoft is used by 10%, not 2% or 1%, then of course it's needed. Even if it's 2% or 1%, why take away the button from these people? They'll just have to find their button once, and then after that they'll always see theirs.",
+        "sequence": 5,
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "statement_vova_00_13_05",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:13:05",
+        "text": "I'll demo the new Plan Route process for the mobile app. It's not finished yet, we're figuring out an illustration here. You enter the app for the first time, it says let's plan a route. Still in Airframe. Or if you already have routes, you see this form. You have a big card for the route you need to drive. This is a new feature where the dispatcher can publish unassigned routes, and drivers in the company can see them under this button and accept them if they're in their region.",
+        "sequence": 6,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_13_05",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:13:05",
+        "text": "Changes: We hid history. We show the next route with a big card. Then you click Plan New Route here, here, or here depending on Flow. You arrive here. This is your empty route. By default, the assumption is you start from where you are now. And you have a Destinations button or edit Start Location. Adding Destination is very similar to what we had. You search, it's inserted by distance, filtered for what's not on your continent. Then you see beautiful additional parameters where you can edit or add something.",
+        "sequence": 7,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_15_05",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:15:05",
+        "text": "And the new Split feature to plan multiple routes at once. You turn it on - it's off by default. If you want multiple routes at once, turn it on and set limits. Maximum number of routes to plan. And a button to spread routes across following days if you're driving yourself, not handing off to someone.",
+        "sequence": 8,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_kateryna_shevchenko_00_15_19",
+        "type": "Statement",
+        "speaker_id": "person_kateryna_shevchenko",
+        "timestamp": "00:15:19",
+        "text": "I have questions about buttons. Not about the logic. Visual is generally okay, main concept. But button labels I want shorter. Seems like extra information. For example, Save Route, Start Route. It's clear we're talking about a route. And in settings, there's also quite a bit. Where you have No Limits, it's too close together. You need to either build in line wrapping or shorten somehow.",
+        "sequence": 9,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_16_39",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:16:39",
+        "text": "We took the parameters we already have implemented. This part. Added 4 options Dan requested plus one we thought of ourselves. And look, restrictions too - clearly we can select multiple. Then we'll also need examples when selected. So it will definitely be multiple lines or ellipsis.",
+        "sequence": 10,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_17_34",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:17:34",
+        "text": "Actually this is Dan's text, I think he'll decide more. I tried to make short labels that are maximally unambiguous. So they can't be interpreted two ways.",
+        "sequence": 11,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_18_22",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:18:22",
+        "text": "About this same thing. There were screens to the right. Where you have Play New Route, Play Route. There was My Route, something there, Start Route. 100% this was discussed. Well yeah, on the Play New Route screen you have action button 1.1 and it won't do anything. What do you suggest, take Plan, or what? What's the alternative?",
+        "sequence": 12,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_19_04",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:19:04",
+        "text": "Where there's Save, remove Route everywhere. Here you can write Continue, but I think it's better to be specific.",
+        "sequence": 13,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_19_18",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:19:18",
+        "text": "And this is the name, the default route name. The user will write what they want here.",
+        "sequence": 14,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_21_11",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:21:11",
+        "text": "And we highlight the most likely action they should do next with a green button. In this case they have a route planned for today, so we know they probably don't need new routes today, so we don't highlight this button. It exists, they can press it, it will work, but we don't focus attention on it. Because apparently it's time for them to drive.",
+        "sequence": 15,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_22_23",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:22:23",
+        "text": "I think it's better to separate to different screens because the use cases don't overlap. My Routes is my to-do list, what I need to work on. All Routes is not my to-do list, it's what my company is doing, it's an analytics screen. More like checking current status.",
+        "sequence": 16,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_23_25",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:23:25",
+        "text": "Scan, import, choose on map, current location, enter with microphone. Did we forget something?",
+        "sequence": 17,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_24_02",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:24:02",
+        "text": "I think here we can lay this out differently, make huge buttons here with pictures. Like ways to enter addresses.",
+        "sequence": 18,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_24_19",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:24:19",
+        "text": "It will say Import, Photo, Choose Map. We'll definitely have recent addresses highlighted first.",
+        "sequence": 19,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_25_14",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:25:14",
+        "text": "The path honestly doesn't shorten much, because opening a menu and choosing an option is two steps. In our version you click the search bar, click an additional option. Same two steps. We just visually spend fewer objects on the screen. Simplifying the exterior. With the same number of stages.",
+        "sequence": 20,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_26_00",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:26:00",
+        "text": "Here actually we can add Voice. We can add it here. We can add additional options here.",
+        "sequence": 21,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_26_15",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:26:15",
+        "text": "Dictate immediately or photograph immediately? From here. This is a good idea. I like it.",
+        "sequence": 22,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_27_22",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:27:22",
+        "text": "When you choose depot, give the option to remember this depot forever. Good idea.",
+        "sequence": 23,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_28_32",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:28:32",
+        "text": "Import source. Then you choose address book or something else. Or upload a file or connect Google Drive. There will be options.",
+        "sequence": 24,
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "statement_vova_00_37_50",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:37:50",
+        "text": "Presenting the Customer Portal concept. The portal allows end customers to interact with the system: view their scheduled visits and request new ones.",
+        "sequence": 25,
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "statement_vova_00_38_15",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:38:15",
+        "text": "Key terminology decision: In the customer-facing interface, we should use the term \"Visit\" not \"Destination\". Destination is a physical place, but Visit is an event, a service at that place, which more accurately reflects what the customer is requesting.",
+        "sequence": 26,
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "statement_dan_khasis_00_39_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:39:30",
+        "text": "I agree with the proposed concept and terminology.",
+        "sequence": 27,
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_40_26",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:40:26",
+        "text": "We need to define the lifecycle and status set for the new Strategic Plan entity.",
+        "sequence": 28,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_semeyon_s_00_41_15",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s",
+        "timestamp": "00:41:15",
+        "text": "Proposed lifecycle: Draft (initial setup), Syncing/Importing (data processing), In Progress (optimization running), Completed (optimization finished, results ready), Accepted (final status before publishing to real Master Routes or Ad-hoc Routes).",
+        "sequence": 29,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_45_26",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:45:26",
+        "text": "In the JSON, Juan specified the name schedulerName. If we write \"scenario\" here, users will never match this in their heads and will sit looking at an error. That's why it's chosen this way, so it works and doesn't confuse users.",
+        "sequence": 30,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_45_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:45:45",
+        "text": "You're basically right, where for this scenario should somehow appear on this left side. And now you see why it's so convenient to have JSON. Okay, this already looks right, but here's another thing that's wrong. Cycles should be 2.",
+        "sequence": 31,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_46_22",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:46:22",
+        "text": "I don't understand why he made it 4.",
+        "sequence": 32,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_46_26",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:46:26",
+        "text": "Because there was no cycle in the JSON and the default value is 4. Here's cycle 4, just copied the game. I don't know why he chose 4. I'm trying to tell you. I understand there's 4 there. 4 is the number of weeks. That's a month. So it's wrong. It should be 2, not 4.",
+        "sequence": 33,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_47_01",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:47:01",
+        "text": "Or what does this mean?",
+        "sequence": 34,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_igor_skrynkovskyy_00_47_05",
+        "type": "Statement",
+        "speaker_id": "person_igor_skrynkovskyy",
+        "timestamp": "00:47:05",
+        "text": "This is the definition of a month. Number of days in the cycle.",
+        "sequence": 35,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_47_16",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:47:16",
+        "text": "Because by default we need to output 7.",
+        "sequence": 36,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_48_07",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:48:07",
+        "text": "Yes, but we need to... Don't do this now after defects, when you fix it. All headers are wrong. They're all headers... Machine headers, not human headers. These are just raw names. Without polish. This is an anti-pattern.",
+        "sequence": 37,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_48_39",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:48:39",
+        "text": "This isn't a wizard. This is not a wizard. A wizard does... You click, you nicely insert everything. These are wizard steps, you're now on the third step of the wizard. Form is the wrong word then. I haven't thought of anything better. Why can't we just call it Scenarios? Because Scenarios is in all tabs. But it's not a form. Okay.",
+        "sequence": 38,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_49_22",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:49:22",
+        "text": "Serhii, there will be Add Duplicate Scenario here, as we talked about the wizard. And in this wizard it will be by accumulation method. You'll be able to add any number of scenarios where some things change.",
+        "sequence": 39,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_54_54",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:54:54",
+        "text": "Yes, here it's right. We just have a filter by number of stops in the route in routes. Sorry, go back one second to the previous topic. Here it's wrong. How can a location be routed inside a scenario? Routed can only be in an ad-hoc route or instead of a route. Here the status can only be Imported or Imported for Recurring or Imported for Ad-hoc. There can't be a routing status here.",
+        "sequence": 40,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_dan_khasis_00_55_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:55:45",
+        "text": "What does routed mean here, Igor? We have a funnel of work, right? You uploaded a file, you got optimization. In the optimization there are multiple scenarios. There are shared locations between all scenarios. Now inside a scenario you have global locations regardless of scenario. How can a location be routed in context, not in the context of a scenario? At best it can be imported, flag true/false within one individual scenario, not within the global list of locations. So it could end up in one scenario but not in another. So this is the wrong filter. It's meaningless. You could have everything routed, but some in one scenario, others in another. In the end you could have all scenarios that have unrouted, and this thing just misinforms you.",
+        "sequence": 41,
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "statement_vova_00_48_45",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "00:48:45",
+        "text": "Presenting the design for strategic planning results screen. The goal is to create a powerful analytics tool, not just a route list. The dashboard aggregates key metrics from scenario results: number of routes, stops, total mileage, cost, etc. Includes various widgets for data visualization, including Polar Charts. Key feature is Comparison View allowing users to compare multiple scenarios side-by-side.",
+        "sequence": 42,
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "statement_dan_khasis_00_52_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:52:15",
+        "text": "I fully support the analytics dashboard concept. This is exactly what competitors lack. Need deep analytics including statistical distribution and bucketization - for example, \"how many routes have between 10 and 20 stops\". The scenario comparison function is one of the most important and powerful features of the new tool.",
+        "sequence": 43,
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "statement_dan_khasis_00_54_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:54:30",
+        "text": "This should be an analytical instrument for making informed business decisions, not just a route viewer.",
+        "sequence": 44,
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "statement_vova_01_04_45",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "01:04:45",
+        "text": "Presenting concept mockups for Vehicle Snapshot page including real-time data widgets and historical data analysis charts.",
+        "sequence": 45,
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "statement_alexey_gusentsov_01_05_20",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "01:05:20",
+        "text": "Telemetry data display is already partially implemented.",
+        "sequence": 46,
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "statement_dan_khasis_01_06_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:06:15",
+        "text": "FlightAware analogy - the page should provide exhaustive information like flight tracking sites: beautiful large map, real-time data, historical tracks, and analytical graphs. At the top of the screen there should be a heads-up display with key real-time metrics: Current Speed, Odometer, Altitude, Fuel Level, Battery Level, Current Route.",
+        "sequence": 47,
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "statement_dan_khasis_01_08_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:08:45",
+        "text": "Need to add a new Telemetry or Tracking tab showing the complete log of all historical GPS points as a table with all accompanying data. This is critically important for investigations - for example, when suspecting fuel theft. Full telemetry history is essential for forensic analysis.",
+        "sequence": 48,
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "statement_dan_khasis_01_10_20",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:10:20",
+        "text": "Need to implement Plan vs Actual graphs comparing planned route metrics against actual data. For example, planned speed/altitude against actual. This allows users to see where execution deviated from plan and understand why.",
+        "sequence": 49,
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "statement_davron_usmonov_03_35_50",
+        "type": "Statement",
+        "speaker_id": "person_davron_usmonov",
+        "timestamp": "03:35:50",
+        "text": "We have LastUpdate information. We display it and show LastUpdate.",
+        "sequence": 50,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_dan_khasis_03_36_04",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:36:04",
+        "text": "It would be nice to display green, yellow, red here. For LastUpdate, it would be good to add another row for specific time, because here you have to calculate in your head how many seconds ago it was. Yes, just need to write how many minutes ago, or seconds ago, or hours ago. No, I would add another row, or in parentheses, or another row.",
+        "sequence": 51,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_davron_usmonov_03_36_50",
+        "type": "Statement",
+        "speaker_id": "person_davron_usmonov",
+        "timestamp": "03:36:50",
+        "text": "I would write how much time ago, and on Hover, on Tooltip just show the specific date and time. Look, in vehicles it's exactly this implementation, I wanted to ask. It says LastUpdate when it was, 7 days ago or 5 minutes ago. That's the info given.",
+        "sequence": 52,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_vova_03_37_10",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "03:37:10",
+        "text": "This is just much easier to perceive. Only it's incorrectly grouped and sorted here.",
+        "sequence": 53,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_davron_usmonov_03_37_19",
+        "type": "Statement",
+        "speaker_id": "person_davron_usmonov",
+        "timestamp": "03:37:19",
+        "text": "I understand, we'll pass a more informative text. But depending on how long ago it was. There should be either days, or hours, or minutes, or seconds. Yes, that's how it is now. If days - days, if it's about hours, hours are written, and if it's already too small, then in minutes.",
+        "sequence": 54,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_dan_khasis_03_37_43",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:37:43",
+        "text": "Is there a column in the vehicles list itself for this data?",
+        "sequence": 55,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_davron_usmonov_03_37_51",
+        "type": "Statement",
+        "speaker_id": "person_davron_usmonov",
+        "timestamp": "03:37:51",
+        "text": "Yes, but not all. There's odometer. So, we have battery health.",
+        "sequence": 56,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_dan_khasis_03_37_59",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:37:59",
+        "text": "But this isn't LastPosition, it's LastUpdate, more correctly said.",
+        "sequence": 57,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_dan_khasis_03_38_07",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:38:07",
+        "text": "This isn't LastPosition, this is LastUpdateReceived.",
+        "sequence": 58,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_dan_khasis_03_38_34",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:38:34",
+        "text": "Well here's the LastPosition address column, I don't understand something. It shouldn't be LastPosition, it should be LastUpdate, because this creates the illusion that you have a difference between location and position, which doesn't affect engine status or temperature at all. Yes, we'll ask backend, they'll rename it.",
+        "sequence": 59,
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "statement_artur_moskalenko_03_39_24",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "03:39:24",
+        "text": "Short question, Dan. The weather layer is ready on staging, which we brought back. The question is whether to include it in the module that was before - I think it was called Predictive Weather.",
+        "sequence": 60,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_dan_khasis_03_40_06",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:40:06",
+        "text": "Roman Kozodoi made Predictive Weather a long time ago, then we abandoned that service, then we made a new service, but I don't remember if that new service was for Predictive Weather. I think it was more for something else.",
+        "sequence": 61,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_artur_moskalenko_03_40_38",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "03:40:38",
+        "text": "In this Predictive Weather there was a feature that added a weather layer to maps, and when we planned a route, weather was taken by location, and depending on if there was rain or snow, bad weather, it was proposed to increase service time and roll duration. But they really went to that API, that location, that day - if yes, then great. This was there, but it was a long time ago.",
+        "sequence": 62,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_dan_khasis_03_41_17",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:41:17",
+        "text": "I would enable weather layer for all people, but enable Predictive Weather only for people who have the Predictive Weather module.",
+        "sequence": 63,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_alexey_afanasiev_03_41_43",
+        "type": "Statement",
+        "speaker_id": "person_alexey_afanasiev",
+        "timestamp": "03:41:43",
+        "text": "Then we're all set.",
+        "sequence": 64,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_dan_khasis_03_41_46",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:41:46",
+        "text": "Okay. Eugene, let's stay with Artur. Eugene, will you stay? To discuss weather to the end. Okay. But actually about weather I still didn't understand. If we're enabling it for everyone now, this will just generate money because we pay per number of calls. Not many people use the map layer, this UI, but yes, we'll pay, but salespeople will sell this even more.",
+        "sequence": 65,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_artur_moskalenko_03_42_33",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "03:42:33",
+        "text": "Yes, but so it's not turned on by default, at least I mean in the checkbox.",
+        "sequence": 66,
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "statement_dan_khasis_03_42_56",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:42:56",
+        "text": "Bye. Bye.",
+        "sequence": 67,
+        "topic_id": "topic_weather_layer_release_decision"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision_authentication_options_analysis",
+        "type": "Decision",
+        "description": "Analyze authentication usage statistics (Google, Microsoft, Apple SSO) before finalizing login screen design",
+        "decided_by": "Igor Skrynkovskyy, Vova",
+        "rationale": "Need to understand actual user distribution across authentication providers to avoid cutting off significant user groups. Even small percentages represent real users who shouldn't be inconvenienced. [PENDING_DATA_ANALYSIS]",
+        "alternatives": [],
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "decision_mobile_route_planning_wizard_approved",
+        "type": "Decision",
+        "description": "Implement new step-by-step wizard flow for mobile route planning with simplified UI and multiple destination input methods",
+        "decided_by": "Dan (implicit approval), Vova",
+        "rationale": "Current flow is too complex for mobile users. New wizard simplifies the process while maintaining flexibility. Includes new features: unassigned route acceptance, route splitting, multiple input methods (voice, photo, map, search, import). [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "decision_customer_portal_terminology_standard",
+        "type": "Decision",
+        "description": "Use term \"Visit\" in all customer-facing interfaces instead of \"Destination\"",
+        "decided_by": "Dan, Vova",
+        "rationale": "Destination refers to physical location; Visit refers to the service event, which better matches customer mental model and request pattern. This improves customer understanding and creates more client-oriented product. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "decision_strategic_plan_status_lifecycle_approved",
+        "type": "Decision",
+        "description": "Implement status lifecycle: Draft → Syncing/Importing → In Progress → Completed → Accepted",
+        "decided_by": "Dan, Igor Golovtsov, Semeyon S",
+        "rationale": "Clear status system allows users to understand where their work is in the process and provides controlled transition from hypothetical scenario to real executable routes. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "decision_scenario_duplication_and_parameter_variation",
+        "type": "Decision",
+        "description": "Implement Add Duplicate Scenario feature allowing users to create multiple scenarios with varying parameters",
+        "decided_by": "Dan, Semeyon S",
+        "rationale": "Users need to test multiple hypothetical configurations quickly. Duplication with parameter changes enables rapid what-if analysis. [EXECUTING_CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "issue_location_routing_status_filter_logic_error",
+        "type": "TechnicalIssue",
+        "description": "**[00:54:54] Dan Khasis:** Filter showing \"routed\" status for locations within Strategic Planner is fundamentally flawed. Locations exist at optimization level (shared across scenarios), but routing happens at scenario level. A location can be routed in one scenario but not another. Filter showing all locations as \"routed\" or \"unrouted\" is meaningless and misinforms users about actual scenario composition.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "decision_strategic_planner_results_as_analytics_dashboard",
+        "type": "Decision",
+        "description": "Strategic planning results will be a full analytics dashboard, not a simple route list, with deep statistical analysis and scenario comparison as central features",
+        "decided_by": "Dan, Vova",
+        "rationale": "Dan emphasized this is what competitors don't have. Deep analytics including statistical distribution, bucketization (e.g., \"how many routes have 10-20 stops\"), and side-by-side scenario comparison are key competitive advantages. This tool enables data-driven business decisions, which is the core value proposition. [CEO_FINAL_DECISION]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "decision_vehicle_snapshot_complete_redesign",
+        "type": "Decision",
+        "description": "Transform Vehicle Snapshot from static information page to powerful operational dashboard combining real-time data, deep historical analytics, and Plan vs Actual comparison tools",
+        "decided_by": "Dan, Vova",
+        "rationale": "Dan specified FlightAware-level detail: exhaustive information with beautiful large map, real-time heads-up display, complete historical telemetry log for investigations (fuel theft, route violations), and Plan vs Actual comparison graphs. This gives users complete fleet control and operational understanding. [CEO_FINAL_DECISION]",
+        "alternatives": [],
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "decision_relative_time_display_standard",
+        "type": "Decision",
+        "description": "Display time since last update in relative format (7 days ago, 5 minutes ago) everywhere in the system, with absolute timestamp on tooltip/hover",
+        "decided_by": "Dan, Davron Usmonov",
+        "rationale": "Dan emphasized relative time is much more informative for operational work than absolute timestamps. Users need to quickly assess data freshness without mental calculation. This improves usability across all real-time data displays. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "decision_lastupdate_terminology_correction",
+        "type": "Decision",
+        "description": "Rename \"LastPosition\" field to \"LastUpdate\" or \"LastUpdateReceived\" throughout system",
+        "decided_by": "Dan",
+        "rationale": "Current terminology creates false distinction between \"location\" and \"position\" that confuses users and doesn't reflect reality. LastUpdate accurately describes telemetry data freshness regardless of data type (location, temperature, status, etc.). [EXECUTING_CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "decision_weather_layer_universal_release",
+        "type": "Decision",
+        "description": "Enable weather layer for all users; enable Predictive Weather feature only for users with Predictive Weather module",
+        "decided_by": "Dan",
+        "rationale": "Weather layer provides value to all users and creates sales opportunities. Cost will be incurred for API calls but sales team can leverage this for upselling. Predictive Weather (which adjusts service time based on forecast) remains premium module feature. [CEO_FINAL_DECISION]",
+        "alternatives": [],
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "issue_weather_layer_api_cost_management",
+        "type": "TechnicalIssue",
+        "description": "**[03:41:46] Dan Khasis:** Enabling weather layer for all users will generate API costs since we pay per call. Need to balance cost against sales opportunity. Weather layer shouldn't be enabled by default in checkbox to control API usage.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_weather_layer_release_decision"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_provide_authentication_statist",
+        "type": "ActionItem",
+        "description": "Provide authentication statistics breakdown (Google vs Microsoft vs Apple SSO usage)",
+        "owner_id": "person_artur_moskalenko",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "action_finalize_login_screen_design_b",
+        "type": "ActionItem",
+        "description": "Finalize login screen design based on authentication statistics",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_login_screen_redesign"
+      },
+      {
+        "id": "action_shorten_button_labels__remove_",
+        "type": "ActionItem",
+        "description": "Shorten button labels (remove \"Route\" where context is clear)",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "action_add_voice_input_and_photo_scan",
+        "type": "ActionItem",
+        "description": "Add voice input and photo scan buttons directly in destination input",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "action_implement_depot_saving_as_defa",
+        "type": "ActionItem",
+        "description": "Implement depot saving as default preference",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "action_implement_new_mobile_route_pla",
+        "type": "ActionItem",
+        "description": "Implement new mobile route planning wizard",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_mobile_app_plan_route_flow_redesign"
+      },
+      {
+        "id": "action_continue_developing_customer_p",
+        "type": "ActionItem",
+        "description": "Continue developing Customer Portal concept for future implementation",
+        "owner_id": "person_design_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "action_update_all_customer_facing_ui_",
+        "type": "ActionItem",
+        "description": "Update all customer-facing UI to use \"Visit\" terminology",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_customer_portal_and_visit_vs_destination_terminology"
+      },
+      {
+        "id": "action_implement_full_status_lifecycl",
+        "type": "ActionItem",
+        "description": "Implement full status lifecycle for Strategic Plans (Draft through Accepted)",
+        "owner_id": "person_igor_golovtsov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "action_fix_default_cycle_parameter_to",
+        "type": "ActionItem",
+        "description": "Fix default cycle parameter to 2 (not 4) for weekly scenarios",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "action_change_all_machine_headers_to_",
+        "type": "ActionItem",
+        "description": "Change all machine headers to human-readable labels in Strategic Planner",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "action_remove_or_fix__routed__status_",
+        "type": "ActionItem",
+        "description": "Remove or fix \"routed\" status filter for locations in Strategic Planner (filter is at wrong level - should be scenario-specific, not global)",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "action_implement_add_duplicate_scenar",
+        "type": "ActionItem",
+        "description": "Implement Add Duplicate Scenario feature with parameter variation",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_lifecycle_and_status_system"
+      },
+      {
+        "id": "action_finalize_dashboard_design_for_",
+        "type": "ActionItem",
+        "description": "Finalize dashboard design for Strategic Planner results with analytics widgets",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "action_implement_calculation_of_all_n",
+        "type": "ActionItem",
+        "description": "Implement calculation of all necessary aggregates and statistical metrics for dashboard",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "action_implement_comparison_view_as_c",
+        "type": "ActionItem",
+        "description": "Implement Comparison View as central UX element allowing side-by-side scenario analysis",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "action_implement_statistical_distribu",
+        "type": "ActionItem",
+        "description": "Implement statistical distribution and bucketization calculations (route stop counts, mileage ranges, etc.)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison"
+      },
+      {
+        "id": "action_redesign_vehicle_snapshot_with",
+        "type": "ActionItem",
+        "description": "Redesign Vehicle Snapshot with heads-up display and Telemetry tab with historical log table",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "action_provide_complete_telemetry_dat",
+        "type": "ActionItem",
+        "description": "Provide complete telemetry dataset through API (speed, altitude, fuel, battery, position, etc.)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "action_implement_new_vehicle_snapshot",
+        "type": "ActionItem",
+        "description": "Implement new Vehicle Snapshot design with dynamic real-time updates",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "action_implement_plan_vs_actual_compa",
+        "type": "ActionItem",
+        "description": "Implement Plan vs Actual comparison graphs for route execution analysis",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "action_implement_telemetry_tab_with_c",
+        "type": "ActionItem",
+        "description": "Implement Telemetry tab with complete historical GPS track table for forensic analysis",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_vehicle_snapshot_transformation_to_operational_dashboard"
+      },
+      {
+        "id": "action_implement_relative_time_format",
+        "type": "ActionItem",
+        "description": "Implement relative time format (X days/hours/minutes/seconds ago) for all LastUpdate displays with absolute timestamp on hover",
+        "owner_id": "person_davron_usmonov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "action_rename_lastposition_field_to_l",
+        "type": "ActionItem",
+        "description": "Rename LastPosition field to LastUpdate or LastUpdateReceived in API and database",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "action_add_lastupdate_field_with_rela",
+        "type": "ActionItem",
+        "description": "Add LastUpdate field with relative time to vehicle PopOver",
+        "owner_id": "person_davron_usmonov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "action_standardize_relative_time_disp",
+        "type": "ActionItem",
+        "description": "Standardize relative time display format across all system components",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_fields_and_vehicle_popover_enhancement"
+      },
+      {
+        "id": "action_release_weather_layer_universa",
+        "type": "ActionItem",
+        "description": "Release weather layer universally (not default-enabled in checkbox)",
+        "owner_id": "person_artur_moskalenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "action_keep_predictive_weather_featur",
+        "type": "ActionItem",
+        "description": "Keep Predictive Weather feature gated to users with Predictive Weather module",
+        "owner_id": "person_artur_moskalenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer_release_decision"
+      },
+      {
+        "id": "action_review_weather_layer_implement",
+        "type": "ActionItem",
+        "description": "Review weather layer implementation details with Artur",
+        "owner_id": "person_eugene",
+        "status": "scheduled",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer_release_decision"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_vova__ui_ux_design_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_parker_woodward__sales_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_davron_usmonov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_kateryna_shevchenko__qa_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_serhii_kasainov__frontend_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_anton_zadyraka__mobile_qa_team_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_igor_s_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_oleg_pravyk__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_alex_yasko__product_manager_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_manar_kurmanov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_eugene__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "person_vladimir_fedorov__frontend_developer_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "time_range": "00:06:09 - 00:08:37"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_06_09",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:06:09"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_06_09",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "sequence": 1
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_kateryna_shevchenko_00_07_41",
+      "to": "person_kateryna_shevchenko",
+      "properties": {
+        "timestamp": "00:07:41"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_kateryna_shevchenko_00_07_41",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "sequence": 2
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_06_09",
+      "to": "statement_kateryna_shevchenko_00_07_41",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_07_51",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:07:51"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_07_51",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "sequence": 3
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_kateryna_shevchenko_00_07_41",
+      "to": "statement_vova_00_07_51",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_08_13",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:08:13"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_08_13",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "sequence": 4
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_07_51",
+      "to": "statement_igor_skrynkovskyy_00_08_13",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_08_38",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:08:38"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_08_38",
+      "to": "topic_mobile_app_login_screen_redesign",
+      "properties": {
+        "sequence": 5
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_08_13",
+      "to": "statement_vova_00_08_38",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_mobile_app_login_screen_redesign",
+      "to": "decision_authentication_options_analysis",
+      "properties": {
+        "label": "Authentication Options Analysis"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_authentication_options_analysis",
+      "to": "person_igor_skrynkovskyy__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_login_screen_redesign",
+      "to": "action_provide_authentication_statist",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_provide_authentication_statist",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_login_screen_redesign",
+      "to": "action_finalize_login_screen_design_b",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_finalize_login_screen_design_b",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "time_range": "00:13:00 - 00:28:43"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_13_05",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:13:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_13_05",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 6
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_13_05",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:13:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_13_05",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 7
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_13_05",
+      "to": "statement_vova_00_13_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_15_05",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:15:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_15_05",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 8
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_13_05",
+      "to": "statement_vova_00_15_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_kateryna_shevchenko_00_15_19",
+      "to": "person_kateryna_shevchenko",
+      "properties": {
+        "timestamp": "00:15:19"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_kateryna_shevchenko_00_15_19",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 9
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_15_05",
+      "to": "statement_kateryna_shevchenko_00_15_19",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_16_39",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:16:39"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_16_39",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 10
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_kateryna_shevchenko_00_15_19",
+      "to": "statement_vova_00_16_39",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_17_34",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:17:34"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_17_34",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 11
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_16_39",
+      "to": "statement_vova_00_17_34",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_18_22",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:18:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_18_22",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 12
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_17_34",
+      "to": "statement_igor_golovtsov_00_18_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_19_04",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:19:04"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_19_04",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 13
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_18_22",
+      "to": "statement_vova_00_19_04",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_19_18",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:19:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_19_18",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 14
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_19_04",
+      "to": "statement_vova_00_19_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_21_11",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:21:11"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_21_11",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 15
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_19_18",
+      "to": "statement_vova_00_21_11",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_22_23",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:22:23"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_22_23",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 16
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_21_11",
+      "to": "statement_vova_00_22_23",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_23_25",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:23:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_23_25",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 17
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_22_23",
+      "to": "statement_vova_00_23_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_24_02",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:24:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_24_02",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 18
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_23_25",
+      "to": "statement_vova_00_24_02",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_24_19",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:24:19"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_24_19",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 19
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_24_02",
+      "to": "statement_vova_00_24_19",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_25_14",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:25:14"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_25_14",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 20
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_24_19",
+      "to": "statement_vova_00_25_14",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_26_00",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:26:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_26_00",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 21
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_25_14",
+      "to": "statement_vova_00_26_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_26_15",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:26:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_26_15",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 22
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_26_00",
+      "to": "statement_vova_00_26_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_27_22",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:27:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_27_22",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 23
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_26_15",
+      "to": "statement_vova_00_27_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_28_32",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:28:32"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_28_32",
+      "to": "topic_mobile_app_plan_route_flow_redesign",
+      "properties": {
+        "sequence": 24
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_27_22",
+      "to": "statement_vova_00_28_32",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_mobile_app_plan_route_flow_redesign",
+      "to": "decision_mobile_route_planning_wizard_approved",
+      "properties": {
+        "label": "Mobile Route Planning Wizard Approved"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_mobile_route_planning_wizard_approved",
+      "to": "person_dan__implicit_approval___vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_plan_route_flow_redesign",
+      "to": "action_shorten_button_labels__remove_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_shorten_button_labels__remove_",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_plan_route_flow_redesign",
+      "to": "action_add_voice_input_and_photo_scan",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_voice_input_and_photo_scan",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_plan_route_flow_redesign",
+      "to": "action_implement_depot_saving_as_defa",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_depot_saving_as_defa",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_mobile_app_plan_route_flow_redesign",
+      "to": "action_implement_new_mobile_route_pla",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_new_mobile_route_pla",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "properties": {
+        "time_range": "00:37:50 - 00:40:26"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_37_50",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:37:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_37_50",
+      "to": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "properties": {
+        "sequence": 25
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_38_15",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:38:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_38_15",
+      "to": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "properties": {
+        "sequence": 26
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_37_50",
+      "to": "statement_vova_00_38_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_39_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:39:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_39_30",
+      "to": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "properties": {
+        "sequence": 27
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_38_15",
+      "to": "statement_dan_khasis_00_39_30",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "to": "decision_customer_portal_terminology_standard",
+      "properties": {
+        "label": "Customer Portal Terminology Standard"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_customer_portal_terminology_standard",
+      "to": "person_dan__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "to": "action_continue_developing_customer_p",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_continue_developing_customer_p",
+      "to": "person_design_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_customer_portal_and_visit_vs_destination_terminology",
+      "to": "action_update_all_customer_facing_ui_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_update_all_customer_facing_ui_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "time_range": "00:40:26 - 00:55:36"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_40_26",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:40:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_40_26",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 28
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s_00_41_15",
+      "to": "person_semeyon_s",
+      "properties": {
+        "timestamp": "00:41:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s_00_41_15",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 29
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_40_26",
+      "to": "statement_semeyon_s_00_41_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_45_26",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:45:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_45_26",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 30
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s_00_41_15",
+      "to": "statement_igor_skrynkovskyy_00_45_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_45_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:45:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_45_45",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 31
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_45_26",
+      "to": "statement_dan_khasis_00_45_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_46_22",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:46:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_46_22",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 32
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_45_45",
+      "to": "statement_dan_khasis_00_46_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_46_26",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:46:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_46_26",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 33
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_46_22",
+      "to": "statement_igor_skrynkovskyy_00_46_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_47_01",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:47:01"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_47_01",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 34
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_46_26",
+      "to": "statement_dan_khasis_00_47_01",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_skrynkovskyy_00_47_05",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "timestamp": "00:47:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_skrynkovskyy_00_47_05",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 35
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_47_01",
+      "to": "statement_igor_skrynkovskyy_00_47_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_47_16",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:47:16"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_47_16",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 36
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_skrynkovskyy_00_47_05",
+      "to": "statement_dan_khasis_00_47_16",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_48_07",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:48:07"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_48_07",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 37
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_47_16",
+      "to": "statement_dan_khasis_00_48_07",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_48_39",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:48:39"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_48_39",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 38
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_48_07",
+      "to": "statement_dan_khasis_00_48_39",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_49_22",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:49:22"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_49_22",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 39
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_48_39",
+      "to": "statement_dan_khasis_00_49_22",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_54_54",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:54:54"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_54_54",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 40
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_49_22",
+      "to": "statement_dan_khasis_00_54_54",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_55_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:55:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_55_45",
+      "to": "topic_strategic_planner_lifecycle_and_status_system",
+      "properties": {
+        "sequence": 41
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_54_54",
+      "to": "statement_dan_khasis_00_55_45",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "decision_strategic_plan_status_lifecycle_approved",
+      "properties": {
+        "label": "Strategic Plan Status Lifecycle Approved"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_strategic_plan_status_lifecycle_approved",
+      "to": "person_dan__igor_golovtsov__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "decision_scenario_duplication_and_parameter_variation",
+      "properties": {
+        "label": "Scenario Duplication and Parameter Variation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_scenario_duplication_and_parameter_variation",
+      "to": "person_dan__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "action_implement_full_status_lifecycl",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_full_status_lifecycl",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "action_fix_default_cycle_parameter_to",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_default_cycle_parameter_to",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "action_change_all_machine_headers_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_change_all_machine_headers_to_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "action_remove_or_fix__routed__status_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_remove_or_fix__routed__status_",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "action_implement_add_duplicate_scenar",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_add_duplicate_scenar",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_strategic_planner_lifecycle_and_status_system",
+      "to": "issue_location_routing_status_filter_logic_error",
+      "properties": {
+        "label": "Location Routing Status Filter Logic Error"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "properties": {
+        "time_range": "00:48:32 - 00:59:02"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_00_48_45",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "00:48:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_00_48_45",
+      "to": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "properties": {
+        "sequence": 42
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_52_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:52:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_52_15",
+      "to": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "properties": {
+        "sequence": 43
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_00_48_45",
+      "to": "statement_dan_khasis_00_52_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_54_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:54:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_54_30",
+      "to": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "properties": {
+        "sequence": 44
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_52_15",
+      "to": "statement_dan_khasis_00_54_30",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "to": "decision_strategic_planner_results_as_analytics_dashboard",
+      "properties": {
+        "label": "Strategic Planner Results as Analytics Dashboard"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_strategic_planner_results_as_analytics_dashboard",
+      "to": "person_dan__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "to": "action_finalize_dashboard_design_for_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_finalize_dashboard_design_for_",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "to": "action_implement_calculation_of_all_n",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_calculation_of_all_n",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "to": "action_implement_comparison_view_as_c",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_comparison_view_as_c",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_analytics_dashboard_and_scenario_comparison",
+      "to": "action_implement_statistical_distribu",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_statistical_distribu",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "time_range": "01:04:30 - 01:13:40"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_01_04_45",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "01:04:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_01_04_45",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "sequence": 45
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_01_05_20",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "01:05:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_01_05_20",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "sequence": 46
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_01_04_45",
+      "to": "statement_alexey_gusentsov_01_05_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_06_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:06:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_06_15",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "sequence": 47
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_01_05_20",
+      "to": "statement_dan_khasis_01_06_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_08_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:08:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_08_45",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "sequence": 48
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_06_15",
+      "to": "statement_dan_khasis_01_08_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_10_20",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:10:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_10_20",
+      "to": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "properties": {
+        "sequence": 49
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_08_45",
+      "to": "statement_dan_khasis_01_10_20",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "decision_vehicle_snapshot_complete_redesign",
+      "properties": {
+        "label": "Vehicle Snapshot Complete Redesign"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_vehicle_snapshot_complete_redesign",
+      "to": "person_dan__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "action_redesign_vehicle_snapshot_with",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_redesign_vehicle_snapshot_with",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "action_provide_complete_telemetry_dat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_provide_complete_telemetry_dat",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "action_implement_new_vehicle_snapshot",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_new_vehicle_snapshot",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "action_implement_plan_vs_actual_compa",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_plan_vs_actual_compa",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_vehicle_snapshot_transformation_to_operational_dashboard",
+      "to": "action_implement_telemetry_tab_with_c",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_telemetry_tab_with_c",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "time_range": "03:35:50 - 03:39:24"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_davron_usmonov_03_35_50",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "timestamp": "03:35:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_davron_usmonov_03_35_50",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 50
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_36_04",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:36:04"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_36_04",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 51
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_davron_usmonov_03_35_50",
+      "to": "statement_dan_khasis_03_36_04",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_davron_usmonov_03_36_50",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "timestamp": "03:36:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_davron_usmonov_03_36_50",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 52
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_36_04",
+      "to": "statement_davron_usmonov_03_36_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_03_37_10",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "03:37:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_03_37_10",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 53
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_davron_usmonov_03_36_50",
+      "to": "statement_vova_03_37_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_davron_usmonov_03_37_19",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "timestamp": "03:37:19"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_davron_usmonov_03_37_19",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 54
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_03_37_10",
+      "to": "statement_davron_usmonov_03_37_19",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_37_43",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:37:43"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_37_43",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 55
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_davron_usmonov_03_37_19",
+      "to": "statement_dan_khasis_03_37_43",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_davron_usmonov_03_37_51",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "timestamp": "03:37:51"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_davron_usmonov_03_37_51",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 56
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_37_43",
+      "to": "statement_davron_usmonov_03_37_51",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_37_59",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:37:59"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_37_59",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 57
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_davron_usmonov_03_37_51",
+      "to": "statement_dan_khasis_03_37_59",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_38_07",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:38:07"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_38_07",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 58
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_37_59",
+      "to": "statement_dan_khasis_03_38_07",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_38_34",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:38:34"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_38_34",
+      "to": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "properties": {
+        "sequence": 59
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_38_07",
+      "to": "statement_dan_khasis_03_38_34",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "decision_relative_time_display_standard",
+      "properties": {
+        "label": "Relative Time Display Standard"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_relative_time_display_standard",
+      "to": "person_dan__davron_usmonov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "decision_lastupdate_terminology_correction",
+      "properties": {
+        "label": "LastUpdate Terminology Correction"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_lastupdate_terminology_correction",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "action_implement_relative_time_format",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_relative_time_format",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "action_rename_lastposition_field_to_l",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rename_lastposition_field_to_l",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "action_add_lastupdate_field_with_rela",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_lastupdate_field_with_rela",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_fields_and_vehicle_popover_enhancement",
+      "to": "action_standardize_relative_time_disp",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_standardize_relative_time_disp",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_25_product_progress_review___strategic_planner__mobile_app__vehicle_snapshot",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "time_range": "03:39:24 - 03:43:06"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_03_39_24",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "03:39:24"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_03_39_24",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 60
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_40_06",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:40:06"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_40_06",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 61
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_03_39_24",
+      "to": "statement_dan_khasis_03_40_06",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_03_40_38",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "03:40:38"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_03_40_38",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 62
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_40_06",
+      "to": "statement_artur_moskalenko_03_40_38",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_41_17",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:41:17"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_41_17",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 63
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_03_40_38",
+      "to": "statement_dan_khasis_03_41_17",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_afanasiev_03_41_43",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "timestamp": "03:41:43"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_afanasiev_03_41_43",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 64
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_41_17",
+      "to": "statement_alexey_afanasiev_03_41_43",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_41_46",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:41:46"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_41_46",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 65
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_afanasiev_03_41_43",
+      "to": "statement_dan_khasis_03_41_46",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_03_42_33",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "03:42:33"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_03_42_33",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 66
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_41_46",
+      "to": "statement_artur_moskalenko_03_42_33",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_42_56",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:42:56"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_42_56",
+      "to": "topic_weather_layer_release_decision",
+      "properties": {
+        "sequence": 67
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_03_42_33",
+      "to": "statement_dan_khasis_03_42_56",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_weather_layer_release_decision",
+      "to": "decision_weather_layer_universal_release",
+      "properties": {
+        "label": "Weather Layer Universal Release"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_weather_layer_universal_release",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer_release_decision",
+      "to": "action_release_weather_layer_universa",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_release_weather_layer_universa",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer_release_decision",
+      "to": "action_keep_predictive_weather_featur",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_keep_predictive_weather_featur",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer_release_decision",
+      "to": "action_review_weather_layer_implement",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_review_weather_layer_implement",
+      "to": "person_eugene",
+      "properties": {
+        "status": "scheduled",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_weather_layer_release_decision",
+      "to": "issue_weather_layer_api_cost_management",
+      "properties": {
+        "label": "Weather Layer API Cost Management"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 146,
+    "total_relationships": 300,
+    "node_counts": {
+      "meetings": 1,
+      "people": 29,
+      "topics": 8,
+      "statements": 67,
+      "decisions": 12,
+      "action_items": 29
+    }
+  }
+}

@@ -1,0 +1,1462 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.266352",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+        "type": "Meeting",
+        "title": "Product Progress Review - Iron Mountain Crisis & Assets Redesign",
+        "date": "2025-09-04",
+        "duration": "02:29:34",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Artur Moskalenko (QA Director)",
+          "Vova (UI/UX)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Serhii Kasainov (Front-End Tech Lead)",
+          "Semeyon S (VP Platform)",
+          "Maksym Silman",
+          "Alexander Dylevskiy",
+          "Oleksandr Ishchenko",
+          "Volodymyr Ishchenko",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Dmitry Smaliak (Frontend Engineer)",
+          "Davron Usmonov (Frontend Engineer)",
+          "Alex Yasko",
+          "Kateryna Shevchenko",
+          "Alexandr Kovtunov"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__ui_ux_",
+        "type": "Person",
+        "name": "Vova (UI/UX)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__front_end_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Front-End Tech Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_maksym_silman",
+        "type": "Person",
+        "name": "Maksym Silman",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexander_dylevskiy",
+        "type": "Person",
+        "name": "Alexander Dylevskiy",
+        "statements_count": 0
+      },
+      {
+        "id": "person_oleksandr_ishchenko",
+        "type": "Person",
+        "name": "Oleksandr Ishchenko",
+        "statements_count": 0
+      },
+      {
+        "id": "person_volodymyr_ishchenko",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_dmitry_smaliak__frontend_engineer_",
+        "type": "Person",
+        "name": "Dmitry Smaliak (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_davron_usmonov__frontend_engineer_",
+        "type": "Person",
+        "name": "Davron Usmonov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alex_yasko",
+        "type": "Person",
+        "name": "Alex Yasko",
+        "statements_count": 0
+      },
+      {
+        "id": "person_kateryna_shevchenko",
+        "type": "Person",
+        "name": "Kateryna Shevchenko",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexandr_kovtunov",
+        "type": "Person",
+        "name": "Alexandr Kovtunov",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_iron_mountain_customer_crisis___samsara_competition",
+        "type": "Topic",
+        "label": "Iron Mountain Customer Crisis - Samsara Competition",
+        "time_range": "00:09:07 - 00:19:00",
+        "participants": [
+          "Dan Khasis",
+          "Artur Moskalenko",
+          "Igor Skrynkovskyy",
+          "Semeyon S",
+          "Vova",
+          "Alexey Afanasiev",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "iron",
+          "mountain",
+          "customer",
+          "crisis",
+          "samsara"
+        ]
+      },
+      {
+        "id": "topic_configuration_settings_bug___bluenet_issue",
+        "type": "Topic",
+        "label": "Configuration Settings Bug - BlueNet Issue",
+        "time_range": "00:07:03 - 00:08:30",
+        "participants": [
+          "Igor Skrynkovskyy",
+          "Alexandr Kovtunov",
+          "Volodymyr Ishchenko"
+        ],
+        "keywords": [
+          "configuration",
+          "settings",
+          "bug",
+          "bluenet",
+          "issue"
+        ]
+      },
+      {
+        "id": "topic_assignment_board___bulk_actions_progress",
+        "type": "Topic",
+        "label": "Assignment Board & Bulk Actions Progress",
+        "time_range": "00:20:00 - 00:35:00",
+        "participants": [
+          "Eugene Bondarenko",
+          "Alexey Afanasiev",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "assignment",
+          "board",
+          "bulk",
+          "actions",
+          "progress"
+        ]
+      },
+      {
+        "id": "topic_facility_assignment_system_wide_implementation",
+        "type": "Topic",
+        "label": "Facility Assignment System-Wide Implementation",
+        "time_range": "00:35:00 - 00:50:00",
+        "participants": [
+          "Davron Usmonov",
+          "Alexey Afanasiev",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "facility",
+          "assignment",
+          "system",
+          "wide",
+          "implementation"
+        ]
+      },
+      {
+        "id": "topic_ui_consistency_review_across_entire_system",
+        "type": "Topic",
+        "label": "UI Consistency Review Across Entire System",
+        "time_range": "00:50:00 - 01:10:00",
+        "participants": [
+          "Vova",
+          "Serhii Kasainov",
+          "Dan Khasis",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "consistency",
+          "review",
+          "across",
+          "entire",
+          "system"
+        ]
+      },
+      {
+        "id": "topic_order_drawer_implementation",
+        "type": "Topic",
+        "label": "Order Drawer Implementation",
+        "time_range": "01:10:00 - 01:25:00",
+        "participants": [
+          "Dmitry Smaliak",
+          "Alexey Afanasiev",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "order",
+          "drawer",
+          "implementation"
+        ]
+      },
+      {
+        "id": "topic_assets_management___design_review___requirements",
+        "type": "Topic",
+        "label": "Assets Management - Design Review & Requirements",
+        "time_range": "02:19:50 - 02:28:15",
+        "participants": [
+          "Dan Khasis",
+          "Vova",
+          "Alexey Afanasiev",
+          "Maksym Silman",
+          "Artur Moskalenko"
+        ],
+        "keywords": [
+          "assets",
+          "management",
+          "design",
+          "review",
+          "requirements"
+        ]
+      },
+      {
+        "id": "topic_facility_snapshot___additional_data_requirements",
+        "type": "Topic",
+        "label": "Facility Snapshot - Additional Data Requirements",
+        "time_range": "01:25:00 - 01:40:00",
+        "participants": [
+          "Alexey Gusentsov",
+          "Alexey Afanasiev",
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "facility",
+          "snapshot",
+          "additional",
+          "data",
+          "requirements"
+        ]
+      },
+      {
+        "id": "topic_telematics_data_fields___vehicle_metrics_display",
+        "type": "Topic",
+        "label": "Telematics Data Fields - Vehicle Metrics Display",
+        "time_range": "01:40:00 - 02:00:00",
+        "participants": [
+          "Artur Moskalenko",
+          "Dan Khasis",
+          "Frontend Team"
+        ],
+        "keywords": [
+          "telematics",
+          "data",
+          "fields",
+          "vehicle",
+          "metrics"
+        ]
+      },
+      {
+        "id": "topic_weather_layers___missing_from_maps",
+        "type": "Topic",
+        "label": "Weather Layers - Missing from Maps",
+        "time_range": "02:29:52 - 02:30:40",
+        "participants": [
+          "Dan Khasis",
+          "Artur Moskalenko",
+          "Oleksandr Ishchenko",
+          "Serhii Kasainov",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "weather",
+          "layers",
+          "missing",
+          "from",
+          "maps"
+        ]
+      },
+      {
+        "id": "topic_notification_settings_redesign___blocked_on_backend",
+        "type": "Topic",
+        "label": "Notification Settings Redesign - Blocked on Backend",
+        "time_range": "02:17:56 - 02:19:46",
+        "participants": [
+          "Artur Moskalenko",
+          "Alexey Afanasiev",
+          "Dan Khasis",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "notification",
+          "settings",
+          "redesign",
+          "blocked",
+          "backend"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_restore_drag_and_drop_functionality",
+        "type": "Decision",
+        "description": "Immediately restore drag-and-drop functionality for stops in Route Editor on map to prevent Iron Mountain customer loss",
+        "decided_by": "Dan Khasis",
+        "rationale": "Critical customer Iron Mountain is threatening to leave for Samsara. This is a revenue blocker. Feature existed before but was lost in Routes Map redesign. Dan demands immediate restoration to save customer relationship. [CRITICAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_iron_mountain_customer_crisis___samsara_competition"
+      },
+      {
+        "id": "issue_default_configuration_settings_not_applied",
+        "type": "TechnicalIssue",
+        "description": "**[00:07:59] Igor Skrynkovskyy**: Default configuration settings in JSON format not being applied to newly created users across all BlueNet accounts. Recent regression, root cause unknown. Configuration Case key implementation broken.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_configuration_settings_bug___bluenet_issue"
+      },
+      {
+        "id": "decision_system_wide_facility_and_customer_location_implementation",
+        "type": "Decision",
+        "description": "Complete system-wide implementation of Facility Assignment and Customer Location linking across all pages consistently",
+        "decided_by": "Dan Khasis, Alexey Afanasiev",
+        "rationale": "Need consistency across platform. Following same pattern as User Assignment rollout. Dan expects this to be accessible from all relevant views including Snapshots. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_facility_assignment_system_wide_implementation"
+      },
+      {
+        "id": "decision_assets_design_approval_with_modifications",
+        "type": "Decision",
+        "description": "Approve Assets design for implementation with required modifications: add status/health colors, include Map Settings with Assets option (not Customer Locations), add routing integration, implement Asset Snapshot with statistics/history",
+        "decided_by": "Dan Khasis",
+        "rationale": "Design is mostly correct but needs critical fixes. Status colors essential for operational monitoring. Map Settings typo must be corrected. Direct-to-route functionality needed for driver workflow. Import should be Telematics-only initially to avoid manual data entry burden. Dan approves launch after corrections. [CEO_APPROVED]",
+        "alternatives": [
+          "Manual asset import",
+          "Simple list view without map"
+        ],
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "decision_display_all_synced_telematics_fields",
+        "type": "Decision",
+        "description": "Display all synced telematics fields (battery, temperature, RPM, fuel, odometer, speed, etc.) in route metrics and relevant views across the system",
+        "decided_by": "Dan Khasis, Artur Moskalenko",
+        "rationale": "Data is already synced from Telematics systems, should be visible to users. Implementation should avoid UI clutter through smart display patterns (expandable sections, hover states). [CEO_APPROVED]",
+        "alternatives": [
+          "Only show top 4 fields",
+          "Separate telemetry page"
+        ],
+        "topic_id": "topic_telematics_data_fields___vehicle_metrics_display"
+      },
+      {
+        "id": "decision_restore_weather_layers_to_all_maps",
+        "type": "Decision",
+        "description": "Immediately restore Weather Layers to all map views across the system",
+        "decided_by": "Dan Khasis",
+        "rationale": "Feature existed for years but went missing. Dan has mentioned this 3 times in 2.5 weeks showing high priority. Already prioritized and in progress with Eugene. Dan wants it live quickly. [CRITICAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_weather_layers___missing_from_maps"
+      },
+      {
+        "id": "decision_move_notification_settings_to_organization_settings",
+        "type": "Decision",
+        "description": "Move Notification Settings from Account Settings to Organization Settings as part of overall settings restructuring",
+        "decided_by": "Dan Khasis",
+        "rationale": "Dan directs organizational settings consolidation. Notification Settings redesign complete but blocked on backend billing/features integration. Need to resolve blocker and move to correct location. [CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_notification_settings_redesign___blocked_on_backend"
+      },
+      {
+        "id": "issue_notification_settings_redesign_blocked",
+        "type": "TechnicalIssue",
+        "description": "**[02:18:25] Artur Moskalenko**: Notification Settings redesign complete and on staging for over a month, but blocked by backend bug related to billing/features integration. UI cannot properly enable/disable based on modules (SMS, email, etc.). Waiting for backend team capacity to fix blocker.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_notification_settings_redesign___blocked_on_backend"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_restore_drag_and_drop_stops_fu",
+        "type": "ActionItem",
+        "description": "Restore drag-and-drop stops functionality in Route Editor map view",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2025-09-11",
+        "topic_id": "topic_iron_mountain_customer_crisis___samsara_competition"
+      },
+      {
+        "id": "action_travel_to_iron_mountain_with_e",
+        "type": "ActionItem",
+        "description": "Travel to Iron Mountain with Ellen to retain customer",
+        "owner_id": "person_dan_khasis",
+        "status": "scheduled",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_iron_mountain_customer_crisis___samsara_competition"
+      },
+      {
+        "id": "action_investigate_and_fix_configurat",
+        "type": "ActionItem",
+        "description": "Investigate and fix Configuration Case default settings not applying to new users",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_configuration_settings_bug___bluenet_issue"
+      },
+      {
+        "id": "action_complete_assignment_board_auto",
+        "type": "ActionItem",
+        "description": "Complete Assignment Board auto-assignment and bulk actions",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assignment_board___bulk_actions_progress"
+      },
+      {
+        "id": "action_implement_assignment_board_dra",
+        "type": "ActionItem",
+        "description": "Implement Assignment Board drawer functionality",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assignment_board___bulk_actions_progress"
+      },
+      {
+        "id": "action_complete_system_wide_facility_",
+        "type": "ActionItem",
+        "description": "Complete system-wide Facility Assignment implementation to 100%",
+        "owner_id": "person_davron_usmonov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_assignment_system_wide_implementation"
+      },
+      {
+        "id": "action_implement_customer_location_li",
+        "type": "ActionItem",
+        "description": "Implement Customer Location linking system-wide",
+        "owner_id": "person_frontend_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_assignment_system_wide_implementation"
+      },
+      {
+        "id": "action_enable_opening_entities_from_s",
+        "type": "ActionItem",
+        "description": "Enable opening entities from Snapshot views consistently",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_assignment_system_wide_implementation"
+      },
+      {
+        "id": "action_complete_ui_consistency_review",
+        "type": "ActionItem",
+        "description": "Complete UI consistency review across entire system (DSG-660)",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_ui_consistency_review_across_entire_system"
+      },
+      {
+        "id": "action_implement_ui_settings_for_orga",
+        "type": "ActionItem",
+        "description": "Implement UI Settings for Organization and Account levels",
+        "owner_id": "person_serhii_kasainov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_ui_consistency_review_across_entire_system"
+      },
+      {
+        "id": "action_complete_order_drawer_implemen",
+        "type": "ActionItem",
+        "description": "Complete Order Drawer implementation",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_order_drawer_implementation"
+      },
+      {
+        "id": "action_fix_map_settings_assets_typo__",
+        "type": "ActionItem",
+        "description": "Fix Map Settings Assets typo (change from Customer Locations to Assets)",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_add_status_health_color_coding",
+        "type": "ActionItem",
+        "description": "Add status/health color coding to Assets display",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_add_asset_details_fields__spee",
+        "type": "ActionItem",
+        "description": "Add Asset Details fields (speed, RPM, temperature, fuel)",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_implement_asset_snapshot_with_",
+        "type": "ActionItem",
+        "description": "Implement Asset Snapshot with map, statistics, Location History, Event History",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_add_add_to_route_functionality",
+        "type": "ActionItem",
+        "description": "Add add-to-route functionality from Assets view",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_implement_telematics_only_asse",
+        "type": "ActionItem",
+        "description": "Implement Telematics-only asset import (Samsara, Geotab)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_map_external_asset_types_to_ro",
+        "type": "ActionItem",
+        "description": "Map external asset types to Route4Me asset types (20-30 types)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_assets_management___design_review___requirements"
+      },
+      {
+        "id": "action_complete_facility_snapshot_lef",
+        "type": "ActionItem",
+        "description": "Complete Facility Snapshot left panel with additional data",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot___additional_data_requirements"
+      },
+      {
+        "id": "action_ensure_facility_snapshot_consi",
+        "type": "ActionItem",
+        "description": "Ensure Facility Snapshot consistency with other snapshot views",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot___additional_data_requirements"
+      },
+      {
+        "id": "action_add_all_synced_telematics_fiel",
+        "type": "ActionItem",
+        "description": "Add all synced telematics fields to Route Editor route metrics (RS-796)",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_data_fields___vehicle_metrics_display"
+      },
+      {
+        "id": "action_display_telematics_fields_on_a",
+        "type": "ActionItem",
+        "description": "Display telematics fields on all relevant pages/maps",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_data_fields___vehicle_metrics_display"
+      },
+      {
+        "id": "action_design_non_cluttered_display_p",
+        "type": "ActionItem",
+        "description": "Design non-cluttered display pattern for telematics data",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_telematics_data_fields___vehicle_metrics_display"
+      },
+      {
+        "id": "action_restore_weather_layer_function",
+        "type": "ActionItem",
+        "description": "Restore Weather Layer functionality to all maps",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_weather_layers___missing_from_maps"
+      },
+      {
+        "id": "action_discuss_weather_layer_deployme",
+        "type": "ActionItem",
+        "description": "Discuss Weather Layer deployment with Igor tomorrow morning",
+        "owner_id": "person_alexey_afanasiev",
+        "status": "scheduled",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_weather_layers___missing_from_maps"
+      },
+      {
+        "id": "action_ensure_map_layers_enabled_ever",
+        "type": "ActionItem",
+        "description": "Ensure Map Layers enabled everywhere they're needed",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_weather_layers___missing_from_maps"
+      },
+      {
+        "id": "action_fix_billing_features_integrati",
+        "type": "ActionItem",
+        "description": "Fix billing/features integration blocker for Notification Settings",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_notification_settings_redesign___blocked_on_backend"
+      },
+      {
+        "id": "action_move_notification_settings_to_",
+        "type": "ActionItem",
+        "description": "Move Notification Settings to Organization Settings (from Account Settings)",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_notification_settings_redesign___blocked_on_backend"
+      },
+      {
+        "id": "action_deploy_notification_settings_r",
+        "type": "ActionItem",
+        "description": "Deploy Notification Settings redesign to production after blocker fixed",
+        "owner_id": "person_alexey_afanasiev",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_notification_settings_redesign___blocked_on_backend"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_vova__ui_ux_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_serhii_kasainov__front_end_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_maksym_silman",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_alexander_dylevskiy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_oleksandr_ishchenko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_dmitry_smaliak__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_davron_usmonov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_alex_yasko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_kateryna_shevchenko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "person_alexandr_kovtunov",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_iron_mountain_customer_crisis___samsara_competition",
+      "properties": {
+        "time_range": "00:09:07 - 00:19:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_iron_mountain_customer_crisis___samsara_competition",
+      "to": "decision_restore_drag_and_drop_functionality",
+      "properties": {
+        "label": "Restore Drag-and-Drop Functionality"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_restore_drag_and_drop_functionality",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_iron_mountain_customer_crisis___samsara_competition",
+      "to": "action_restore_drag_and_drop_stops_fu",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_restore_drag_and_drop_stops_fu",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_iron_mountain_customer_crisis___samsara_competition",
+      "to": "action_travel_to_iron_mountain_with_e",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_travel_to_iron_mountain_with_e",
+      "to": "person_dan_khasis",
+      "properties": {
+        "status": "scheduled",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_configuration_settings_bug___bluenet_issue",
+      "properties": {
+        "time_range": "00:07:03 - 00:08:30"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_configuration_settings_bug___bluenet_issue",
+      "to": "action_investigate_and_fix_configurat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_investigate_and_fix_configurat",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_configuration_settings_bug___bluenet_issue",
+      "to": "issue_default_configuration_settings_not_applied",
+      "properties": {
+        "label": "Default Configuration Settings Not Applied"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_assignment_board___bulk_actions_progress",
+      "properties": {
+        "time_range": "00:20:00 - 00:35:00"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assignment_board___bulk_actions_progress",
+      "to": "action_complete_assignment_board_auto",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_assignment_board_auto",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assignment_board___bulk_actions_progress",
+      "to": "action_implement_assignment_board_dra",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_assignment_board_dra",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_facility_assignment_system_wide_implementation",
+      "properties": {
+        "time_range": "00:35:00 - 00:50:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_facility_assignment_system_wide_implementation",
+      "to": "decision_system_wide_facility_and_customer_location_implementation",
+      "properties": {
+        "label": "System-Wide Facility and Customer Location Implementation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_system_wide_facility_and_customer_location_implementation",
+      "to": "person_dan_khasis__alexey_afanasiev",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_assignment_system_wide_implementation",
+      "to": "action_complete_system_wide_facility_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_system_wide_facility_",
+      "to": "person_davron_usmonov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_assignment_system_wide_implementation",
+      "to": "action_implement_customer_location_li",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_customer_location_li",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_assignment_system_wide_implementation",
+      "to": "action_enable_opening_entities_from_s",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_enable_opening_entities_from_s",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_ui_consistency_review_across_entire_system",
+      "properties": {
+        "time_range": "00:50:00 - 01:10:00"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_consistency_review_across_entire_system",
+      "to": "action_complete_ui_consistency_review",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_ui_consistency_review",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_consistency_review_across_entire_system",
+      "to": "action_implement_ui_settings_for_orga",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_ui_settings_for_orga",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_order_drawer_implementation",
+      "properties": {
+        "time_range": "01:10:00 - 01:25:00"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_order_drawer_implementation",
+      "to": "action_complete_order_drawer_implemen",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_order_drawer_implemen",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_assets_management___design_review___requirements",
+      "properties": {
+        "time_range": "02:19:50 - 02:28:15"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "decision_assets_design_approval_with_modifications",
+      "properties": {
+        "label": "Assets Design Approval with Modifications"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_assets_design_approval_with_modifications",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_fix_map_settings_assets_typo__",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_map_settings_assets_typo__",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_add_status_health_color_coding",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_status_health_color_coding",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_add_asset_details_fields__spee",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_asset_details_fields__spee",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_implement_asset_snapshot_with_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_asset_snapshot_with_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_add_add_to_route_functionality",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_add_to_route_functionality",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_implement_telematics_only_asse",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_telematics_only_asse",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assets_management___design_review___requirements",
+      "to": "action_map_external_asset_types_to_ro",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_map_external_asset_types_to_ro",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_facility_snapshot___additional_data_requirements",
+      "properties": {
+        "time_range": "01:25:00 - 01:40:00"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot___additional_data_requirements",
+      "to": "action_complete_facility_snapshot_lef",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_facility_snapshot_lef",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot___additional_data_requirements",
+      "to": "action_ensure_facility_snapshot_consi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_facility_snapshot_consi",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_telematics_data_fields___vehicle_metrics_display",
+      "properties": {
+        "time_range": "01:40:00 - 02:00:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_telematics_data_fields___vehicle_metrics_display",
+      "to": "decision_display_all_synced_telematics_fields",
+      "properties": {
+        "label": "Display All Synced Telematics Fields"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_display_all_synced_telematics_fields",
+      "to": "person_dan_khasis__artur_moskalenko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_data_fields___vehicle_metrics_display",
+      "to": "action_add_all_synced_telematics_fiel",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_all_synced_telematics_fiel",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_data_fields___vehicle_metrics_display",
+      "to": "action_display_telematics_fields_on_a",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_display_telematics_fields_on_a",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_telematics_data_fields___vehicle_metrics_display",
+      "to": "action_design_non_cluttered_display_p",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_non_cluttered_display_p",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_weather_layers___missing_from_maps",
+      "properties": {
+        "time_range": "02:29:52 - 02:30:40"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_weather_layers___missing_from_maps",
+      "to": "decision_restore_weather_layers_to_all_maps",
+      "properties": {
+        "label": "Restore Weather Layers to All Maps"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_restore_weather_layers_to_all_maps",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layers___missing_from_maps",
+      "to": "action_restore_weather_layer_function",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_restore_weather_layer_function",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layers___missing_from_maps",
+      "to": "action_discuss_weather_layer_deployme",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_discuss_weather_layer_deployme",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "status": "scheduled",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layers___missing_from_maps",
+      "to": "action_ensure_map_layers_enabled_ever",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_map_layers_enabled_ever",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_09_04_product_progress_review___iron_mountain_crisis___assets_redesign",
+      "to": "topic_notification_settings_redesign___blocked_on_backend",
+      "properties": {
+        "time_range": "02:17:56 - 02:19:46"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_notification_settings_redesign___blocked_on_backend",
+      "to": "decision_move_notification_settings_to_organization_settings",
+      "properties": {
+        "label": "Move Notification Settings to Organization Settings"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_move_notification_settings_to_organization_settings",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_notification_settings_redesign___blocked_on_backend",
+      "to": "action_fix_billing_features_integrati",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_billing_features_integrati",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_notification_settings_redesign___blocked_on_backend",
+      "to": "action_move_notification_settings_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_move_notification_settings_to_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_notification_settings_redesign___blocked_on_backend",
+      "to": "action_deploy_notification_settings_r",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_deploy_notification_settings_r",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_notification_settings_redesign___blocked_on_backend",
+      "to": "issue_notification_settings_redesign_blocked",
+      "properties": {
+        "label": "Notification Settings Redesign Blocked"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 66,
+    "total_relationships": 100,
+    "node_counts": {
+      "meetings": 1,
+      "people": 17,
+      "topics": 11,
+      "statements": 0,
+      "decisions": 8,
+      "action_items": 29
+    }
+  }
+}

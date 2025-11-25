@@ -1,0 +1,4996 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.796783",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+        "type": "Meeting",
+        "title": "Product Review - Strategic Optimization & Feature Updates",
+        "date": "2024-10-09",
+        "duration": "00:26:18",
+        "attendees": [
+          "Dan (CEO)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Eugene Bondarenko (Frontend Engineer)",
+          "Serhii Kasainov (Frontend Tech Lead)",
+          "Dmitry Smaliak (Frontend Engineer)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "Vladimir Zhakhavets (UI/UX Designer)",
+          "Artur Moskalenko (QA Director)",
+          "Volodymyr Ishchenko (QA Engineer)",
+          "Semeyon Svetliy (VP Platform)",
+          "Alex Shulga (QA)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan__ceo_",
+        "type": "Person",
+        "name": "Dan (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_eugene_bondarenko__frontend_engineer_",
+        "type": "Person",
+        "name": "Eugene Bondarenko (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__frontend_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Frontend Tech Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_dmitry_smaliak__frontend_engineer_",
+        "type": "Person",
+        "name": "Dmitry Smaliak (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladimir_zhakhavets__ui_ux_designer_",
+        "type": "Person",
+        "name": "Vladimir Zhakhavets (UI/UX Designer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_volodymyr_ishchenko__qa_engineer_",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko (QA Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_svetliy__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon Svetliy (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alex_shulga__qa_",
+        "type": "Person",
+        "name": "Alex Shulga (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov",
+        "type": "Person",
+        "name": "Igor Golovtsov",
+        "statements_count": 24
+      },
+      {
+        "id": "person_eugene_bondarenko",
+        "type": "Person",
+        "name": "Eugene Bondarenko",
+        "statements_count": 10
+      },
+      {
+        "id": "person_dan",
+        "type": "Person",
+        "name": "Dan",
+        "statements_count": 46
+      },
+      {
+        "id": "person_serhii_kasainov",
+        "type": "Person",
+        "name": "Serhii Kasainov",
+        "statements_count": 11
+      },
+      {
+        "id": "person_dmitry_smaliak",
+        "type": "Person",
+        "name": "Dmitry Smaliak",
+        "statements_count": 1
+      },
+      {
+        "id": "person_vladimir_zhakhavets",
+        "type": "Person",
+        "name": "Vladimir Zhakhavets",
+        "statements_count": 2
+      },
+      {
+        "id": "person_artur_moskalenko",
+        "type": "Person",
+        "name": "Artur Moskalenko",
+        "statements_count": 1
+      },
+      {
+        "id": "person_alexey_gusentsov",
+        "type": "Person",
+        "name": "Alexey Gusentsov",
+        "statements_count": 5
+      },
+      {
+        "id": "person_volodymyr_ishchenko",
+        "type": "Person",
+        "name": "Volodymyr Ishchenko",
+        "statements_count": 4
+      },
+      {
+        "id": "person_semeyon_svetliy",
+        "type": "Person",
+        "name": "Semeyon Svetliy",
+        "statements_count": 7
+      },
+      {
+        "id": "person_alex_shulga",
+        "type": "Person",
+        "name": "Alex Shulga",
+        "statements_count": 5
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_strategic_optimization___map_tab_with_routes",
+        "type": "Topic",
+        "label": "Strategic Optimization - Map Tab with Routes",
+        "time_range": "00:01:53 - 00:03:45",
+        "participants": [
+          "Dan",
+          "Igor Golovtsov",
+          "Eugene Bondarenko"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "map",
+          "tab",
+          "with"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___applied_settings_tab_updates",
+        "type": "Topic",
+        "label": "Strategic Optimization - Applied Settings Tab Updates",
+        "time_range": "00:03:48 - 00:05:03",
+        "participants": [
+          "Dan",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "applied",
+          "settings",
+          "tab"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___wizard_improvements",
+        "type": "Topic",
+        "label": "Strategic Optimization - Wizard Improvements",
+        "time_range": "00:05:03 - 00:06:40",
+        "participants": [
+          "Dan",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "wizard",
+          "improvements"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___scenario_templates",
+        "type": "Topic",
+        "label": "Strategic Optimization - Scenario Templates",
+        "time_range": "00:06:40 - 00:08:08",
+        "participants": [
+          "Dan",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "scenario",
+          "templates"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___backend_technical_questions",
+        "type": "Topic",
+        "label": "Strategic Optimization - Backend Technical Questions",
+        "time_range": "00:08:38 - 00:11:28",
+        "participants": [
+          "Dan",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "backend",
+          "technical",
+          "questions"
+        ]
+      },
+      {
+        "id": "topic_routes_list_ui_improvements",
+        "type": "Topic",
+        "label": "Routes List UI Improvements",
+        "time_range": "00:11:28 - 00:13:18",
+        "participants": [
+          "Dan",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "routes",
+          "list",
+          "improvements"
+        ]
+      },
+      {
+        "id": "topic_time_zone_standardization",
+        "type": "Topic",
+        "label": "Time Zone Standardization",
+        "time_range": "00:13:18 - 00:15:12",
+        "participants": [
+          "Dan",
+          "Serhii Kasainov",
+          "Dmitry Smaliak"
+        ],
+        "keywords": [
+          "time",
+          "zone",
+          "standardization"
+        ]
+      },
+      {
+        "id": "topic_weather_layer_integration",
+        "type": "Topic",
+        "label": "Weather Layer Integration",
+        "time_range": "00:15:12 - 00:17:20",
+        "participants": [
+          "Dan",
+          "Eugene Bondarenko",
+          "Vladimir Zhakhavets",
+          "Artur Moskalenko"
+        ],
+        "keywords": [
+          "weather",
+          "layer",
+          "integration"
+        ]
+      },
+      {
+        "id": "topic_facility_snapshot",
+        "type": "Topic",
+        "label": "Facility Snapshot",
+        "time_range": "00:17:20 - 00:19:10",
+        "participants": [
+          "Dan",
+          "Alexey Gusentsov"
+        ],
+        "keywords": [
+          "facility",
+          "snapshot"
+        ]
+      },
+      {
+        "id": "topic_map_pin_visualization_unification",
+        "type": "Topic",
+        "label": "Map Pin Visualization Unification",
+        "time_range": "00:19:10 - 00:20:25",
+        "participants": [
+          "Dan",
+          "Volodymyr Ishchenko"
+        ],
+        "keywords": [
+          "map",
+          "pin",
+          "visualization",
+          "unification"
+        ]
+      },
+      {
+        "id": "topic_units_architecture_decision",
+        "type": "Topic",
+        "label": "Units Architecture Decision",
+        "time_range": "00:20:25 - 00:22:55",
+        "participants": [
+          "Dan",
+          "Semeyon Svetliy"
+        ],
+        "keywords": [
+          "units",
+          "architecture",
+          "decision"
+        ]
+      },
+      {
+        "id": "topic_operation_limiter_billing_accuracy_issue",
+        "type": "Topic",
+        "label": "Operation Limiter Billing Accuracy Issue",
+        "time_range": "00:22:55 - 00:25:42",
+        "participants": [
+          "Dan",
+          "Alex Shulga"
+        ],
+        "keywords": [
+          "operation",
+          "limiter",
+          "billing",
+          "accuracy",
+          "issue"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "id": "statement_igor_golovtsov_00_01_53",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:01:53",
+        "text": "Starting with Strategic Optimization. Eugene, can you show the Map tab?",
+        "sequence": 1,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_02_00",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:02:00",
+        "text": "Sure. So we now have a Map tab in Strategic Optimization. The main addition is that we can now display routes from routes.list and calendar on the map.",
+        "sequence": 2,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_02_15",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:02:15",
+        "text": "When you select a date range in the calendar, all routes for that period are loaded onto the map. You can see them color-coded, with a legend showing which route is which color.",
+        "sequence": 3,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_02_30",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:02:30",
+        "text": "We also added the ability to show facility locations. When you toggle this on, depot markers appear on the map. You can click on any depot to see its details - name, address, and which routes are associated with it.",
+        "sequence": 4,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_dan_00_02_50",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:02:50",
+        "text": "Can you filter by specific routes? Like if I only want to see certain routes on the map?",
+        "sequence": 5,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_03_00",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:03:00",
+        "text": "Yes, absolutely. In the routes.list panel on the left, you can check/uncheck specific routes. Only checked routes will display on the map.",
+        "sequence": 6,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_dan_00_03_10",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:03:10",
+        "text": "Good. And can I see unrouted locations?",
+        "sequence": 7,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_03_15",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:03:15",
+        "text": "Not yet in this iteration. That's planned for the next phase. Right now we're showing routed destinations only.",
+        "sequence": 8,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_dan_00_03_25",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:03:25",
+        "text": "Okay. When you click on a route on the map, what happens?",
+        "sequence": 9,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_03_30",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:03:30",
+        "text": "The route highlights, and a details panel opens showing route information - total distance, time, number of stops. You can also navigate to the full Route Editor from there.",
+        "sequence": 10,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_dan_00_03_45",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:03:45",
+        "text": "Perfect. Next?",
+        "sequence": 11,
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_03_48",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:03:48",
+        "text": "Let me show the Applied Settings tab updates. We've reorganized how settings are displayed to make them more intuitive.",
+        "sequence": 12,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_04_00",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:04:00",
+        "text": "All applied settings are now grouped logically. We have sections for route parameters, optimization constraints, vehicle settings, and time windows. Each section can be expanded or collapsed.",
+        "sequence": 13,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_04_20",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:04:20",
+        "text": "The key change is that we now show both the setting name and its actual value. Before, it was confusing which settings were active. Now it's crystal clear.",
+        "sequence": 14,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_dan_00_04_35",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:04:35",
+        "text": "Can I edit settings directly from this view?",
+        "sequence": 15,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_04_40",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:04:40",
+        "text": "Not yet. You'd need to go back to the wizard. But we're planning to add inline editing in the next iteration.",
+        "sequence": 16,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_dan_00_04_50",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:04:50",
+        "text": "Make that a priority. Users will want to tweak settings without going through the whole wizard again.",
+        "sequence": 17,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_04_58",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:04:58",
+        "text": "Understood. I'll add that to the top of our backlog.",
+        "sequence": 18,
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_05_03",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:05:03",
+        "text": "Now for wizard updates. We've made several improvements to the optimization wizard flow.",
+        "sequence": 19,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_05_15",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:05:15",
+        "text": "First, we added validation at each step. If you try to proceed without selecting required fields, you get clear error messages explaining what's missing.",
+        "sequence": 20,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_05_30",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:05:30",
+        "text": "Second, we added a progress indicator showing which step you're on and how many steps remain. This helps users understand where they are in the process.",
+        "sequence": 21,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_05_45",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:05:45",
+        "text": "Third, we improved the depot selection interface. You can now search for depots by name or address, and we show depot capacity information.",
+        "sequence": 22,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_dan_00_06_00",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:06:00",
+        "text": "Good improvements. What about saving partially completed wizards? Can users come back later?",
+        "sequence": 23,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_06_08",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:06:08",
+        "text": "Not yet implemented. Right now if you navigate away, you lose your progress. We could add draft saving.",
+        "sequence": 24,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_dan_00_06_18",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:06:18",
+        "text": "Yes, add that. People will want to start an optimization setup and finish it later, especially for complex scenarios.",
+        "sequence": 25,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_06_28",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:06:28",
+        "text": "Will do. That's a significant enhancement though - probably a week of work.",
+        "sequence": 26,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_dan_00_06_35",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:06:35",
+        "text": "Fine. Just get it scheduled.",
+        "sequence": 27,
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_06_40",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:06:40",
+        "text": "Next is scenario templates. This is a new feature that lets users save their optimization configurations as reusable templates.",
+        "sequence": 28,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_06_55",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:06:55",
+        "text": "When you complete a wizard, you can click \"Save as Template\" and give it a name. The template stores all your settings - route parameters, constraints, depot assignments, everything.",
+        "sequence": 29,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_07_15",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:07:15",
+        "text": "Then when creating a new optimization, you can select \"Start from Template\" and choose one of your saved templates. All settings are pre-filled, you just adjust what you need and run.",
+        "sequence": 30,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_dan_00_07_30",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:07:30",
+        "text": "Excellent. That's a huge time-saver for customers who run similar optimizations regularly. Can they share templates with team members?",
+        "sequence": 31,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_07_42",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:07:42",
+        "text": "Currently templates are per-user. Team sharing would require additional backend work - probably another week or two.",
+        "sequence": 32,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_dan_00_07_55",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:07:55",
+        "text": "Add that too. This feature is much more valuable if teams can share best-practice templates. Make it a follow-up task, not blocking this release.",
+        "sequence": 33,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_08_08",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:08:08",
+        "text": "Noted. We have a few other improvements to mention quickly. Draft route snapshot - this lets users preview the optimization results before committing them to production routes.",
+        "sequence": 34,
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "statement_dan_00_08_38",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:08:38",
+        "text": "Very good. Now what are these backend questions you mentioned?",
+        "sequence": 35,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_08_45",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:08:45",
+        "text": "Right. We need decisions on three things. First is consistency - sometimes what the backend returns doesn't match what we're displaying. We need to standardize the data format.",
+        "sequence": 36,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_09_02",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:09:02",
+        "text": "Second is breaks handling. Currently breaks are treated inconsistently - sometimes they're included in route time calculations, sometimes not. We need a clear rule.",
+        "sequence": 37,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_09_18",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:09:18",
+        "text": "Third is routed versus unrouted status. There's ambiguity about when a location is considered \"routed\" - is it when it's assigned to a route, or when the route is optimized, or when it's scheduled?",
+        "sequence": 38,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_09_35",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:09:35",
+        "text": "These are all important. Let's tackle them systematically. For consistency - what's the root cause of the mismatch?",
+        "sequence": 39,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_09_45",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:09:45",
+        "text": "Different API endpoints returning slightly different data structures. Some use camelCase, others use snake_case. Some include metadata, others don't.",
+        "sequence": 40,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_10_00",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:10:00",
+        "text": "That's unacceptable. We need a unified API response format across all endpoints. This should have been standardized from the beginning. How long to fix?",
+        "sequence": 41,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_10_15",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:10:15",
+        "text": "To standardize everything - probably two to three weeks. It affects multiple services.",
+        "sequence": 42,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_10_25",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:10:25",
+        "text": "Fine. Make this a high priority. Inconsistent data causes bugs and makes frontend code fragile. Get this cleaned up.",
+        "sequence": 43,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_10_38",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:10:38",
+        "text": "For breaks - breaks should always be included in route time calculations unless explicitly excluded by user preference. That should be the default behavior. Any objections?",
+        "sequence": 44,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_10_55",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:10:55",
+        "text": "No, that makes sense. We'll implement that as the standard.",
+        "sequence": 45,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_11_02",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:11:02",
+        "text": "Good. For routed status - a location is \"routed\" when it's assigned to an optimized route that has been saved. Not just assigned, not just optimized, but both. Clear?",
+        "sequence": 46,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_igor_golovtsov_00_11_20",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "00:11:20",
+        "text": "Clear. We'll update the logic to require both conditions.",
+        "sequence": 47,
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "statement_dan_00_11_28",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:11:28",
+        "text": "Alright. Next topic - Serhii, show me the routes.list improvements.",
+        "sequence": 48,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_11_35",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:11:35",
+        "text": "Okay Dan. We've redesigned the routes.list interface to be cleaner and more functional.",
+        "sequence": 49,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_11_48",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:11:48",
+        "text": "Main changes: we now have a search bar at the top that lets you filter routes by name, driver, vehicle, or date. Search is instant as you type.",
+        "sequence": 50,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_12_05",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:12:05",
+        "text": "We added sortable columns. You can click any column header to sort by that field - route name, date, driver, distance, time, status, anything.",
+        "sequence": 51,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_12_20",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:12:20",
+        "text": "We also added bulk actions. You can select multiple routes and perform actions like export, duplicate, or delete all at once.",
+        "sequence": 52,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_dan_00_12_35",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:12:35",
+        "text": "Good. What about custom column configuration? Can users choose which columns to display?",
+        "sequence": 53,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_12_45",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:12:45",
+        "text": "Not in this version. All columns are shown. We could add column visibility controls.",
+        "sequence": 54,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_dan_00_12_55",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:12:55",
+        "text": "Yes, do that. Different users care about different metrics. Let them customize their view. Should be simple to implement.",
+        "sequence": 55,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_13_08",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:13:08",
+        "text": "Agreed. Probably a day or two of work. I'll add it to the next sprint.",
+        "sequence": 56,
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "statement_dan_00_13_18",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:13:18",
+        "text": "Perfect. Show me the time zone work.",
+        "sequence": 57,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_13_25",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:13:25",
+        "text": "This was a significant update. We've standardized time zone handling across Plan New Route, routes.list, and Route Editor.",
+        "sequence": 58,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_13_40",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:13:40",
+        "text": "The core change is that we now always display times in the local time zone of the route's starting location. Previously it was inconsistent - sometimes showing UTC, sometimes server time, sometimes local.",
+        "sequence": 59,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_13_58",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:13:58",
+        "text": "We also added a time zone indicator in the UI so users always know which time zone they're looking at. It shows both the time zone name and UTC offset.",
+        "sequence": 60,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_dmitry_smaliak_00_14_15",
+        "type": "Statement",
+        "speaker_id": "person_dmitry_smaliak",
+        "timestamp": "00:14:15",
+        "text": "I worked on the backend for this. We now store timezone offset with every route and recalculate times on the fly when displaying.",
+        "sequence": 61,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_dan_00_14_30",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:14:30",
+        "text": "Excellent. This has been a pain point for international customers. What are next steps?",
+        "sequence": 62,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_14_40",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:14:40",
+        "text": "We need to extend this to a few more areas - activity feed, reports, and notifications. Should be done in the next sprint.",
+        "sequence": 63,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_dan_00_14_55",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:14:55",
+        "text": "Good. Make sure all date/time displays are consistent everywhere. This should be fully resolved, not partially.",
+        "sequence": 64,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_serhii_kasainov_00_15_08",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "00:15:08",
+        "text": "Understood.",
+        "sequence": 65,
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "statement_dan_00_15_12",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:15:12",
+        "text": "Alright, Eugene - Weather Layer.",
+        "sequence": 66,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_15_18",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:15:18",
+        "text": "Yes. We've integrated a weather layer into the map view that shows weather conditions along route paths.",
+        "sequence": 67,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_15_32",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:15:32",
+        "text": "Users can toggle the weather layer on/off. When enabled, the map shows weather icons at key points along each route - rain, snow, sun, clouds, etc.",
+        "sequence": 68,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_15_50",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:15:50",
+        "text": "We also show temperature and conditions when you hover over any weather icon. This helps drivers prepare for conditions they'll encounter.",
+        "sequence": 69,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_dan_00_16_05",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:16:05",
+        "text": "This is good. Can they see forecast for future dates?",
+        "sequence": 70,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_eugene_bondarenko_00_16_12",
+        "type": "Statement",
+        "speaker_id": "person_eugene_bondarenko",
+        "timestamp": "00:16:12",
+        "text": "That's the next iteration. Vova designed a forecast slider.",
+        "sequence": 71,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_16_20",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:16:20",
+        "text": "Yes, I designed an interface where you can slide through time to see weather forecast for any date/time in the next 7 days.",
+        "sequence": 72,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_vladimir_zhakhavets_00_16_35",
+        "type": "Statement",
+        "speaker_id": "person_vladimir_zhakhavets",
+        "timestamp": "00:16:35",
+        "text": "You move the slider and the map updates to show predicted weather for that specific time. Very visual and intuitive.",
+        "sequence": 73,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_dan_00_16_50",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:16:50",
+        "text": "Perfect. When can we release this?",
+        "sequence": 74,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_16_55",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:16:55",
+        "text": "From QA perspective, we need about a week for thorough testing. The weather API integration needs validation across different locations and conditions.",
+        "sequence": 75,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_dan_00_17_10",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:17:10",
+        "text": "Fine. Get it tested and released. This is a nice competitive feature.",
+        "sequence": 76,
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "statement_dan_00_17_20",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:17:20",
+        "text": "Next - Alexey, Facility Snapshot.",
+        "sequence": 77,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_alexey_gusentsov_00_17_28",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "00:17:28",
+        "text": "We've added facility snapshot functionality. When you view any facility page, there's now a \"Snapshot\" button.",
+        "sequence": 78,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_alexey_gusentsov_00_17_45",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "00:17:45",
+        "text": "Clicking it generates a complete snapshot of that facility's current state - all routes originating from it, utilization metrics, performance stats, everything.",
+        "sequence": 79,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_alexey_gusentsov_00_18_00",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "00:18:00",
+        "text": "The snapshot is saved and can be accessed later for historical comparison. You can see how facility performance has changed over time.",
+        "sequence": 80,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_dan_00_18_15",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:18:15",
+        "text": "Useful for operational analysis. Can users schedule automatic snapshots? Like daily or weekly?",
+        "sequence": 81,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_alexey_gusentsov_00_18_28",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "00:18:28",
+        "text": "Not yet. Currently it's manual. Scheduling would require cron job setup and notification system.",
+        "sequence": 82,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_dan_00_18_42",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:18:42",
+        "text": "Add that to the backlog. Automated snapshots are much more valuable than manual ones. Release date?",
+        "sequence": 83,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_alexey_gusentsov_00_18_55",
+        "type": "Statement",
+        "speaker_id": "person_alexey_gusentsov",
+        "timestamp": "00:18:55",
+        "text": "Ready for release next week. QA is nearly complete.",
+        "sequence": 84,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_dan_00_19_05",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:19:05",
+        "text": "Good. Ship it.",
+        "sequence": 85,
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "statement_dan_00_19_10",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:19:10",
+        "text": "Volodymyr - map pin visualization.",
+        "sequence": 86,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_volodymyr_ishchenko_00_19_18",
+        "type": "Statement",
+        "speaker_id": "person_volodymyr_ishchenko",
+        "timestamp": "00:19:18",
+        "text": "We've standardized how vehicles and users are displayed on maps across the entire application.",
+        "sequence": 87,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_volodymyr_ishchenko_00_19_32",
+        "type": "Statement",
+        "speaker_id": "person_volodymyr_ishchenko",
+        "timestamp": "00:19:32",
+        "text": "Previously, different map views showed vehicles and users with different icons, colors, and behaviors. Now we have a unified system.",
+        "sequence": 88,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_volodymyr_ishchenko_00_19_48",
+        "type": "Statement",
+        "speaker_id": "person_volodymyr_ishchenko",
+        "timestamp": "00:19:48",
+        "text": "All vehicle pins use the same icon style, color-coded by status. All user pins use consistent styling. Hovering behavior is the same everywhere.",
+        "sequence": 89,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_dan_00_20_05",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:20:05",
+        "text": "Simple but important. Consistency improves usability. Is this already deployed?",
+        "sequence": 90,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_volodymyr_ishchenko_00_20_15",
+        "type": "Statement",
+        "speaker_id": "person_volodymyr_ishchenko",
+        "timestamp": "00:20:15",
+        "text": "In staging now. QA testing this week, can deploy next week.",
+        "sequence": 91,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_dan_00_20_25",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:20:25",
+        "text": "Do it.",
+        "sequence": 92,
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "statement_dan_00_20_25",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:20:25",
+        "text": "Alright, now the questions. Semeyon - Units Architecture decision?",
+        "sequence": 93,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_20_35",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:20:35",
+        "text": "Yes Dan. We need to make a decision about how we architect the units system going forward.",
+        "sequence": 94,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_20_48",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:20:48",
+        "text": "Currently we have different unit types spread across multiple services - billable units, optimization units, routing units. They're not well integrated.",
+        "sequence": 95,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_21_05",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:21:05",
+        "text": "The question is: should we unify this into a single units architecture, or keep them separate with clear boundaries?",
+        "sequence": 96,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_dan_00_21_20",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:21:20",
+        "text": "What's your recommendation?",
+        "sequence": 97,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_21_25",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:21:25",
+        "text": "Unify. Having separate systems causes confusion, makes billing complicated, and creates technical debt. A unified architecture would be cleaner long-term.",
+        "sequence": 98,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_dan_00_21_42",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:21:42",
+        "text": "What's the migration cost?",
+        "sequence": 99,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_21_48",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:21:48",
+        "text": "Significant. Probably 4-6 weeks of backend work, plus testing, plus ensuring we don't break existing customer implementations.",
+        "sequence": 100,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_dan_00_22_05",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:22:05",
+        "text": "Here's my decision: unify the architecture, but do it in phases. Don't try to migrate everything at once. Start with new customers only, then gradually migrate existing customers. Keep the old system running in parallel during transition.",
+        "sequence": 101,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_22_28",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:22:28",
+        "text": "That's a smart approach. Minimizes risk.",
+        "sequence": 102,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_dan_00_22_35",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:22:35",
+        "text": "Yes. And document this well. We need clear architecture documentation so developers understand the system. Start the work next sprint.",
+        "sequence": 103,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_semeyon_svetliy_00_22_50",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_svetliy",
+        "timestamp": "00:22:50",
+        "text": "Will do.",
+        "sequence": 104,
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "statement_dan_00_22_55",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:22:55",
+        "text": "Alex - Operation Limiter question?",
+        "sequence": 105,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_alex_shulga_00_23_02",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:23:02",
+        "text": "Yes. The current Operation Limiter implementation for billable units has some issues. The Jira ticket is R4MWEB-25942.",
+        "sequence": 106,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_alex_shulga_00_23_20",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:23:20",
+        "text": "The problem is that the limiter doesn't accurately track certain operations. Some billable actions aren't being counted, while some non-billable actions are being counted.",
+        "sequence": 107,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_23_38",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:23:38",
+        "text": "That's serious. We could be undercharging or overcharging customers. What's causing this?",
+        "sequence": 108,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_alex_shulga_00_23_50",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:23:50",
+        "text": "The limiter logic was written before we had clear definitions of what's billable versus what's not. It's making assumptions that aren't correct.",
+        "sequence": 109,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_24_08",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:24:08",
+        "text": "Okay, here's what we need to do. First, create a definitive document listing every operation and whether it's billable or not. Get product and billing teams to review and approve.",
+        "sequence": 110,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_24_28",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:24:28",
+        "text": "Second, rewrite the Operation Limiter to exactly match that document. No assumptions, no ambiguity.",
+        "sequence": 111,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_24_42",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:24:42",
+        "text": "Third, write comprehensive tests covering every operation type. We cannot have billing inaccuracies.",
+        "sequence": 112,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_alex_shulga_00_24_58",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:24:58",
+        "text": "Understood. This will take a few weeks to do properly.",
+        "sequence": 113,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_25_08",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:25:08",
+        "text": "I don't care how long it takes. Billing accuracy is critical. Get this right. Who's owning this?",
+        "sequence": 114,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_alex_shulga_00_25_20",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:25:20",
+        "text": "I can coordinate, but we'll need backend engineers to implement the fixes.",
+        "sequence": 115,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "statement_dan_00_25_30",
+        "type": "Statement",
+        "speaker_id": "person_dan",
+        "timestamp": "00:25:30",
+        "text": "Fine. Make sure it's properly resourced. This is high priority.",
+        "sequence": 116,
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision_prioritize_inline_editing_for_applied_settings",
+        "type": "Decision",
+        "description": "Add inline editing capability to Applied Settings tab as high priority feature",
+        "decided_by": "Dan",
+        "rationale": "Users need ability to adjust optimization settings without navigating back through entire wizard. Direct editing improves workflow efficiency and user experience. [CEO_APPROVED]",
+        "alternatives": [
+          "Keep wizard-only editing",
+          "Partial inline editing for select fields"
+        ],
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "decision_add_draft_saving_to_wizard",
+        "type": "Decision",
+        "description": "Implement draft saving functionality for optimization wizard to allow users to save partial progress and resume later",
+        "decided_by": "Dan",
+        "rationale": "Complex optimizations take time to configure. Users need ability to save work-in-progress and return to complete setup. One week of development time acceptable for significant UX improvement. [CEO_APPROVED]",
+        "alternatives": [
+          "Session-based temporary save",
+          "No draft functionality"
+        ],
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "decision_add_team_template_sharing",
+        "type": "Decision",
+        "description": "Implement team-level template sharing for scenario templates as follow-up enhancement, not blocking current release",
+        "decided_by": "Dan",
+        "rationale": "Scenario templates are significantly more valuable when teams can share best-practice configurations. Feature should not block current release but should be prioritized for next iteration. One to two weeks of backend development time. [CEO_APPROVED]",
+        "alternatives": [
+          "Keep templates per-user only",
+          "Organization-wide template library"
+        ],
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "decision_standardize_api_response_format",
+        "type": "Decision",
+        "description": "Create unified API response format across all endpoints, standardizing data structures, naming conventions, and metadata inclusion",
+        "decided_by": "Dan",
+        "rationale": "Current inconsistencies between API endpoints cause frontend bugs and fragile code. Different endpoints returning different formats (camelCase vs snake_case, varying metadata) is unacceptable and should have been standardized from beginning. Two to three weeks to fix across multiple services is acceptable given critical nature. [CEO_FINAL_DECISION]",
+        "alternatives": [
+          "Accept current inconsistencies",
+          "Gradual migration per endpoint"
+        ],
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "decision_breaks_default_behavior",
+        "type": "Decision",
+        "description": "Breaks must always be included in route time calculations by default unless explicitly excluded by user preference",
+        "decided_by": "Dan",
+        "rationale": "Standardizes break handling across system. Default inclusion ensures accurate time calculations while allowing user override when needed. Eliminates current ambiguity. [CEO_FINAL_DECISION]",
+        "alternatives": [
+          "Always exclude breaks",
+          "Make user specify each time"
+        ],
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "decision_routed_status_definition",
+        "type": "Decision",
+        "description": "Location is \"routed\" only when assigned to optimized route that has been saved - requires all three conditions (assignment AND optimization AND save)",
+        "decided_by": "Dan",
+        "rationale": "Eliminates ambiguity about routed status. Clear definition prevents confusion between assigned-but-not-optimized, optimized-but-not-saved, and fully routed locations. [CEO_FINAL_DECISION]",
+        "alternatives": [
+          "Routed on assignment",
+          "Routed on optimization",
+          "Routed on schedule"
+        ],
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "decision_add_column_visibility_controls",
+        "type": "Decision",
+        "description": "Implement custom column configuration for routes.list to allow users to show/hide columns based on their needs",
+        "decided_by": "Dan",
+        "rationale": "Different users have different priorities - some care about distance, others about time, others about driver assignments. Customizable column visibility improves usability and reduces visual clutter. Simple one to two day implementation. [CEO_APPROVED]",
+        "alternatives": [
+          "Show all columns always",
+          "Provide preset column configurations"
+        ],
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "decision_complete_time_zone_standardization",
+        "type": "Decision",
+        "description": "Extend time zone standardization to all remaining areas including activity feed, reports, and notifications to achieve full consistency",
+        "decided_by": "Dan",
+        "rationale": "Time zone inconsistencies have been major pain point for international customers. Partial solution is insufficient. All date/time displays across entire application must show consistent local time zone. Complete resolution required. [CEO_APPROVED]",
+        "alternatives": [
+          "Leave some areas with current behavior",
+          "Phase rollout over multiple sprints"
+        ],
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "decision_release_weather_layer_after_testing",
+        "type": "Decision",
+        "description": "Complete one week of QA testing for weather layer and release to production",
+        "decided_by": "Dan",
+        "rationale": "Weather layer with forecast slider is valuable competitive feature. Weather API integration requires thorough validation across different geographic locations and weather conditions. One week testing acceptable before release. [CEO_APPROVED]",
+        "alternatives": [
+          "Release without extended testing",
+          "Beta release to limited customers"
+        ],
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "decision_ship_facility_snapshot_next_week",
+        "type": "Decision",
+        "description": "Release facility snapshot functionality to production next week after QA completion",
+        "decided_by": "Dan",
+        "rationale": "Facility snapshot provides valuable operational analysis capability. Manual snapshot generation ready for release. Automated scheduling added to backlog for future enhancement. [CEO_APPROVED]",
+        "alternatives": [
+          "Wait for automated scheduling",
+          "Beta release first"
+        ],
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "decision_deploy_map_pin_visualization",
+        "type": "Decision",
+        "description": "Deploy unified map pin visualization for vehicles and users to production next week after QA testing",
+        "decided_by": "Dan",
+        "rationale": "Visual consistency improves usability across application. Simple change with significant UX benefit. Testing in progress. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "decision_unify_units_architecture_in_phases",
+        "type": "Decision",
+        "description": "Unify units architecture across all unit types (billable, optimization, routing) using phased migration approach - new customers first, then gradual migration of existing customers while keeping old system parallel during transition",
+        "decided_by": "Dan",
+        "rationale": "Current fragmented unit systems cause confusion, billing complexity, and technical debt. Unified architecture is cleaner long-term solution. Phased migration minimizes risk of breaking existing customer implementations. Four to six weeks backend work plus testing acceptable. Clear architecture documentation required. Start next sprint. [CEO_FINAL_DECISION]",
+        "alternatives": [
+          "Keep systems separate with clear boundaries",
+          "Big-bang migration all at once"
+        ],
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "decision_fix_operation_limiter_billing_accuracy",
+        "type": "Decision",
+        "description": "Complete three-step fix for Operation Limiter - (1) create definitive billable operations document with product and billing approval, (2) rewrite Operation Limiter to exactly match document with zero ambiguity, (3) write comprehensive tests for every operation type",
+        "decided_by": "Dan",
+        "rationale": "Billing inaccuracies are critical issue potentially causing undercharging or overcharging customers. Current limiter makes incorrect assumptions due to lack of clear billable operation definitions. Comprehensive fix required regardless of time needed. Billing accuracy is non-negotiable. High priority with proper backend engineering resources. [CEO_FINAL_DECISION]",
+        "alternatives": [
+          "Quick patch fix",
+          "Gradual incremental fixes"
+        ],
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "issue_operation_limiter_billing_inaccuracy",
+        "type": "TechnicalIssue",
+        "description": "**[00:23:02] Alex Shulga:** The current Operation Limiter implementation for billable units has issues. Jira ticket R4MWEB-25942.\n\n**[00:23:20] Alex Shulga:** The limiter doesn't accurately track certain operations. Some billable actions aren't being counted, while some non-billable actions are being counted.\n\n**[00:23:50] Alex Shulga:** The limiter logic was written before clear definitions existed of what's billable versus what's not. It's making incorrect assumptions.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_add_unrouted_locations_display",
+        "type": "ActionItem",
+        "description": "Add unrouted locations display to Map tab in next phase",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes"
+      },
+      {
+        "id": "action_implement_inline_editing_for_a",
+        "type": "ActionItem",
+        "description": "Implement inline editing for Applied Settings tab",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___applied_settings_tab_updates"
+      },
+      {
+        "id": "action_implement_draft_saving_for_opt",
+        "type": "ActionItem",
+        "description": "Implement draft saving for optimization wizard",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-23",
+        "topic_id": "topic_strategic_optimization___wizard_improvements"
+      },
+      {
+        "id": "action_implement_team_template_sharin",
+        "type": "ActionItem",
+        "description": "Implement team template sharing for scenario templates",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "2024-10-30",
+        "topic_id": "topic_strategic_optimization___scenario_templates"
+      },
+      {
+        "id": "action_standardize_api_response_forma",
+        "type": "ActionItem",
+        "description": "Standardize API response format across all endpoints",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-30",
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "action_implement_breaks_inclusion_as_",
+        "type": "ActionItem",
+        "description": "Implement breaks inclusion as default in route time calculations",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "action_update_routed_status_logic_to_",
+        "type": "ActionItem",
+        "description": "Update routed status logic to require assignment + optimization + save",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___backend_technical_questions"
+      },
+      {
+        "id": "action_add_column_visibility_controls",
+        "type": "ActionItem",
+        "description": "Add column visibility controls to routes.list",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "2024-10-18",
+        "topic_id": "topic_routes_list_ui_improvements"
+      },
+      {
+        "id": "action_extend_time_zone_standardizati",
+        "type": "ActionItem",
+        "description": "Extend time zone standardization to activity feed",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-23",
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "action_extend_time_zone_standardizati",
+        "type": "ActionItem",
+        "description": "Extend time zone standardization to reports",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-23",
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "action_extend_time_zone_standardizati",
+        "type": "ActionItem",
+        "description": "Extend time zone standardization to notifications",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-23",
+        "topic_id": "topic_time_zone_standardization"
+      },
+      {
+        "id": "action_complete_qa_testing_for_weathe",
+        "type": "ActionItem",
+        "description": "Complete QA testing for weather layer across multiple locations and conditions",
+        "owner_id": "person_artur_moskalenko",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "2024-10-16",
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "action_release_weather_layer_to_produ",
+        "type": "ActionItem",
+        "description": "Release weather layer to production after QA approval",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-17",
+        "topic_id": "topic_weather_layer_integration"
+      },
+      {
+        "id": "action_release_facility_snapshot_to_p",
+        "type": "ActionItem",
+        "description": "Release facility snapshot to production",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "2024-10-16",
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "action_add_scheduled_automatic_snapsh",
+        "type": "ActionItem",
+        "description": "Add scheduled automatic snapshots to backlog",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot"
+      },
+      {
+        "id": "action_complete_qa_testing_for_map_pi",
+        "type": "ActionItem",
+        "description": "Complete QA testing for map pin visualization",
+        "owner_id": "person_volodymyr_ishchenko",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "2024-10-15",
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "action_deploy_unified_map_pin_visuali",
+        "type": "ActionItem",
+        "description": "Deploy unified map pin visualization to production",
+        "owner_id": "person_volodymyr_ishchenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "2024-10-16",
+        "topic_id": "topic_map_pin_visualization_unification"
+      },
+      {
+        "id": "action_design_phased_migration_plan_f",
+        "type": "ActionItem",
+        "description": "Design phased migration plan for units architecture unification",
+        "owner_id": "person_semeyon_svetliy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-18",
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "action_create_comprehensive_architect",
+        "type": "ActionItem",
+        "description": "Create comprehensive architecture documentation for unified units system",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-25",
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "action_implement_unified_units_archit",
+        "type": "ActionItem",
+        "description": "Implement unified units architecture starting with new customers",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-11-20",
+        "topic_id": "topic_units_architecture_decision"
+      },
+      {
+        "id": "action_create_definitive_document_lis",
+        "type": "ActionItem",
+        "description": "Create definitive document listing all operations and billable status, get product and billing approval",
+        "owner_id": "person_alex_shulga",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2024-10-18",
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "action_rewrite_operation_limiter_to_e",
+        "type": "ActionItem",
+        "description": "Rewrite Operation Limiter to exactly match approved billable operations document",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      },
+      {
+        "id": "action_write_comprehensive_tests_cove",
+        "type": "ActionItem",
+        "description": "Write comprehensive tests covering every operation type for Operation Limiter",
+        "owner_id": "person_qa_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_operation_limiter_billing_accuracy_issue"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_dan__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_eugene_bondarenko__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_serhii_kasainov__frontend_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_dmitry_smaliak__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_vladimir_zhakhavets__ui_ux_designer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_volodymyr_ishchenko__qa_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_semeyon_svetliy__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "person_alex_shulga__qa_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "time_range": "00:01:53 - 00:03:45"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_01_53",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:01:53"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_01_53",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 1
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_02_00",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:02:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_02_00",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 2
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_01_53",
+      "to": "statement_eugene_bondarenko_00_02_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_02_15",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:02:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_02_15",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 3
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_02_00",
+      "to": "statement_eugene_bondarenko_00_02_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_02_30",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:02:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_02_30",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 4
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_02_15",
+      "to": "statement_eugene_bondarenko_00_02_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_02_50",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:02:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_02_50",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 5
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_02_30",
+      "to": "statement_dan_00_02_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_03_00",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:03:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_03_00",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 6
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_02_50",
+      "to": "statement_eugene_bondarenko_00_03_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_03_10",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:03:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_03_10",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 7
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_03_00",
+      "to": "statement_dan_00_03_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_03_15",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:03:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_03_15",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 8
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_03_10",
+      "to": "statement_eugene_bondarenko_00_03_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_03_25",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:03:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_03_25",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 9
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_03_15",
+      "to": "statement_dan_00_03_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_03_30",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:03:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_03_30",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 10
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_03_25",
+      "to": "statement_eugene_bondarenko_00_03_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_03_45",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:03:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_03_45",
+      "to": "topic_strategic_optimization___map_tab_with_routes",
+      "properties": {
+        "sequence": 11
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_03_30",
+      "to": "statement_dan_00_03_45",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___map_tab_with_routes",
+      "to": "action_add_unrouted_locations_display",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_unrouted_locations_display",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "time_range": "00:03:48 - 00:05:03"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_03_48",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:03:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_03_48",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 12
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_04_00",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:04:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_04_00",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 13
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_03_48",
+      "to": "statement_igor_golovtsov_00_04_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_04_20",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:04:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_04_20",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 14
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_04_00",
+      "to": "statement_igor_golovtsov_00_04_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_04_35",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:04:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_04_35",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 15
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_04_20",
+      "to": "statement_dan_00_04_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_04_40",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:04:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_04_40",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 16
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_04_35",
+      "to": "statement_igor_golovtsov_00_04_40",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_04_50",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:04:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_04_50",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 17
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_04_40",
+      "to": "statement_dan_00_04_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_04_58",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:04:58"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_04_58",
+      "to": "topic_strategic_optimization___applied_settings_tab_updates",
+      "properties": {
+        "sequence": 18
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_04_50",
+      "to": "statement_igor_golovtsov_00_04_58",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___applied_settings_tab_updates",
+      "to": "decision_prioritize_inline_editing_for_applied_settings",
+      "properties": {
+        "label": "Prioritize Inline Editing for Applied Settings"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_prioritize_inline_editing_for_applied_settings",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___applied_settings_tab_updates",
+      "to": "action_implement_inline_editing_for_a",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_inline_editing_for_a",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "time_range": "00:05:03 - 00:06:40"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_05_03",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:05:03"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_05_03",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 19
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_05_15",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:05:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_05_15",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 20
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_05_03",
+      "to": "statement_igor_golovtsov_00_05_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_05_30",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:05:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_05_30",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 21
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_05_15",
+      "to": "statement_igor_golovtsov_00_05_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_05_45",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:05:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_05_45",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 22
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_05_30",
+      "to": "statement_igor_golovtsov_00_05_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_06_00",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:06:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_06_00",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 23
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_05_45",
+      "to": "statement_dan_00_06_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_06_08",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:06:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_06_08",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 24
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_06_00",
+      "to": "statement_igor_golovtsov_00_06_08",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_06_18",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:06:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_06_18",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 25
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_06_08",
+      "to": "statement_dan_00_06_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_06_28",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:06:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_06_28",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 26
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_06_18",
+      "to": "statement_igor_golovtsov_00_06_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_06_35",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:06:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_06_35",
+      "to": "topic_strategic_optimization___wizard_improvements",
+      "properties": {
+        "sequence": 27
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_06_28",
+      "to": "statement_dan_00_06_35",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___wizard_improvements",
+      "to": "decision_add_draft_saving_to_wizard",
+      "properties": {
+        "label": "Add Draft Saving to Wizard"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_draft_saving_to_wizard",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___wizard_improvements",
+      "to": "action_implement_draft_saving_for_opt",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_draft_saving_for_opt",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "time_range": "00:06:40 - 00:08:08"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_06_40",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:06:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_06_40",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 28
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_06_55",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:06:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_06_55",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 29
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_06_40",
+      "to": "statement_igor_golovtsov_00_06_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_07_15",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:07:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_07_15",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 30
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_06_55",
+      "to": "statement_igor_golovtsov_00_07_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_07_30",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:07:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_07_30",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 31
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_07_15",
+      "to": "statement_dan_00_07_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_07_42",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:07:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_07_42",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 32
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_07_30",
+      "to": "statement_igor_golovtsov_00_07_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_07_55",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:07:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_07_55",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 33
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_07_42",
+      "to": "statement_dan_00_07_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_08_08",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:08:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_08_08",
+      "to": "topic_strategic_optimization___scenario_templates",
+      "properties": {
+        "sequence": 34
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_07_55",
+      "to": "statement_igor_golovtsov_00_08_08",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___scenario_templates",
+      "to": "decision_add_team_template_sharing",
+      "properties": {
+        "label": "Add Team Template Sharing"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_team_template_sharing",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___scenario_templates",
+      "to": "action_implement_team_template_sharin",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_team_template_sharin",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "time_range": "00:08:38 - 00:11:28"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_08_38",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:08:38"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_08_38",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 35
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_08_45",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:08:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_08_45",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 36
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_08_38",
+      "to": "statement_igor_golovtsov_00_08_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_09_02",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:09:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_09_02",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 37
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_08_45",
+      "to": "statement_igor_golovtsov_00_09_02",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_09_18",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:09:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_09_18",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 38
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_09_02",
+      "to": "statement_igor_golovtsov_00_09_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_09_35",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:09:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_09_35",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 39
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_09_18",
+      "to": "statement_dan_00_09_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_09_45",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:09:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_09_45",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 40
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_09_35",
+      "to": "statement_igor_golovtsov_00_09_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_10_00",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:10:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_10_00",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 41
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_09_45",
+      "to": "statement_dan_00_10_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_10_15",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:10:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_10_15",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 42
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_10_00",
+      "to": "statement_igor_golovtsov_00_10_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_10_25",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:10:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_10_25",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 43
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_10_15",
+      "to": "statement_dan_00_10_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_10_38",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:10:38"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_10_38",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 44
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_10_25",
+      "to": "statement_dan_00_10_38",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_10_55",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:10:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_10_55",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 45
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_10_38",
+      "to": "statement_igor_golovtsov_00_10_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_11_02",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:11:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_11_02",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 46
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_00_10_55",
+      "to": "statement_dan_00_11_02",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_00_11_20",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "00:11:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_00_11_20",
+      "to": "topic_strategic_optimization___backend_technical_questions",
+      "properties": {
+        "sequence": 47
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_11_02",
+      "to": "statement_igor_golovtsov_00_11_20",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "decision_standardize_api_response_format",
+      "properties": {
+        "label": "Standardize API Response Format"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_standardize_api_response_format",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "decision_breaks_default_behavior",
+      "properties": {
+        "label": "Breaks Default Behavior"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_breaks_default_behavior",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "decision_routed_status_definition",
+      "properties": {
+        "label": "Routed Status Definition"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_routed_status_definition",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "action_standardize_api_response_forma",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_standardize_api_response_forma",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "action_implement_breaks_inclusion_as_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_breaks_inclusion_as_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___backend_technical_questions",
+      "to": "action_update_routed_status_logic_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_update_routed_status_logic_to_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "time_range": "00:11:28 - 00:13:18"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_11_28",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:11:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_11_28",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 48
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_11_35",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:11:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_11_35",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 49
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_11_28",
+      "to": "statement_serhii_kasainov_00_11_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_11_48",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:11:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_11_48",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 50
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_11_35",
+      "to": "statement_serhii_kasainov_00_11_48",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_12_05",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:12:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_12_05",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 51
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_11_48",
+      "to": "statement_serhii_kasainov_00_12_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_12_20",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:12:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_12_20",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 52
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_12_05",
+      "to": "statement_serhii_kasainov_00_12_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_12_35",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:12:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_12_35",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 53
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_12_20",
+      "to": "statement_dan_00_12_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_12_45",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:12:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_12_45",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 54
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_12_35",
+      "to": "statement_serhii_kasainov_00_12_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_12_55",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:12:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_12_55",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 55
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_12_45",
+      "to": "statement_dan_00_12_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_13_08",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:13:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_13_08",
+      "to": "topic_routes_list_ui_improvements",
+      "properties": {
+        "sequence": 56
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_12_55",
+      "to": "statement_serhii_kasainov_00_13_08",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_routes_list_ui_improvements",
+      "to": "decision_add_column_visibility_controls",
+      "properties": {
+        "label": "Add Column Visibility Controls"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_column_visibility_controls",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_routes_list_ui_improvements",
+      "to": "action_add_column_visibility_controls",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_column_visibility_controls",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "time_range": "00:13:18 - 00:15:12"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_13_18",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:13:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_13_18",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 57
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_13_25",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:13:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_13_25",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 58
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_13_18",
+      "to": "statement_serhii_kasainov_00_13_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_13_40",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:13:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_13_40",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 59
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_13_25",
+      "to": "statement_serhii_kasainov_00_13_40",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_13_58",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:13:58"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_13_58",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 60
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_13_40",
+      "to": "statement_serhii_kasainov_00_13_58",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dmitry_smaliak_00_14_15",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "timestamp": "00:14:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dmitry_smaliak_00_14_15",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 61
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_13_58",
+      "to": "statement_dmitry_smaliak_00_14_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_14_30",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:14:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_14_30",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 62
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dmitry_smaliak_00_14_15",
+      "to": "statement_dan_00_14_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_14_40",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:14:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_14_40",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 63
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_14_30",
+      "to": "statement_serhii_kasainov_00_14_40",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_14_55",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:14:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_14_55",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 64
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_00_14_40",
+      "to": "statement_dan_00_14_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_00_15_08",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "00:15:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_00_15_08",
+      "to": "topic_time_zone_standardization",
+      "properties": {
+        "sequence": 65
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_14_55",
+      "to": "statement_serhii_kasainov_00_15_08",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_time_zone_standardization",
+      "to": "decision_complete_time_zone_standardization",
+      "properties": {
+        "label": "Complete Time Zone Standardization"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_complete_time_zone_standardization",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_time_zone_standardization",
+      "to": "action_extend_time_zone_standardizati",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_extend_time_zone_standardizati",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_time_zone_standardization",
+      "to": "action_extend_time_zone_standardizati",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_extend_time_zone_standardizati",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_time_zone_standardization",
+      "to": "action_extend_time_zone_standardizati",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_extend_time_zone_standardizati",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "time_range": "00:15:12 - 00:17:20"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_15_12",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:15:12"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_15_12",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 66
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_15_18",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:15:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_15_18",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 67
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_15_12",
+      "to": "statement_eugene_bondarenko_00_15_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_15_32",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:15:32"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_15_32",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 68
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_15_18",
+      "to": "statement_eugene_bondarenko_00_15_32",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_15_50",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:15:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_15_50",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 69
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_15_32",
+      "to": "statement_eugene_bondarenko_00_15_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_16_05",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:16:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_16_05",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 70
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_15_50",
+      "to": "statement_dan_00_16_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_eugene_bondarenko_00_16_12",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "timestamp": "00:16:12"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_eugene_bondarenko_00_16_12",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 71
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_16_05",
+      "to": "statement_eugene_bondarenko_00_16_12",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_16_20",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:16:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_16_20",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 72
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_eugene_bondarenko_00_16_12",
+      "to": "statement_vladimir_zhakhavets_00_16_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vladimir_zhakhavets_00_16_35",
+      "to": "person_vladimir_zhakhavets",
+      "properties": {
+        "timestamp": "00:16:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vladimir_zhakhavets_00_16_35",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 73
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_16_20",
+      "to": "statement_vladimir_zhakhavets_00_16_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_16_50",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:16:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_16_50",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 74
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vladimir_zhakhavets_00_16_35",
+      "to": "statement_dan_00_16_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_16_55",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:16:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_16_55",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 75
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_16_50",
+      "to": "statement_artur_moskalenko_00_16_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_17_10",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:17:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_17_10",
+      "to": "topic_weather_layer_integration",
+      "properties": {
+        "sequence": 76
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_16_55",
+      "to": "statement_dan_00_17_10",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_weather_layer_integration",
+      "to": "decision_release_weather_layer_after_testing",
+      "properties": {
+        "label": "Release Weather Layer After Testing"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_release_weather_layer_after_testing",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer_integration",
+      "to": "action_complete_qa_testing_for_weathe",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_qa_testing_for_weathe",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer_integration",
+      "to": "action_release_weather_layer_to_produ",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_release_weather_layer_to_produ",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "time_range": "00:17:20 - 00:19:10"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_17_20",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:17:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_17_20",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 77
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_00_17_28",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "00:17:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_00_17_28",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 78
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_17_20",
+      "to": "statement_alexey_gusentsov_00_17_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_00_17_45",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "00:17:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_00_17_45",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 79
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_00_17_28",
+      "to": "statement_alexey_gusentsov_00_17_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_00_18_00",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "00:18:00"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_00_18_00",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 80
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_00_17_45",
+      "to": "statement_alexey_gusentsov_00_18_00",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_18_15",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:18:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_18_15",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 81
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_00_18_00",
+      "to": "statement_dan_00_18_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_00_18_28",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "00:18:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_00_18_28",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 82
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_18_15",
+      "to": "statement_alexey_gusentsov_00_18_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_18_42",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:18:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_18_42",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 83
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_00_18_28",
+      "to": "statement_dan_00_18_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alexey_gusentsov_00_18_55",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "timestamp": "00:18:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alexey_gusentsov_00_18_55",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 84
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_18_42",
+      "to": "statement_alexey_gusentsov_00_18_55",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_19_05",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:19:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_19_05",
+      "to": "topic_facility_snapshot",
+      "properties": {
+        "sequence": 85
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alexey_gusentsov_00_18_55",
+      "to": "statement_dan_00_19_05",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_facility_snapshot",
+      "to": "decision_ship_facility_snapshot_next_week",
+      "properties": {
+        "label": "Ship Facility Snapshot Next Week"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_ship_facility_snapshot_next_week",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot",
+      "to": "action_release_facility_snapshot_to_p",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_release_facility_snapshot_to_p",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot",
+      "to": "action_add_scheduled_automatic_snapsh",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_scheduled_automatic_snapsh",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "time_range": "00:19:10 - 00:20:25"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_19_10",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:19:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_19_10",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 86
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_volodymyr_ishchenko_00_19_18",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "timestamp": "00:19:18"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_volodymyr_ishchenko_00_19_18",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 87
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_19_10",
+      "to": "statement_volodymyr_ishchenko_00_19_18",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_volodymyr_ishchenko_00_19_32",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "timestamp": "00:19:32"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_volodymyr_ishchenko_00_19_32",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 88
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_volodymyr_ishchenko_00_19_18",
+      "to": "statement_volodymyr_ishchenko_00_19_32",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_volodymyr_ishchenko_00_19_48",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "timestamp": "00:19:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_volodymyr_ishchenko_00_19_48",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 89
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_volodymyr_ishchenko_00_19_32",
+      "to": "statement_volodymyr_ishchenko_00_19_48",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_20_05",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:20:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_20_05",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 90
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_volodymyr_ishchenko_00_19_48",
+      "to": "statement_dan_00_20_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_volodymyr_ishchenko_00_20_15",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "timestamp": "00:20:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_volodymyr_ishchenko_00_20_15",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 91
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_20_05",
+      "to": "statement_volodymyr_ishchenko_00_20_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_20_25",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:20:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_20_25",
+      "to": "topic_map_pin_visualization_unification",
+      "properties": {
+        "sequence": 92
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_volodymyr_ishchenko_00_20_15",
+      "to": "statement_dan_00_20_25",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_map_pin_visualization_unification",
+      "to": "decision_deploy_map_pin_visualization",
+      "properties": {
+        "label": "Deploy Map Pin Visualization"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_deploy_map_pin_visualization",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_pin_visualization_unification",
+      "to": "action_complete_qa_testing_for_map_pi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_qa_testing_for_map_pi",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_pin_visualization_unification",
+      "to": "action_deploy_unified_map_pin_visuali",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_deploy_unified_map_pin_visuali",
+      "to": "person_volodymyr_ishchenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "time_range": "00:20:25 - 00:22:55"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_20_25",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:20:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_20_25",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 93
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_20_35",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:20:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_20_35",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 94
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_20_25",
+      "to": "statement_semeyon_svetliy_00_20_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_20_48",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:20:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_20_48",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 95
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_20_35",
+      "to": "statement_semeyon_svetliy_00_20_48",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_21_05",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:21:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_21_05",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 96
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_20_48",
+      "to": "statement_semeyon_svetliy_00_21_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_21_20",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:21:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_21_20",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 97
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_21_05",
+      "to": "statement_dan_00_21_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_21_25",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:21:25"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_21_25",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 98
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_21_20",
+      "to": "statement_semeyon_svetliy_00_21_25",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_21_42",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:21:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_21_42",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 99
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_21_25",
+      "to": "statement_dan_00_21_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_21_48",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:21:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_21_48",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 100
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_21_42",
+      "to": "statement_semeyon_svetliy_00_21_48",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_22_05",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:22:05"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_22_05",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 101
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_21_48",
+      "to": "statement_dan_00_22_05",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_22_28",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:22:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_22_28",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 102
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_22_05",
+      "to": "statement_semeyon_svetliy_00_22_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_22_35",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:22:35"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_22_35",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 103
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_svetliy_00_22_28",
+      "to": "statement_dan_00_22_35",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_svetliy_00_22_50",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "timestamp": "00:22:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_svetliy_00_22_50",
+      "to": "topic_units_architecture_decision",
+      "properties": {
+        "sequence": 104
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_22_35",
+      "to": "statement_semeyon_svetliy_00_22_50",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_units_architecture_decision",
+      "to": "decision_unify_units_architecture_in_phases",
+      "properties": {
+        "label": "Unify Units Architecture in Phases"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_unify_units_architecture_in_phases",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_units_architecture_decision",
+      "to": "action_design_phased_migration_plan_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_phased_migration_plan_f",
+      "to": "person_semeyon_svetliy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_units_architecture_decision",
+      "to": "action_create_comprehensive_architect",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_comprehensive_architect",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_units_architecture_decision",
+      "to": "action_implement_unified_units_archit",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_unified_units_archit",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2024_10_09_product_review___strategic_optimization___feature_updates",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "time_range": "00:22:55 - 00:25:42"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_22_55",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:22:55"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_22_55",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 105
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_23_02",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:23:02"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_23_02",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 106
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_22_55",
+      "to": "statement_alex_shulga_00_23_02",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_23_20",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:23:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_23_20",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 107
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_23_02",
+      "to": "statement_alex_shulga_00_23_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_23_38",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:23:38"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_23_38",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 108
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_23_20",
+      "to": "statement_dan_00_23_38",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_23_50",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:23:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_23_50",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 109
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_23_38",
+      "to": "statement_alex_shulga_00_23_50",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_24_08",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:24:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_24_08",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 110
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_23_50",
+      "to": "statement_dan_00_24_08",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_24_28",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:24:28"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_24_28",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 111
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_24_08",
+      "to": "statement_dan_00_24_28",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_24_42",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:24:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_24_42",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 112
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_24_28",
+      "to": "statement_dan_00_24_42",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_24_58",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:24:58"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_24_58",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 113
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_24_42",
+      "to": "statement_alex_shulga_00_24_58",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_25_08",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:25:08"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_25_08",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 114
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_24_58",
+      "to": "statement_dan_00_25_08",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_25_20",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:25:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_25_20",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 115
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_00_25_08",
+      "to": "statement_alex_shulga_00_25_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_00_25_30",
+      "to": "person_dan",
+      "properties": {
+        "timestamp": "00:25:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_00_25_30",
+      "to": "topic_operation_limiter_billing_accuracy_issue",
+      "properties": {
+        "sequence": 116
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_25_20",
+      "to": "statement_dan_00_25_30",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_operation_limiter_billing_accuracy_issue",
+      "to": "decision_fix_operation_limiter_billing_accuracy",
+      "properties": {
+        "label": "Fix Operation Limiter Billing Accuracy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_fix_operation_limiter_billing_accuracy",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_operation_limiter_billing_accuracy_issue",
+      "to": "action_create_definitive_document_lis",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_definitive_document_lis",
+      "to": "person_alex_shulga",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_operation_limiter_billing_accuracy_issue",
+      "to": "action_rewrite_operation_limiter_to_e",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rewrite_operation_limiter_to_e",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_operation_limiter_billing_accuracy_issue",
+      "to": "action_write_comprehensive_tests_cove",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_write_comprehensive_tests_cove",
+      "to": "person_qa_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_operation_limiter_billing_accuracy_issue",
+      "to": "issue_operation_limiter_billing_inaccuracy",
+      "properties": {
+        "label": "Operation Limiter Billing Inaccuracy"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 188,
+    "total_relationships": 432,
+    "node_counts": {
+      "meetings": 1,
+      "people": 22,
+      "topics": 12,
+      "statements": 116,
+      "decisions": 14,
+      "action_items": 23
+    }
+  }
+}

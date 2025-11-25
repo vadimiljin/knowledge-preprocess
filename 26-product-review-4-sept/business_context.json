@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:38:13.923099",
+    "source_file": "26-product-review-4-sept/business_context.md",
+    "meeting_date": "2025-09-04"
+  },
+  "nodes": {
+    "directives": [],
+    "leadership_patterns": [
+      {
+        "id": "leadership_dan_khasis_2025-09-04",
+        "type": "LeadershipPattern",
+        "name": "Dan Khasis",
+        "role": "CEO",
+        "takes_initiative": "Product direction, competitive positioning, customer retention, design quality, feature priorities",
+        "seeks_approval": "Nothing - Dan is final authority",
+        "authority_scope": "All product decisions, strategic direction, customer relationships, team priorities",
+        "meeting_date": "2025-09-04"
+      },
+      {
+        "id": "leadership_alexey_afanasiev_2025-09-04",
+        "type": "LeadershipPattern",
+        "name": "Alexey Afanasiev",
+        "role": "Frontend Lead",
+        "takes_initiative": "Team coordination, work distribution, status reporting",
+        "seeks_approval": "Major product decisions, priorities",
+        "authority_scope": "Frontend team operations, technical approach within approved scope",
+        "meeting_date": "2025-09-04"
+      },
+      {
+        "id": "leadership_artur_moskalenko_2025-09-04",
+        "type": "LeadershipPattern",
+        "name": "Artur Moskalenko",
+        "role": "QA Director",
+        "takes_initiative": "Identifying gaps, raising questions, prioritization",
+        "seeks_approval": "Feature requirements, scope",
+        "authority_scope": "QA processes, bug priorities, requirement clarification",
+        "meeting_date": "2025-09-04"
+      },
+      {
+        "id": "leadership_vova_2025-09-04",
+        "type": "LeadershipPattern",
+        "name": "Vova",
+        "role": "UI/UX Design Lead",
+        "takes_initiative": "Design work, UI patterns",
+        "seeks_approval": "Major design decisions",
+        "authority_scope": "Design execution within product requirements",
+        "meeting_date": "2025-09-04"
+      }
+    ]
+  }
+}

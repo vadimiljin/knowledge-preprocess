@@ -1,0 +1,1379 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.945153",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+        "type": "Meeting",
+        "title": "Strategic Route Planner Product Review & Iron Mountain Demo Prep",
+        "date": "2025-10-16",
+        "duration": "00:48:46",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Semeyon S (VP Platform)",
+          "Vova (UI/UX/Design)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Artur Moskalenko (QA Director)",
+          "Serhii Kasainov (Front-End Tech Lead)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Maksym Silman",
+          "Kateryna Shevchenko (QA Lead)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__ui_ux_design_",
+        "type": "Person",
+        "name": "Vova (UI/UX/Design)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__front_end_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Front-End Tech Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_maksym_silman",
+        "type": "Person",
+        "name": "Maksym Silman",
+        "statements_count": 0
+      },
+      {
+        "id": "person_kateryna_shevchenko__qa_lead_",
+        "type": "Person",
+        "name": "Kateryna Shevchenko (QA Lead)",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_strategic_route_planner_priorities___first_contract_announcement",
+        "type": "Topic",
+        "label": "Strategic Route Planner Priorities & First Contract Announcement",
+        "time_range": "00:04:47 - 00:07:16",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon S",
+          "Vova"
+        ],
+        "keywords": [
+          "strategic",
+          "route",
+          "planner",
+          "priorities",
+          "first"
+        ]
+      },
+      {
+        "id": "topic_customer_locations_database_vs_csv_workflow_crisis",
+        "type": "Topic",
+        "label": "Customer Locations Database vs CSV Workflow Crisis",
+        "time_range": "00:07:16 - 00:08:49",
+        "participants": [
+          "Dan Khasis",
+          "Vova"
+        ],
+        "keywords": [
+          "customer",
+          "locations",
+          "database",
+          "csv",
+          "workflow"
+        ]
+      },
+      {
+        "id": "topic_pattern_analysis___historical_data_integration",
+        "type": "Topic",
+        "label": "Pattern Analysis & Historical Data Integration",
+        "time_range": "00:08:49 - 00:15:12",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "pattern",
+          "analysis",
+          "historical",
+          "data",
+          "integration"
+        ]
+      },
+      {
+        "id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+        "type": "Topic",
+        "label": "UI Issues, Filters, Export Status & Iron Mountain Demo Prep",
+        "time_range": "00:15:12 - 00:20:33",
+        "participants": [
+          "Semeyon S",
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Golovtsov",
+          "Vova",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "issues",
+          "filters",
+          "export",
+          "status",
+          "iron"
+        ]
+      },
+      {
+        "id": "topic_route___scenario_traceability_crisis",
+        "type": "Topic",
+        "label": "Route & Scenario Traceability Crisis",
+        "time_range": "00:25:54 - 00:28:09",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon S",
+          "Igor Skrynkovskyy",
+          "Vova"
+        ],
+        "keywords": [
+          "route",
+          "scenario",
+          "traceability",
+          "crisis"
+        ]
+      },
+      {
+        "id": "topic_scenario_modification___duplication_workflow",
+        "type": "Topic",
+        "label": "Scenario Modification & Duplication Workflow",
+        "time_range": "00:28:21 - 00:34:18",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon S",
+          "Igor Skrynkovskyy",
+          "Vova"
+        ],
+        "keywords": [
+          "scenario",
+          "modification",
+          "duplication",
+          "workflow"
+        ]
+      },
+      {
+        "id": "topic_constant_route_ids___route_consistency",
+        "type": "Topic",
+        "label": "Constant Route IDs & Route Consistency",
+        "time_range": "00:34:18 - 00:37:15",
+        "participants": [
+          "Dan Khasis",
+          "Igor Skrynkovskyy",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "constant",
+          "route",
+          "ids",
+          "route",
+          "consistency"
+        ]
+      },
+      {
+        "id": "topic_assignment_board_critical_issues",
+        "type": "Topic",
+        "label": "Assignment Board Critical Issues",
+        "time_range": "00:37:15 - 00:38:19",
+        "participants": [
+          "Dan Khasis"
+        ],
+        "keywords": [
+          "assignment",
+          "board",
+          "critical",
+          "issues"
+        ]
+      },
+      {
+        "id": "topic_comparison_tool_demo___design_review",
+        "type": "Topic",
+        "label": "Comparison Tool Demo & Design Review",
+        "time_range": "00:38:19 - 00:50:31",
+        "participants": [
+          "Semeyon S",
+          "Alexey Gusentsov",
+          "Serhii Kasainov",
+          "Vova",
+          "Alexey Afanasiev",
+          "Igor Golovtsov",
+          "Maksym Silman",
+          "Artur Moskalenko"
+        ],
+        "keywords": [
+          "comparison",
+          "tool",
+          "demo",
+          "design",
+          "review"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_strategic_route_planner_top_priorities",
+        "type": "Decision",
+        "description": "Complete all agreed Strategic Route Planner functionality: maps, export, scenario duplication, preview, comparison. Move all backend from hwang code to new API. This is the highest priority across all development work.",
+        "decided_by": "Dan Khasis",
+        "rationale": "First client signed contract exclusively for Strategic Route Planner (3-month pilot). This validates product direction and demonstrates market demand. Iron Mountain demo in 30 minutes requires production-ready features. Team must focus all efforts on making this module enterprise-ready. [CEO_APPROVED priority list]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_route_planner_priorities___first_contract_announcement"
+      },
+      {
+        "id": "decision_default_workflow_must_be_customer_locations_database",
+        "type": "Decision",
+        "description": "Change Strategic Route Planner default workflow from CSV upload to Customer Locations Database selection. 99% of planning should start from filtering existing database customers (by tags, territories, attributes), not file uploads. System must support creating strategic plans directly from filtered Customer Locations list.",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current CSV-only workflow is unusable for enterprise clients with complex requirements. Clients have years of data with detailed parameters (day-specific time windows, service time variations) already in system. Forcing manual CSV creation each time is impractical and loses critical data. First client already blocked by this limitation. [CRITICAL_CEO_DIRECTIVE - blocks client success]",
+        "alternatives": [
+          "Keep CSV as primary method",
+          "Enhance CSV format support"
+        ],
+        "topic_id": "topic_customer_locations_database_vs_csv_workflow_crisis"
+      },
+      {
+        "id": "issue_csv_straitjacket___cannot_plan_from_customer_database",
+        "type": "TechnicalIssue",
+        "description": "**[00:07:16] Dan Khasis**: Describing critical usability problem: Clients with existing Customer Locations Database containing thousands of customers with complex time window settings (different per weekday, varying service times 12-45 minutes) cannot use Strategic Route Planner because system forces CSV upload workflow. CSV format doesn't support day-specific time windows or detailed service parameters. Export loses all parameters. Import doesn't support parameters. Result is what Dan calls straitjacket - users cannot accomplish strategic planning goals with current architecture. First contract client faces this exact problem immediately.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_customer_locations_database_vs_csv_workflow_crisis"
+      },
+      {
+        "id": "decision_implement_pattern_analysis_for_strategic_planner",
+        "type": "Decision",
+        "description": "Develop and integrate Pattern Analysis functionality into Strategic Route Planner to automatically determine optimal visit frequency and service times from historical order data. System must analyze millions of historical orders to recommend scheduling patterns instead of requiring manual input.",
+        "decided_by": "Dan Khasis",
+        "rationale": "Many clients don't know their actual service patterns - how often they visit locations or how long services truly take. Historical data exists in external systems (Geotab, other telematics) spanning 5-10 years but system doesn't leverage it. Chat GPT successfully generated working Pattern Analysis code. This unlocks value from day one for new clients by analyzing their existing data. Currently Heatmap Service Time and similar analytics are useless for new clients with no Route4Me history. [STRATEGIC_CEO_DIRECTIVE - unlocks major competitive advantage]",
+        "alternatives": [
+          "Manual frequency input only",
+          "Wait for Route4Me usage history"
+        ],
+        "topic_id": "topic_pattern_analysis___historical_data_integration"
+      },
+      {
+        "id": "issue_missing_telematics_integration_blocks_historical_analysis",
+        "type": "TechnicalIssue",
+        "description": "**[00:08:49] Dan Khasis**: Explaining blocker for Pattern Analysis: System doesn't download actual trips from Telematics systems (Geotab, Kilometrex). Without real trip data, cannot correlate completed trips to customers. Cannot import historical service patterns. Cannot optimize based on actual past performance. Clients have years of valuable data that system ignores. This prevents historical analysis and makes analytics features worthless for new customers until they build Route4Me history.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_pattern_analysis___historical_data_integration"
+      },
+      {
+        "id": "decision_fix_ui_decimal_rounding_before_production",
+        "type": "Decision",
+        "description": "Remove excessive decimal places from all average/statistics displays in Strategic Route Planner UI. Follow agreed standard of showing only meaningful precision (max 2 decimal places for averages).",
+        "decided_by": "Dan Khasis, Semeyon S",
+        "rationale": "Current display violates agreed UI standards and looks unprofessional. Showing 3-4 meaningless digits damages product perception. Team acknowledged as bug requiring immediate fix. [CEO_APPROVED standards compliance]",
+        "alternatives": [],
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "issue_map_display_only_works_on_new_backend_data",
+        "type": "TechnicalIssue",
+        "description": "**[00:15:52] Semeyon S**: Strategic Route Planner map view only functional on last optimization (test-2) created with new backend today. All older optimizations show broken maps because data format from old backend incompatible. For Iron Mountain demo in 30 minutes, must use only newest optimization or risk demo failure. This reveals backward compatibility problem with backend migration from hwang code.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "issue_ui_decimal_point_rounding_bug",
+        "type": "TechnicalIssue",
+        "description": "**[00:17:19] Dan Khasis**: Average statistics showing excessive decimal places (3-4 digits after decimal point) violating agreed UI standards. Example: showing 4.7000 instead of 4.7 or 4.70 for average destinations per route. Makes interface look unprofessional and cluttered with meaningless precision.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "decision_add_scenario_source_traceability_to_all_routes",
+        "type": "Decision",
+        "description": "Display source scenario/simulation/Master Route ID for every route in Routes.list and Destinations views. Add filtering capability by source scenario. Users must be able to trace any route back to its originating strategic plan.",
+        "decided_by": "Dan Khasis",
+        "rationale": "Critical usability gap - users cannot determine which strategic plan generated which routes after scenario-to-Master Route-to-route conversion process. Impossible to audit or review what the original plan was even one week later. Information exists on backend but not displayed. Without traceability, strategic planning value is lost. [CEO_APPROVED usability requirement]",
+        "alternatives": [],
+        "topic_id": "topic_route___scenario_traceability_crisis"
+      },
+      {
+        "id": "decision_scenario_duplication_with_comparison_support",
+        "type": "Decision",
+        "description": "When user modifies scenario, automatically create duplicate (Scenario 2 - manual modification) preserving original unchanged. Users can compare original AI-generated scenario with their manual edits. Support editing through existing route editing tools (Gantt, Multiple Routes Map) via import to AdHocRoute/MasterRoute workflow, not building new editor from scratch.",
+        "decided_by": "Dan Khasis, Vova, Igor Skrynkovskyy",
+        "rationale": "Users need ability to refine AI-generated scenarios without losing original for comparison. Current workflow forces import to Master Route, destroying original scenario connection. Duplication preserves both versions for A/B comparison to validate if manual changes improved results. Leveraging existing route editing tools faster than building new Scenario Builder editor. [CEO_APPROVED balanced approach]",
+        "alternatives": [
+          "Versioning system",
+          "Build dedicated scenario editor",
+          "Block all modifications"
+        ],
+        "topic_id": "topic_scenario_modification___duplication_workflow"
+      },
+      {
+        "id": "decision_add_constant_route_id_display_and_filtering",
+        "type": "Decision",
+        "description": "Display constant route ID (route number) in Strategic Route Planner UI showing which routes are identical across weeks. Add filtering capability to show all occurrences of same route throughout planning period.",
+        "decided_by": "Dan Khasis",
+        "rationale": "Critical for route consistency validation - users cannot verify that route 1 remains route 1 across all weeks of strategic plan. Solver already generates constant route IDs at backend level, just not displayed in UI. Users need to filter and review all instances of a particular route pattern to validate consistency. [CEO_APPROVED - blocks validation workflow]",
+        "alternatives": [],
+        "topic_id": "topic_constant_route_ids___route_consistency"
+      },
+      {
+        "id": "issue_assignment_board_not_production_ready",
+        "type": "TechnicalIssue",
+        "description": "**[00:37:15] Dan Khasis**: Dan provides harsh assessment of Assignment Board: looks shameful, nothing highlighted properly, counters/statistics broken, cannot display drivers/vehicles/routes with attributes simultaneously. Tool appears good in sales demos but unusable once customers log in - describes as nonsense/fraud. This is high-priority embarrassment risk blocking enterprise sales after Strategic Route Planner adoption.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_assignment_board_critical_issues"
+      },
+      {
+        "id": "decision_deploy_comparison_tool_to_route_list_and_strategic_simultaneously",
+        "type": "Decision",
+        "description": "Deploy comparison tool first version to both Routes.list and Strategic Route Planner in staging immediately (next week target). Test in both contexts simultaneously to discover integration issues early. Build as reusable table component accepting columns and rows.",
+        "decided_by": "Semeyon S, Serhii Kasainov",
+        "rationale": "Comparison is critical feature Dan emphasized. Building as generic table component ensures reusability across product. Early deployment to both contexts surfaces technical challenges before production release. Team consensus on architectural approach. [EXECUTING_CEO_DIRECTIVE on comparison priority]",
+        "alternatives": [
+          "Deploy to Routes.list first, Strategic later"
+        ],
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      },
+      {
+        "id": "decision_add_scenario_duplication_action_buttons",
+        "type": "Decision",
+        "description": "Add duplication action button at scenario level in Strategic Route Planner allowing users to duplicate completed scenarios for modification or re-running with different parameters. Include both save-as-template and duplicate-as-new-scenario options.",
+        "decided_by": "Vova, Semeyon S",
+        "rationale": "Dan questioned why scenario duplication missing. Feature allows users to reuse successful scenario configurations and create variations. Duplication should be available both when creating scenarios and after scenarios complete. [PENDING_CEO_APPROVAL of specific UI placement]",
+        "alternatives": [],
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_complete_migration_of_all_back",
+        "type": "ActionItem",
+        "description": "Complete migration of all backend API from hwang code to new codebase",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_route_planner_priorities___first_contract_announcement"
+      },
+      {
+        "id": "action_verify_read_only_route_viewing",
+        "type": "ActionItem",
+        "description": "Verify read-only route viewing is deployed to production for Iron Mountain demo",
+        "owner_id": "person_semeyon_s",
+        "status": "done",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_route_planner_priorities___first_contract_announcement"
+      },
+      {
+        "id": "action_implement_functionality_to_cre",
+        "type": "ActionItem",
+        "description": "Implement functionality to create strategic plans directly from Customer Locations Database with filtering (tags, territories, bulk selection)",
+        "owner_id": "person_semeyon_s",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "2025-10-23",
+        "topic_id": "topic_customer_locations_database_vs_csv_workflow_crisis"
+      },
+      {
+        "id": "action_build_api_to_extract_customer_",
+        "type": "ActionItem",
+        "description": "Build API to extract Customer Locations with full parameters (time windows, service times) for strategic planning input",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_customer_locations_database_vs_csv_workflow_crisis"
+      },
+      {
+        "id": "action_implement_telematics_integrati",
+        "type": "ActionItem",
+        "description": "Implement Telematics integration to download historical trips and correlate to customers",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_pattern_analysis___historical_data_integration"
+      },
+      {
+        "id": "action_build_pattern_analysis_api_bas",
+        "type": "ActionItem",
+        "description": "Build Pattern Analysis API based on Chat GPT code example to analyze order history and recommend visit frequencies",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_pattern_analysis___historical_data_integration"
+      },
+      {
+        "id": "action_integrate_pattern_analysis_res",
+        "type": "ActionItem",
+        "description": "Integrate Pattern Analysis results into Strategic Planner workflow",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_pattern_analysis___historical_data_integration"
+      },
+      {
+        "id": "action_fix_decimal_point_rounding_bug",
+        "type": "ActionItem",
+        "description": "Fix decimal point rounding bug in Strategic Route Planner statistics display (average values)",
+        "owner_id": "person_frontend_team",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-10-17",
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "action_for_iron_mountain_demo__ensure",
+        "type": "ActionItem",
+        "description": "For Iron Mountain demo, ensure using only test-2 optimization or create fresh optimization with new backend",
+        "owner_id": "person_semeyon_s",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "action_complete_day_week_filtering_on",
+        "type": "ActionItem",
+        "description": "Complete day/week filtering on backend for Strategic Route Planner",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "action_complete_export_functionality_",
+        "type": "ActionItem",
+        "description": "Complete export functionality for Strategic Route Planner",
+        "owner_id": "person_igor_golovtsov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "2025-10-21",
+        "topic_id": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep"
+      },
+      {
+        "id": "action_add_scenario_source_id_display",
+        "type": "ActionItem",
+        "description": "Add scenario source ID display to Routes.list and Destinations views",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_route___scenario_traceability_crisis"
+      },
+      {
+        "id": "action_ensure_scenario_source_trackin",
+        "type": "ActionItem",
+        "description": "Ensure scenario source tracking API endpoints exist and return correct data",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_route___scenario_traceability_crisis"
+      },
+      {
+        "id": "action_add_filtering_by_source_scenar",
+        "type": "ActionItem",
+        "description": "Add filtering by source scenario in Routes.list",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_route___scenario_traceability_crisis"
+      },
+      {
+        "id": "action_implement_scenario_duplication",
+        "type": "ActionItem",
+        "description": "Implement scenario duplication API preserving original when user modifies",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenario_modification___duplication_workflow"
+      },
+      {
+        "id": "action_add_scenario_duplication_ui_in",
+        "type": "ActionItem",
+        "description": "Add scenario duplication UI in Strategic Route Planner",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenario_modification___duplication_workflow"
+      },
+      {
+        "id": "action_design_comparison_view_for_ori",
+        "type": "ActionItem",
+        "description": "Design comparison view for original vs modified scenarios",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenario_modification___duplication_workflow"
+      },
+      {
+        "id": "action_add_constant_route_id_route_nu",
+        "type": "ActionItem",
+        "description": "Add constant route ID/route number column to Strategic Route Planner UI",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_constant_route_ids___route_consistency"
+      },
+      {
+        "id": "action_implement_filtering_by_route_n",
+        "type": "ActionItem",
+        "description": "Implement filtering by route number to show all identical routes across planning period",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_constant_route_ids___route_consistency"
+      },
+      {
+        "id": "action_fix_assignment_board_highlight",
+        "type": "ActionItem",
+        "description": "Fix Assignment Board highlighting, counters, and multi-attribute display issues",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_assignment_board_critical_issues"
+      },
+      {
+        "id": "action_coordinate_with_dan_on_specifi",
+        "type": "ActionItem",
+        "description": "Coordinate with Dan on specific Assignment Board failures for prioritized fixes",
+        "owner_id": "person_semeyon_s",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_assignment_board_critical_issues"
+      },
+      {
+        "id": "action_polish_comparison_tool_prototy",
+        "type": "ActionItem",
+        "description": "Polish comparison tool prototype addressing shadow/fade visual issues",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      },
+      {
+        "id": "action_review_and_deploy_comparison_t",
+        "type": "ActionItem",
+        "description": "Review and deploy comparison tool to staging for both Routes.list and Strategic Route Planner",
+        "owner_id": "person_serhii_kasainov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-10-23",
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      },
+      {
+        "id": "action_add_scenario_duplication_actio",
+        "type": "ActionItem",
+        "description": "Add scenario duplication action buttons with save-as-template and duplicate options",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      },
+      {
+        "id": "action_provide_mockups_for_proportion",
+        "type": "ActionItem",
+        "description": "Provide mockups for proportional column resizing in comparison tool",
+        "owner_id": "person_design_team",
+        "status": "done",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      },
+      {
+        "id": "action_send_comparison_tool_screensho",
+        "type": "ActionItem",
+        "description": "Send comparison tool screenshots to Slack for Dan's async feedback",
+        "owner_id": "person_semeyon_s",
+        "status": "assigned",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_tool_demo___design_review"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_vova__ui_ux_design_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_serhii_kasainov__front_end_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_maksym_silman",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "person_kateryna_shevchenko__qa_lead_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_strategic_route_planner_priorities___first_contract_announcement",
+      "properties": {
+        "time_range": "00:04:47 - 00:07:16"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_route_planner_priorities___first_contract_announcement",
+      "to": "decision_strategic_route_planner_top_priorities",
+      "properties": {
+        "label": "Strategic Route Planner Top Priorities"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_strategic_route_planner_top_priorities",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_route_planner_priorities___first_contract_announcement",
+      "to": "action_complete_migration_of_all_back",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_migration_of_all_back",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_route_planner_priorities___first_contract_announcement",
+      "to": "action_verify_read_only_route_viewing",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_verify_read_only_route_viewing",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "done",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_customer_locations_database_vs_csv_workflow_crisis",
+      "properties": {
+        "time_range": "00:07:16 - 00:08:49"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_customer_locations_database_vs_csv_workflow_crisis",
+      "to": "decision_default_workflow_must_be_customer_locations_database",
+      "properties": {
+        "label": "Default Workflow Must Be Customer Locations Database"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_default_workflow_must_be_customer_locations_database",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_customer_locations_database_vs_csv_workflow_crisis",
+      "to": "action_implement_functionality_to_cre",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_functionality_to_cre",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_customer_locations_database_vs_csv_workflow_crisis",
+      "to": "action_build_api_to_extract_customer_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_build_api_to_extract_customer_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_customer_locations_database_vs_csv_workflow_crisis",
+      "to": "issue_csv_straitjacket___cannot_plan_from_customer_database",
+      "properties": {
+        "label": "CSV Straitjacket - Cannot Plan from Customer Database"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_pattern_analysis___historical_data_integration",
+      "properties": {
+        "time_range": "00:08:49 - 00:15:12"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_pattern_analysis___historical_data_integration",
+      "to": "decision_implement_pattern_analysis_for_strategic_planner",
+      "properties": {
+        "label": "Implement Pattern Analysis for Strategic Planner"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_pattern_analysis_for_strategic_planner",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_pattern_analysis___historical_data_integration",
+      "to": "action_implement_telematics_integrati",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_telematics_integrati",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_pattern_analysis___historical_data_integration",
+      "to": "action_build_pattern_analysis_api_bas",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_build_pattern_analysis_api_bas",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_pattern_analysis___historical_data_integration",
+      "to": "action_integrate_pattern_analysis_res",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_integrate_pattern_analysis_res",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_pattern_analysis___historical_data_integration",
+      "to": "issue_missing_telematics_integration_blocks_historical_analysis",
+      "properties": {
+        "label": "Missing Telematics Integration Blocks Historical Analysis"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "properties": {
+        "time_range": "00:15:12 - 00:20:33"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "decision_fix_ui_decimal_rounding_before_production",
+      "properties": {
+        "label": "Fix UI Decimal Rounding Before Production"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_fix_ui_decimal_rounding_before_production",
+      "to": "person_dan_khasis__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "action_fix_decimal_point_rounding_bug",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_decimal_point_rounding_bug",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "action_for_iron_mountain_demo__ensure",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_for_iron_mountain_demo__ensure",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "action_complete_day_week_filtering_on",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_day_week_filtering_on",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "action_complete_export_functionality_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_export_functionality_",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "issue_map_display_only_works_on_new_backend_data",
+      "properties": {
+        "label": "Map Display Only Works on New Backend Data"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_ui_issues__filters__export_status___iron_mountain_demo_prep",
+      "to": "issue_ui_decimal_point_rounding_bug",
+      "properties": {
+        "label": "UI Decimal Point Rounding Bug"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_route___scenario_traceability_crisis",
+      "properties": {
+        "time_range": "00:25:54 - 00:28:09"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_route___scenario_traceability_crisis",
+      "to": "decision_add_scenario_source_traceability_to_all_routes",
+      "properties": {
+        "label": "Add Scenario Source Traceability to All Routes"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_scenario_source_traceability_to_all_routes",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route___scenario_traceability_crisis",
+      "to": "action_add_scenario_source_id_display",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_scenario_source_id_display",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route___scenario_traceability_crisis",
+      "to": "action_ensure_scenario_source_trackin",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_scenario_source_trackin",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_route___scenario_traceability_crisis",
+      "to": "action_add_filtering_by_source_scenar",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_filtering_by_source_scenar",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_scenario_modification___duplication_workflow",
+      "properties": {
+        "time_range": "00:28:21 - 00:34:18"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_scenario_modification___duplication_workflow",
+      "to": "decision_scenario_duplication_with_comparison_support",
+      "properties": {
+        "label": "Scenario Duplication with Comparison Support"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_scenario_duplication_with_comparison_support",
+      "to": "person_dan_khasis__vova__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenario_modification___duplication_workflow",
+      "to": "action_implement_scenario_duplication",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_scenario_duplication",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenario_modification___duplication_workflow",
+      "to": "action_add_scenario_duplication_ui_in",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_scenario_duplication_ui_in",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenario_modification___duplication_workflow",
+      "to": "action_design_comparison_view_for_ori",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_comparison_view_for_ori",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_constant_route_ids___route_consistency",
+      "properties": {
+        "time_range": "00:34:18 - 00:37:15"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_constant_route_ids___route_consistency",
+      "to": "decision_add_constant_route_id_display_and_filtering",
+      "properties": {
+        "label": "Add Constant Route ID Display and Filtering"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_constant_route_id_display_and_filtering",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_constant_route_ids___route_consistency",
+      "to": "action_add_constant_route_id_route_nu",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_constant_route_id_route_nu",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_constant_route_ids___route_consistency",
+      "to": "action_implement_filtering_by_route_n",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_filtering_by_route_n",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_assignment_board_critical_issues",
+      "properties": {
+        "time_range": "00:37:15 - 00:38:19"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assignment_board_critical_issues",
+      "to": "action_fix_assignment_board_highlight",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_assignment_board_highlight",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_assignment_board_critical_issues",
+      "to": "action_coordinate_with_dan_on_specifi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_coordinate_with_dan_on_specifi",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_assignment_board_critical_issues",
+      "to": "issue_assignment_board_not_production_ready",
+      "properties": {
+        "label": "Assignment Board Not Production Ready"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_16_strategic_route_planner_product_review___iron_mountain_demo_prep",
+      "to": "topic_comparison_tool_demo___design_review",
+      "properties": {
+        "time_range": "00:38:19 - 00:50:31"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "decision_deploy_comparison_tool_to_route_list_and_strategic_simultaneously",
+      "properties": {
+        "label": "Deploy Comparison Tool to Route List and Strategic Simultaneously"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_deploy_comparison_tool_to_route_list_and_strategic_simultaneously",
+      "to": "person_semeyon_s__serhii_kasainov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "decision_add_scenario_duplication_action_buttons",
+      "properties": {
+        "label": "Add Scenario Duplication Action Buttons"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_scenario_duplication_action_buttons",
+      "to": "person_vova__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "action_polish_comparison_tool_prototy",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_polish_comparison_tool_prototy",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "action_review_and_deploy_comparison_t",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_review_and_deploy_comparison_t",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "action_add_scenario_duplication_actio",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_scenario_duplication_actio",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "action_provide_mockups_for_proportion",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_provide_mockups_for_proportion",
+      "to": "person_design_team",
+      "properties": {
+        "status": "done",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_tool_demo___design_review",
+      "to": "action_send_comparison_tool_screensho",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_send_comparison_tool_screensho",
+      "to": "person_semeyon_s",
+      "properties": {
+        "status": "assigned",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 61,
+    "total_relationships": 95,
+    "node_counts": {
+      "meetings": 1,
+      "people": 11,
+      "topics": 9,
+      "statements": 0,
+      "decisions": 14,
+      "action_items": 26
+    }
+  }
+}

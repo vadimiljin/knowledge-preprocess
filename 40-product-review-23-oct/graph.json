@@ -1,0 +1,2969 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:41.089188",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+        "type": "Meeting",
+        "title": "Product Review - Critical Facilities Issue & Strategic Planner Evolution",
+        "date": "2025-10-23",
+        "duration": "03:45:56",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Semeyon S. (VP Platform)",
+          "Artur Moskalenko (QA Director)",
+          "Alex Shulga (QA)",
+          "Vova (UI/UX)",
+          "Serhii Kasainov (Frontend Lead)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Dmitry Smaliak (Frontend Engineer)",
+          "Davron Usmonov (Frontend Engineer)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "Artem Klopov (Backend Engineer)",
+          "Alexander Dylevskiy",
+          "Oleg Pravyk (QA)",
+          "Vladyslav Feshchenko (QA)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s___vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S. (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alex_shulga__qa_",
+        "type": "Person",
+        "name": "Alex Shulga (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__ui_ux_",
+        "type": "Person",
+        "name": "Vova (UI/UX)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__frontend_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_dmitry_smaliak__frontend_engineer_",
+        "type": "Person",
+        "name": "Dmitry Smaliak (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_davron_usmonov__frontend_engineer_",
+        "type": "Person",
+        "name": "Davron Usmonov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artem_klopov__backend_engineer_",
+        "type": "Person",
+        "name": "Artem Klopov (Backend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexander_dylevskiy",
+        "type": "Person",
+        "name": "Alexander Dylevskiy",
+        "statements_count": 0
+      },
+      {
+        "id": "person_oleg_pravyk__qa_",
+        "type": "Person",
+        "name": "Oleg Pravyk (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vladyslav_feshchenko__qa_",
+        "type": "Person",
+        "name": "Vladyslav Feshchenko (QA)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko",
+        "type": "Person",
+        "name": "Artur Moskalenko",
+        "statements_count": 4
+      },
+      {
+        "id": "person_alex_shulga",
+        "type": "Person",
+        "name": "Alex Shulga",
+        "statements_count": 2
+      },
+      {
+        "id": "person_dan_khasis",
+        "type": "Person",
+        "name": "Dan Khasis",
+        "statements_count": 25
+      },
+      {
+        "id": "person_artem_klopov",
+        "type": "Person",
+        "name": "Artem Klopov",
+        "statements_count": 1
+      },
+      {
+        "id": "person_vova",
+        "type": "Person",
+        "name": "Vova",
+        "statements_count": 5
+      },
+      {
+        "id": "person_semeyon_s_",
+        "type": "Person",
+        "name": "Semeyon S.",
+        "statements_count": 1
+      },
+      {
+        "id": "person_serhii_kasainov",
+        "type": "Person",
+        "name": "Serhii Kasainov",
+        "statements_count": 3
+      },
+      {
+        "id": "person_igor_golovtsov",
+        "type": "Person",
+        "name": "Igor Golovtsov",
+        "statements_count": 1
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_critical_facilities_attribution_issue_for_matthews_client",
+        "type": "Topic",
+        "label": "Critical Facilities Attribution Issue for Matthews Client",
+        "time_range": "00:00:45 - 00:15:10, 00:44:11 - 01:01:45",
+        "participants": [
+          "Dan Khasis",
+          "Artur Moskalenko",
+          "Alex Shulga",
+          "Semeyon S.",
+          "Artem Klopov"
+        ],
+        "keywords": [
+          "critical",
+          "facilities",
+          "attribution",
+          "issue",
+          "matthews"
+        ]
+      },
+      {
+        "id": "topic_strategic_planner_architecture___data_sets_concept",
+        "type": "Topic",
+        "label": "Strategic Planner Architecture - Data Sets Concept",
+        "time_range": "01:32:56 - 02:03:41",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon S.",
+          "Vova",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "strategic",
+          "planner",
+          "architecture",
+          "data",
+          "sets"
+        ]
+      },
+      {
+        "id": "topic_scatterplot_visualization_for_strategic_optimization",
+        "type": "Topic",
+        "label": "Scatterplot Visualization for Strategic Optimization",
+        "time_range": "00:03:48 - 00:04:19",
+        "participants": [
+          "Dan Khasis",
+          "Artur Moskalenko",
+          "Vova"
+        ],
+        "keywords": [
+          "scatterplot",
+          "visualization",
+          "strategic",
+          "optimization"
+        ]
+      },
+      {
+        "id": "topic_ui_ux_improvements___maps__timeline__and_export",
+        "type": "Topic",
+        "label": "UI/UX Improvements - Maps, Timeline, and Export",
+        "time_range": "02:23:42 - 03:05:35",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Igor Golovtsov",
+          "Vova"
+        ],
+        "keywords": [
+          "ui/ux",
+          "improvements",
+          "maps",
+          "timeline",
+          "export"
+        ]
+      },
+      {
+        "id": "topic_native_push_notifications_for_mobile_app",
+        "type": "Topic",
+        "label": "Native Push Notifications for Mobile App",
+        "time_range": "03:11:15 - 03:19:48",
+        "participants": [
+          "Dan Khasis",
+          "Serhii Kasainov",
+          "Backend Team",
+          "Mobile Team"
+        ],
+        "keywords": [
+          "native",
+          "push",
+          "notifications",
+          "mobile",
+          "app"
+        ]
+      },
+      {
+        "id": "topic_custom_data_and_color_coding_system",
+        "type": "Topic",
+        "label": "Custom Data and Color Coding System",
+        "time_range": "01:08:15 - 01:20:08",
+        "participants": [
+          "Dan Khasis",
+          "Vova",
+          "Serhii Kasainov"
+        ],
+        "keywords": [
+          "custom",
+          "data",
+          "color",
+          "coding",
+          "system"
+        ]
+      },
+      {
+        "id": "topic_organization_settings_refactoring",
+        "type": "Topic",
+        "label": "Organization Settings Refactoring",
+        "time_range": "01:02:10 - 01:04:30",
+        "participants": [
+          "Dan Khasis",
+          "Vova"
+        ],
+        "keywords": [
+          "organization",
+          "settings",
+          "refactoring"
+        ]
+      },
+      {
+        "id": "topic_comparison_routes_feature",
+        "type": "Topic",
+        "label": "Comparison Routes Feature",
+        "time_range": "Various segments",
+        "participants": [
+          "Alexey Gusentsov",
+          "Dmitry Smaliak"
+        ],
+        "keywords": [
+          "comparison",
+          "routes",
+          "feature"
+        ]
+      },
+      {
+        "id": "topic_activity_feed_updates",
+        "type": "Topic",
+        "label": "Activity Feed Updates",
+        "time_range": "Brief mentions",
+        "participants": [
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "activity",
+          "feed",
+          "updates"
+        ]
+      }
+    ],
+    "statements": [
+      {
+        "id": "statement_artur_moskalenko_00_00_45",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:00:45",
+        "text": "We have a critical issue with facilities for one of our top-3 clients, Matthews. Routes lost their facility attribution after we removed the automatic assignment mechanism.",
+        "sequence": 1,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_alex_shulga_00_05_20",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:05:20",
+        "text": "Previously, routes were automatically linked to the facility of whoever created them. We removed this because one user could be associated with multiple facilities, causing incorrect attribution of multiple facilities to a single route.",
+        "sequence": 2,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_dan_khasis_00_10_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:10:30",
+        "text": "Let me explain the business context. This is critical. Each facility for this client is a separate legal entity. Wrong facility attribution makes correct billing impossible, which \"blows up their entire accounting.\"",
+        "sequence": 3,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_dan_khasis_00_12_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:12:45",
+        "text": "The old automatic binding mechanism was initially incorrect, but the problem only became obvious when the client had more than one facility. The main current problem is the impossibility of automatic facility attribution when uploading routes via file import.",
+        "sequence": 4,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_15_10",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:15:10",
+        "text": "I'm concerned that we erased all historical attributes, which is a serious problem for the client.",
+        "sequence": 5,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_dan_khasis_00_44_11",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:44:11",
+        "text": "We need to implement fallback logic. Here's the hierarchy for automatic facility determination when not explicitly specified: First priority - facility of assigned user or driver. Second - facility of assigned vehicle if driver has no facility. Third - facility of planner, lowest priority, only useful if planner is planning for themselves.",
+        "sequence": 6,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_alex_shulga_00_48_30",
+        "type": "Statement",
+        "speaker_id": "person_alex_shulga",
+        "timestamp": "00:48:30",
+        "text": "What happens if we try to assign a user to a route with a facility they don't have access to?",
+        "sequence": 7,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_dan_khasis_00_49_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:49:15",
+        "text": "The system must issue a warning and offer solutions - either unlink the user or change the route's facility. We need validation on both frontend and backend.",
+        "sequence": 8,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_artem_klopov_00_55_20",
+        "type": "Statement",
+        "speaker_id": "person_artem_klopov",
+        "timestamp": "00:55:20",
+        "text": "There's also a UI bug - facility grouping disappeared from the interface. I'll fix it.",
+        "sequence": 9,
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "statement_vova_01_32_56",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "01:32:56",
+        "text": "How should users modify input data like service time for a location and rerun calculations?",
+        "sequence": 10,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_vova_01_35_20",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "01:35:20",
+        "text": "Changes should be made in the main location list, then optimization can be restarted.",
+        "sequence": 11,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_semeyon_s__01_38_45",
+        "type": "Statement",
+        "speaker_id": "person_semeyon_s_",
+        "timestamp": "01:38:45",
+        "text": "When changing data for a new scenario, the system should completely copy the previous state, creating a new independent version.",
+        "sequence": 12,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_01_42_10",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:42:10",
+        "text": "We absolutely cannot force clients to upload millions of historical orders into the operational database. This would destroy performance. The Strategic Planner must work with \"Data Sets\" - temporary, isolated data collections.",
+        "sequence": 13,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_01_48_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:48:30",
+        "text": "The system must allow uploading historical orders, not just locations, into cheap storage like Google BigQuery or Spanner. From this data, location attributes should be statistically calculated - visit frequency, average service time, days of week.",
+        "sequence": 14,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_01_52_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:52:15",
+        "text": "I'm proposing a new entity - \"Data Set\" or \"Snapshot\". This will allow users to create datasets from different sources: filtered list from customer_locations, upload new file with potential customers, historical orders. Edit these datasets in a sandbox without affecting master data. Use these Data Sets as input for creating multiple planning scenarios.",
+        "sequence": 15,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_01_56_40",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:56:40",
+        "text": "Versioning is critical. If scenario \"B\" is created based on scenario \"A\" with changed parameters, the user must see this dependency and understand exactly what was changed.",
+        "sequence": 16,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_02_00_20",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:00:20",
+        "text": "We need to fix the metrics. There must be clear distinction between average per route and average per stop to correctly assess capacity utilization.",
+        "sequence": 17,
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "statement_dan_khasis_00_03_48",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:03:48",
+        "text": "We saw it beautiful, Vova drew it beautifully.",
+        "sequence": 18,
+        "topic_id": "topic_scatterplot_visualization_for_strategic_optimization"
+      },
+      {
+        "id": "statement_artur_moskalenko_00_03_53",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "00:03:53",
+        "text": "And it will be approximately the same beautiful when there are 20-30-50 scenarios.",
+        "sequence": 19,
+        "topic_id": "topic_scatterplot_visualization_for_strategic_optimization"
+      },
+      {
+        "id": "statement_dan_khasis_00_03_58",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "00:03:58",
+        "text": "When a person has 2-3 scenarios, it's ugly there. We need to show this too. Admit honestly, this time did you see that what Vova drew turned into 100% what Vova drew?",
+        "sequence": 20,
+        "topic_id": "topic_scatterplot_visualization_for_strategic_optimization"
+      },
+      {
+        "id": "statement_serhii_kasainov_02_23_42",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "02:23:42",
+        "text": "Fixed map shifting issues, improved layout, implemented drag-and-drop for locations to map and timeline.",
+        "sequence": 21,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_vova_02_26_15",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "02:26:15",
+        "text": "Concerned that drag-and-drop without preview and validation could cause serious route errors - for example, adding an address from another continent.",
+        "sequence": 22,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_dan_khasis_02_28_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:28:30",
+        "text": "I agree with Vova. This functionality requires a sandbox or at minimum a modal window with change preview and explicit user confirmation. Must show how the action will affect the route.",
+        "sequence": 23,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_dan_khasis_02_31_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:31:45",
+        "text": "We should think about multi-window mode - dispatcher could see map and route list simultaneously on multiple monitors and drag tasks between them.",
+        "sequence": 24,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_igor_golovtsov_02_35_20",
+        "type": "Statement",
+        "speaker_id": "person_igor_golovtsov",
+        "timestamp": "02:35:20",
+        "text": "Presenting updated export UI. Two options for preset control button placement: icons at top or text buttons at bottom.",
+        "sequence": 25,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_dan_khasis_02_37_40",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:37:40",
+        "text": "Insist on variant with buttons and text. Target audience is age 40-60, may not understand icon meanings. Make the export modal narrower and place buttons on right to save space.",
+        "sequence": 26,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_dan_khasis_02_42_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:42:15",
+        "text": "Critical deficiency - export must be hierarchical. When exporting scenario list, user must be able to export all nested routes and their stops so data is suitable for Excel analysis.",
+        "sequence": 27,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_serhii_kasainov_02_48_30",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "02:48:30",
+        "text": "Added columns with time in user timezone and route timezone. Technical issue with sorting and grouping if making route time the primary column.",
+        "sequence": 28,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_dan_khasis_02_50_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "02:50:45",
+        "text": "I approve the approach with multiple columns, but rename for clarity - for example, \"Your Time\" and \"Route Time\". Move timezone abbreviation into \"Your Time\" column header.",
+        "sequence": 29,
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "statement_serhii_kasainov_03_11_15",
+        "type": "Statement",
+        "speaker_id": "person_serhii_kasainov",
+        "timestamp": "03:11:15",
+        "text": "Current notifications only work inside the open app, not in background mode.",
+        "sequence": 30,
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "statement_dan_khasis_03_12_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:12:30",
+        "text": "The lack of native push notifications makes the app \"useless.\" A driver who closes the app won't learn about critical route changes, new messages, or cancellations.",
+        "sequence": 31,
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "statement_dan_khasis_03_14_45",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:14:45",
+        "text": "Use Uber as the benchmark - all key events are accompanied by instant notifications to the home screen. We need configurable notifications in Organization Settings - administrators must control which events trigger which channels: push, email, SMS.",
+        "sequence": 32,
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "statement_dan_khasis_03_17_20",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:17:20",
+        "text": "Critical notification scenarios: route change, new message from dispatcher, missed delivery of expensive equipment.",
+        "sequence": 33,
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "statement_dan_khasis_03_18_50",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "03:18:50",
+        "text": "Also need automatic message translation between driver, dispatcher, and customer if they speak different languages.",
+        "sequence": 34,
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "statement_dan_khasis_01_08_15",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:08:15",
+        "text": "There's no way to search locations by custom data. Show me all routes with more than 20 working hours and less than 4 - they should all be colored accordingly.",
+        "sequence": 35,
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "statement_vova_01_11_26",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "01:11:26",
+        "text": "There's a problem with color assignment - when one user assigns a color, another user looking at that color doesn't understand what it means. We should assign labels along with colors to communicate information between users.",
+        "sequence": 36,
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "statement_dan_khasis_01_12_09",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:12:09",
+        "text": "You're right, but this doesn't solve the problem that they've been happily using colors for years - their company has this established concept. We need to add another thing here - color coding rules or label sets. Administrators can manage this. But until we do this - unclear when it will all work out - we need to enable the hex color backend already has so they can select colors here. We can show on the map with a border to display their chosen color next to our entity color.",
+        "sequence": 37,
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "statement_dan_khasis_01_14_30",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:14:30",
+        "text": "We'll assign each entity its own shape and make color coding dynamic so for each entity the user can choose which parameter drives colorization. They can choose no colorization - entities will have their base color. Or they can say colorize by custom color, or by revenue, or by territory, or by facility - any object by any property can be colorized on the map.",
+        "sequence": 38,
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "statement_dan_khasis_01_18_50",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:18:50",
+        "text": "We need smart layering - if at a location's level there's both an order and a generator, 100% there will be. You have a customer, they have this building, and you service the generator here, the gas tank for generator fuel, do inspection of electrical panels servicing the generator, etc. Then an order comes for servicing electricity, gas, and generator. Now you have service time and service type: generator inspection, this inspection, that inspection - 5 minutes, 10 minutes, 20 minutes, all together 25 minutes service time.",
+        "sequence": 39,
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "statement_dan_khasis_01_02_10",
+        "type": "Statement",
+        "speaker_id": "person_dan_khasis",
+        "timestamp": "01:02:10",
+        "text": "We need an elementary panel for classifying service types as a new thing in Organization Settings. We insert Service Types here. We can insert different types here.",
+        "sequence": 40,
+        "topic_id": "topic_organization_settings_refactoring"
+      },
+      {
+        "id": "statement_vova_01_03_24",
+        "type": "Statement",
+        "speaker_id": "person_vova",
+        "timestamp": "01:03:24",
+        "text": "Then let them manually insert if they want - for a given service type I have a list of 10 arbitrary service types. If there are 10 here, there won't be a dropdown of 10, they're massively increasing. They'll have the ability to either hardcode or increase. They're now putting a new table, backend, backend, a separate table describing that for this location from such-and-such time to such-and-such time there were these service types with these many seconds.",
+        "sequence": 41,
+        "topic_id": "topic_organization_settings_refactoring"
+      },
+      {
+        "id": "statement_artur_moskalenko_01_04_30",
+        "type": "Statement",
+        "speaker_id": "person_artur_moskalenko",
+        "timestamp": "01:04:30",
+        "text": "This is wrong, this is override. You need to make baseline, then you can override some fragments.",
+        "sequence": 42,
+        "topic_id": "topic_organization_settings_refactoring"
+      }
+    ],
+    "decisions": [
+      {
+        "id": "decision_implement_facilities_fallback_logic",
+        "type": "Decision",
+        "description": "Implement hierarchical fallback logic for automatic facility attribution with three-tier priority system",
+        "decided_by": "Dan Khasis",
+        "rationale": "Matthews client (top-3 customer) cannot perform billing due to missing facility attribution. Each facility represents a separate legal entity requiring correct financial reporting. System must handle both file import and UI assignment scenarios. [CEO_APPROVED] This is a critical revenue blocker affecting client accounting operations.",
+        "alternatives": [
+          "Keep manual-only assignment",
+          "Single-tier fallback (driver only)",
+          "Remove facility requirement"
+        ],
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "decision_add_facility_support_to_file_import",
+        "type": "Decision",
+        "description": "Add functionality to specify facility for each route during file import",
+        "decided_by": "Dan Khasis",
+        "rationale": "Currently impossible to set facility during bulk route import, forcing manual assignment for large datasets. This is the primary blocker for Matthews client workflow. [CEO_APPROVED] Urgent implementation required.",
+        "alternatives": [],
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "issue_historical_facility_data_loss",
+        "type": "TechnicalIssue",
+        "description": "**[00:15:10] Artur Moskalenko:** All historical facility attributions were erased during the system change, creating data integrity issues for the client's historical reporting.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "issue_missing_facility_grouping_in_ui",
+        "type": "TechnicalIssue",
+        "description": "**[00:55:20] Artem Klopov:** The facility grouping display disappeared from routes.list interface due to a recent bug. This makes it impossible for users to see routes organized by facility.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "decision_implement_data_sets_architecture",
+        "type": "Decision",
+        "description": "Architect system to work with Data Sets based on cheap data storage, separating strategic planning from operational database",
+        "decided_by": "Dan Khasis",
+        "rationale": "Cannot force clients to load historical orders into operational database - will destroy performance and increase costs. Strategic planning requires analyzing large volumes of historical data to model scenarios. Data Sets provide isolated sandbox for what-if analysis without risking operational data. [CEO_APPROVED] This is strategic architectural direction for the product.",
+        "alternatives": [
+          "Continue using operational database",
+          "Use only location data without orders",
+          "Build separate strategic planning product"
+        ],
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "decision_scenario_versioning_and_dependency_tracking",
+        "type": "Decision",
+        "description": "Implement versioning system showing parent-child relationships between scenarios with change tracking",
+        "decided_by": "Dan Khasis",
+        "rationale": "Users need to understand how scenarios relate to each other and what specific parameters changed between versions for meaningful comparison. [CEO_APPROVED] Critical for what-if analysis value proposition.",
+        "alternatives": [
+          "Independent scenarios only",
+          "Simple copy without tracking"
+        ],
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "decision_improve_metrics_display_for_clarity",
+        "type": "Decision",
+        "description": "Rework metrics UI to clearly distinguish between total, average per route, and average per stop",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current metrics like \"Average Route Cube\" are ambiguous - unclear if referring to route average or stop average. Correct capacity assessment requires clear metric definitions. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "decision_show_scatterplot_with_limited_data",
+        "type": "Decision",
+        "description": "Display scatterplot visualization even when user has only 2-3 scenarios to demonstrate how it appears with limited data",
+        "decided_by": "Dan Khasis",
+        "rationale": "Important to show realistic visualization behavior, not just ideal state with 30+ scenarios. Users need to understand how tool performs with their actual data volume. [CEO_APPROVED]",
+        "alternatives": [
+          "Only show when sufficient data",
+          "Use radar chart instead"
+        ],
+        "topic_id": "topic_scatterplot_visualization_for_strategic_optimization"
+      },
+      {
+        "id": "decision_require_preview_modal_for_drag_and_drop_operations",
+        "type": "Decision",
+        "description": "Add modal window with preview and confirmation for drag-and-drop operations before executing changes",
+        "decided_by": "Dan Khasis",
+        "rationale": "Drag-and-drop without validation could cause catastrophic routing errors such as adding addresses from wrong continent. Users need to see impact before confirming. [CEO_APPROVED] Safety-critical UI requirement.",
+        "alternatives": [
+          "Immediate drag-and-drop",
+          "Undo functionality only"
+        ],
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "decision_implement_hierarchical_export_with_checkboxes",
+        "type": "Decision",
+        "description": "Build hierarchical export allowing users to select data depth via checkboxes - scenarios, routes, stops",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current export only captures top-level data. Users need complete nested data for Excel analysis - exporting scenarios without their routes and stops makes data unusable for business intelligence. [CEO_APPROVED] Core data export requirement.",
+        "alternatives": [
+          "Flat export only",
+          "Separate exports per level"
+        ],
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "decision_use_text_buttons_for_export_ui",
+        "type": "Decision",
+        "description": "Implement export UI with text buttons instead of icon-only interface",
+        "decided_by": "Dan Khasis",
+        "rationale": "Target audience (age 40-60) may not understand icon meanings without text labels. Text improves accessibility and reduces learning curve. [CEO_APPROVED]",
+        "alternatives": [
+          "Icon-only interface",
+          "Icons with tooltips"
+        ],
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "decision_rename_timezone_columns_for_clarity",
+        "type": "Decision",
+        "description": "Rename timezone columns to \"Your Time\" and \"Route Time\" with timezone abbreviation in \"Your Time\" header",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current naming is ambiguous. Clear naming improves user understanding and reduces support burden. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "decision_implement_native_push_notifications",
+        "type": "Decision",
+        "description": "Prioritize native push notification implementation for mobile app displaying in OS notification center",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current state is unacceptable - app provides no value if driver closes it and misses critical updates. Push notifications are table stakes for modern mobile logistics apps (see Uber). [CEO_APPROVED] High priority for mobile app value proposition.",
+        "alternatives": [
+          "In-app notifications only",
+          "Email notifications only"
+        ],
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "decision_create_notification_settings_in_organization_settings",
+        "type": "Decision",
+        "description": "Build UI in Organization Settings for managing notification types and delivery channels per event",
+        "decided_by": "Dan Khasis",
+        "rationale": "Different organizations have different notification needs. Administrators must control which events trigger notifications and through which channels (push/email/SMS) to avoid notification fatigue while ensuring critical alerts reach users. [CEO_APPROVED]",
+        "alternatives": [
+          "Fixed notification rules",
+          "Per-user settings only"
+        ],
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "decision_implement_dynamic_color_coding_by_any_property",
+        "type": "Decision",
+        "description": "Build dynamic colorization system where users can choose which property drives color coding per entity type",
+        "decided_by": "Dan Khasis",
+        "rationale": "Users need to color code map entities by different business attributes - revenue, territory, facility, custom fields. System must support user-defined color rules while maintaining entity shape distinction. [CEO_APPROVED] Core map visualization requirement.",
+        "alternatives": [
+          "Fixed color schemes only",
+          "Color by entity type only"
+        ],
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "decision_add_label_system_with_colors",
+        "type": "Decision",
+        "description": "Implement label sets in Organization Settings allowing administrators to define color-label combinations for company-wide use",
+        "decided_by": "Dan Khasis",
+        "rationale": "Colors alone don't communicate meaning between users. Labels provide shared understanding of what colors represent. Solves collaboration problem while maintaining visual coding benefits. [CEO_APPROVED]",
+        "alternatives": [
+          "Colors only without labels",
+          "Labels only without colors"
+        ],
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "decision_enable_interim_hex_color_selection",
+        "type": "Decision",
+        "description": "Temporarily enable basic hex color selection before full color coding rules system is complete",
+        "decided_by": "Dan Khasis",
+        "rationale": "Backend already supports hex colors. Users need basic color functionality immediately even if it's not the final ideal solution. Don't let perfect be enemy of good. [CEO_APPROVED]",
+        "alternatives": [
+          "Wait for complete system",
+          "Remove color coding entirely"
+        ],
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "decision_add_service_types_to_organization_settings",
+        "type": "Decision",
+        "description": "Create Service Types management panel in Organization Settings for company-wide service type definitions",
+        "decided_by": "Dan Khasis",
+        "rationale": "Service types need centralized definition at organization level. Allows standardization across planning processes while supporting custom per-location overrides. [CEO_APPROVED]",
+        "alternatives": [
+          "Per-location service types only",
+          "Hardcoded service types"
+        ],
+        "topic_id": "topic_organization_settings_refactoring"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_fix_ui_bug_causing_facility_gr",
+        "type": "ActionItem",
+        "description": "Fix UI bug causing facility grouping to disappear from interface",
+        "owner_id": "person_artem_klopov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-10-25",
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "action_implement_three_tier_fallback_",
+        "type": "ActionItem",
+        "description": "Implement three-tier fallback logic for facility attribution (driver → vehicle → planner)",
+        "owner_id": "person_backend_team",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-10-30",
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "action_add_facility_field_to_file_imp",
+        "type": "ActionItem",
+        "description": "Add facility field to file import functionality for routes",
+        "owner_id": "person_backend_team",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-10-30",
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "action_add_validation_warning_when_as",
+        "type": "ActionItem",
+        "description": "Add validation warning when assigning user to route with inaccessible facility",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "action_add_backend_validation_for_fac",
+        "type": "ActionItem",
+        "description": "Add backend validation for facility-user access conflicts",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_critical_facilities_attribution_issue_for_matthews_client"
+      },
+      {
+        "id": "action_design_data_sets_architecture_",
+        "type": "ActionItem",
+        "description": "Design Data Sets architecture using cheap storage (BigQuery/Spanner) separate from operational database",
+        "owner_id": "person_semeyon_s_",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-15",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_implement_data_sets_entity_for",
+        "type": "ActionItem",
+        "description": "Implement Data Sets entity for creating isolated datasets from multiple sources",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_create_ui_for_data_sets_manage",
+        "type": "ActionItem",
+        "description": "Create UI for Data Sets management - creation, editing, source selection",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_implement_scenario_versioning_",
+        "type": "ActionItem",
+        "description": "Implement scenario versioning UI showing parent-child relationships and change tracking",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_redesign_metrics_display_to_cl",
+        "type": "ActionItem",
+        "description": "Redesign metrics display to clearly show total vs. per-route vs. per-stop values",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_build_statistical_calculation_",
+        "type": "ActionItem",
+        "description": "Build statistical calculation engine to derive location attributes from historical orders",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_planner_architecture___data_sets_concept"
+      },
+      {
+        "id": "action_implement_scatterplot_that_dis",
+        "type": "ActionItem",
+        "description": "Implement scatterplot that displays gracefully with 2-3 scenarios minimum",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scatterplot_visualization_for_strategic_optimization"
+      },
+      {
+        "id": "action_add_modal_window_with_preview_",
+        "type": "ActionItem",
+        "description": "Add modal window with preview and confirmation for drag-and-drop operations",
+        "owner_id": "person_serhii_kasainov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-05",
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "action_implement_export_ui_with_text_",
+        "type": "ActionItem",
+        "description": "Implement export UI with text buttons instead of icons",
+        "owner_id": "person_igor_golovtsov",
+        "status": "assigned",
+        "priority": "normal",
+        "deadline": "2025-11-01",
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "action_add_hierarchical_export_with_c",
+        "type": "ActionItem",
+        "description": "Add hierarchical export with checkboxes for selecting data depth (scenarios/routes/stops)",
+        "owner_id": "person_igor_golovtsov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-10",
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "action_rename_timezone_columns_to__yo",
+        "type": "ActionItem",
+        "description": "Rename timezone columns to \"Your Time\" and \"Route Time\" with abbreviation in header",
+        "owner_id": "person_serhii_kasainov",
+        "status": "assigned",
+        "priority": "low",
+        "deadline": "2025-10-31",
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "action_research_multi_window_interfac",
+        "type": "ActionItem",
+        "description": "Research multi-window interface feasibility for dispatcher workflow",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_ui_ux_improvements___maps__timeline__and_export"
+      },
+      {
+        "id": "action_implement_native_push_notifica",
+        "type": "ActionItem",
+        "description": "Implement native push notifications for iOS and Android displaying in notification center",
+        "owner_id": "person_mobile_team",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "2025-11-30",
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "action_integrate_notification_service",
+        "type": "ActionItem",
+        "description": "Integrate notification service (e.g., OneSignal) for push delivery management",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "action_create_notification_settings_u",
+        "type": "ActionItem",
+        "description": "Create notification settings UI in Organization Settings",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "action_build_notification_rule_engine",
+        "type": "ActionItem",
+        "description": "Build notification rule engine for event-to-channel mapping",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_native_push_notifications_for_mobile_app"
+      },
+      {
+        "id": "action_enable_basic_hex_color_selecti",
+        "type": "ActionItem",
+        "description": "Enable basic hex color selection for locations",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "2025-11-01",
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "action_design_and_implement_color_cod",
+        "type": "ActionItem",
+        "description": "Design and implement color coding rules system in Organization Settings",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "action_implement_dynamic_colorization",
+        "type": "ActionItem",
+        "description": "Implement dynamic colorization allowing users to select property for color coding per entity",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "action_build_smart_layering_system_fo",
+        "type": "ActionItem",
+        "description": "Build smart layering system for overlapping map entities",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_custom_data_and_color_coding_system"
+      },
+      {
+        "id": "action_design_and_implement_service_t",
+        "type": "ActionItem",
+        "description": "Design and implement Service Types panel in Organization Settings",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_organization_settings_refactoring"
+      },
+      {
+        "id": "action_create_service_types_database_",
+        "type": "ActionItem",
+        "description": "Create service types database table with baseline and override support",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_organization_settings_refactoring"
+      },
+      {
+        "id": "action_continue_comparison_routes_fea",
+        "type": "ActionItem",
+        "description": "Continue comparison routes feature development",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_routes_feature"
+      },
+      {
+        "id": "action_support_comparison_routes_feat",
+        "type": "ActionItem",
+        "description": "Support comparison routes feature implementation",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_comparison_routes_feature"
+      },
+      {
+        "id": "action_complete_activity_feed_updates",
+        "type": "ActionItem",
+        "description": "Complete Activity Feed updates per R4MWEB-26294",
+        "owner_id": "person_alexey_afanasiev",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_activity_feed_updates"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_semeyon_s___vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_alex_shulga__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_vova__ui_ux_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_serhii_kasainov__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_dmitry_smaliak__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_davron_usmonov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_artem_klopov__backend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_alexander_dylevskiy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_oleg_pravyk__qa_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "person_vladyslav_feshchenko__qa_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "time_range": "00:00:45 - 00:15:10, 00:44:11 - 01:01:45"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_00_45",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:00:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_00_45",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 1
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_05_20",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:05:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_05_20",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 2
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_00_45",
+      "to": "statement_alex_shulga_00_05_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_10_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:10:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_10_30",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 3
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_05_20",
+      "to": "statement_dan_khasis_00_10_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_12_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:12:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_12_45",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 4
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_10_30",
+      "to": "statement_dan_khasis_00_12_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_15_10",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:15:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_15_10",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 5
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_12_45",
+      "to": "statement_artur_moskalenko_00_15_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_44_11",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:44:11"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_44_11",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 6
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_15_10",
+      "to": "statement_dan_khasis_00_44_11",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_alex_shulga_00_48_30",
+      "to": "person_alex_shulga",
+      "properties": {
+        "timestamp": "00:48:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_alex_shulga_00_48_30",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 7
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_44_11",
+      "to": "statement_alex_shulga_00_48_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_49_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:49:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_49_15",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 8
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_alex_shulga_00_48_30",
+      "to": "statement_dan_khasis_00_49_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artem_klopov_00_55_20",
+      "to": "person_artem_klopov",
+      "properties": {
+        "timestamp": "00:55:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artem_klopov_00_55_20",
+      "to": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "properties": {
+        "sequence": 9
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_49_15",
+      "to": "statement_artem_klopov_00_55_20",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "decision_implement_facilities_fallback_logic",
+      "properties": {
+        "label": "Implement Facilities Fallback Logic"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_facilities_fallback_logic",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "decision_add_facility_support_to_file_import",
+      "properties": {
+        "label": "Add Facility Support to File Import"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_facility_support_to_file_import",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "action_fix_ui_bug_causing_facility_gr",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_fix_ui_bug_causing_facility_gr",
+      "to": "person_artem_klopov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "action_implement_three_tier_fallback_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_three_tier_fallback_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "action_add_facility_field_to_file_imp",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_facility_field_to_file_imp",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "action_add_validation_warning_when_as",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_validation_warning_when_as",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "action_add_backend_validation_for_fac",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_backend_validation_for_fac",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "issue_historical_facility_data_loss",
+      "properties": {
+        "label": "Historical Facility Data Loss"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_critical_facilities_attribution_issue_for_matthews_client",
+      "to": "issue_missing_facility_grouping_in_ui",
+      "properties": {
+        "label": "Missing Facility Grouping in UI"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "time_range": "01:32:56 - 02:03:41"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_01_32_56",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "01:32:56"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_01_32_56",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 10
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_01_35_20",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "01:35:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_01_35_20",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 11
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_01_32_56",
+      "to": "statement_vova_01_35_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_semeyon_s__01_38_45",
+      "to": "person_semeyon_s_",
+      "properties": {
+        "timestamp": "01:38:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_semeyon_s__01_38_45",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 12
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_01_35_20",
+      "to": "statement_semeyon_s__01_38_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_42_10",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:42:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_42_10",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 13
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_semeyon_s__01_38_45",
+      "to": "statement_dan_khasis_01_42_10",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_48_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:48:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_48_30",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 14
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_42_10",
+      "to": "statement_dan_khasis_01_48_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_52_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:52:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_52_15",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 15
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_48_30",
+      "to": "statement_dan_khasis_01_52_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_56_40",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:56:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_56_40",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 16
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_52_15",
+      "to": "statement_dan_khasis_01_56_40",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_00_20",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:00:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_00_20",
+      "to": "topic_strategic_planner_architecture___data_sets_concept",
+      "properties": {
+        "sequence": 17
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_56_40",
+      "to": "statement_dan_khasis_02_00_20",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "decision_implement_data_sets_architecture",
+      "properties": {
+        "label": "Implement Data Sets Architecture"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_data_sets_architecture",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "decision_scenario_versioning_and_dependency_tracking",
+      "properties": {
+        "label": "Scenario Versioning and Dependency Tracking"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_scenario_versioning_and_dependency_tracking",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "decision_improve_metrics_display_for_clarity",
+      "properties": {
+        "label": "Improve Metrics Display for Clarity"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_improve_metrics_display_for_clarity",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_design_data_sets_architecture_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_data_sets_architecture_",
+      "to": "person_semeyon_s_",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_implement_data_sets_entity_for",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_data_sets_entity_for",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_create_ui_for_data_sets_manage",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_ui_for_data_sets_manage",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_implement_scenario_versioning_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_scenario_versioning_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_redesign_metrics_display_to_cl",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_redesign_metrics_display_to_cl",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_planner_architecture___data_sets_concept",
+      "to": "action_build_statistical_calculation_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_build_statistical_calculation_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_scatterplot_visualization_for_strategic_optimization",
+      "properties": {
+        "time_range": "00:03:48 - 00:04:19"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_03_48",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:03:48"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_03_48",
+      "to": "topic_scatterplot_visualization_for_strategic_optimization",
+      "properties": {
+        "sequence": 18
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_00_03_53",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "00:03:53"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_00_03_53",
+      "to": "topic_scatterplot_visualization_for_strategic_optimization",
+      "properties": {
+        "sequence": 19
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_00_03_48",
+      "to": "statement_artur_moskalenko_00_03_53",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_00_03_58",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "00:03:58"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_00_03_58",
+      "to": "topic_scatterplot_visualization_for_strategic_optimization",
+      "properties": {
+        "sequence": 20
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_artur_moskalenko_00_03_53",
+      "to": "statement_dan_khasis_00_03_58",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_scatterplot_visualization_for_strategic_optimization",
+      "to": "decision_show_scatterplot_with_limited_data",
+      "properties": {
+        "label": "Show Scatterplot with Limited Data"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_show_scatterplot_with_limited_data",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scatterplot_visualization_for_strategic_optimization",
+      "to": "action_implement_scatterplot_that_dis",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_scatterplot_that_dis",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "time_range": "02:23:42 - 03:05:35"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_02_23_42",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "02:23:42"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_02_23_42",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 21
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_02_26_15",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "02:26:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_02_26_15",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 22
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_02_23_42",
+      "to": "statement_vova_02_26_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_28_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:28:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_28_30",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 23
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_02_26_15",
+      "to": "statement_dan_khasis_02_28_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_31_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:31:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_31_45",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 24
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_02_28_30",
+      "to": "statement_dan_khasis_02_31_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_igor_golovtsov_02_35_20",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "timestamp": "02:35:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_igor_golovtsov_02_35_20",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 25
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_02_31_45",
+      "to": "statement_igor_golovtsov_02_35_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_37_40",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:37:40"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_37_40",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 26
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_igor_golovtsov_02_35_20",
+      "to": "statement_dan_khasis_02_37_40",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_42_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:42:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_42_15",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 27
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_02_37_40",
+      "to": "statement_dan_khasis_02_42_15",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_02_48_30",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "02:48:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_02_48_30",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 28
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_02_42_15",
+      "to": "statement_serhii_kasainov_02_48_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_02_50_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "02:50:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_02_50_45",
+      "to": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "properties": {
+        "sequence": 29
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_02_48_30",
+      "to": "statement_dan_khasis_02_50_45",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "decision_require_preview_modal_for_drag_and_drop_operations",
+      "properties": {
+        "label": "Require Preview Modal for Drag-and-Drop Operations"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_require_preview_modal_for_drag_and_drop_operations",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "decision_implement_hierarchical_export_with_checkboxes",
+      "properties": {
+        "label": "Implement Hierarchical Export with Checkboxes"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_hierarchical_export_with_checkboxes",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "decision_use_text_buttons_for_export_ui",
+      "properties": {
+        "label": "Use Text Buttons for Export UI"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_use_text_buttons_for_export_ui",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "decision_rename_timezone_columns_for_clarity",
+      "properties": {
+        "label": "Rename Timezone Columns for Clarity"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_rename_timezone_columns_for_clarity",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "action_add_modal_window_with_preview_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_modal_window_with_preview_",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "action_implement_export_ui_with_text_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_export_ui_with_text_",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "assigned",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "action_add_hierarchical_export_with_c",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_hierarchical_export_with_c",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "action_rename_timezone_columns_to__yo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rename_timezone_columns_to__yo",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "assigned",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_ui_ux_improvements___maps__timeline__and_export",
+      "to": "action_research_multi_window_interfac",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_research_multi_window_interfac",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "time_range": "03:11:15 - 03:19:48"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_serhii_kasainov_03_11_15",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "timestamp": "03:11:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_serhii_kasainov_03_11_15",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "sequence": 30
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_12_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:12:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_12_30",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "sequence": 31
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_serhii_kasainov_03_11_15",
+      "to": "statement_dan_khasis_03_12_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_14_45",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:14:45"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_14_45",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "sequence": 32
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_12_30",
+      "to": "statement_dan_khasis_03_14_45",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_17_20",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:17:20"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_17_20",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "sequence": 33
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_14_45",
+      "to": "statement_dan_khasis_03_17_20",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_03_18_50",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "03:18:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_03_18_50",
+      "to": "topic_native_push_notifications_for_mobile_app",
+      "properties": {
+        "sequence": 34
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_03_17_20",
+      "to": "statement_dan_khasis_03_18_50",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "decision_implement_native_push_notifications",
+      "properties": {
+        "label": "Implement Native Push Notifications"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_native_push_notifications",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "decision_create_notification_settings_in_organization_settings",
+      "properties": {
+        "label": "Create Notification Settings in Organization Settings"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_create_notification_settings_in_organization_settings",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "action_implement_native_push_notifica",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_native_push_notifica",
+      "to": "person_mobile_team",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "action_integrate_notification_service",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_integrate_notification_service",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "action_create_notification_settings_u",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_notification_settings_u",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_native_push_notifications_for_mobile_app",
+      "to": "action_build_notification_rule_engine",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_build_notification_rule_engine",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "time_range": "01:08:15 - 01:20:08"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_08_15",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:08:15"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_08_15",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "sequence": 35
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_01_11_26",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "01:11:26"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_01_11_26",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "sequence": 36
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_08_15",
+      "to": "statement_vova_01_11_26",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_12_09",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:12:09"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_12_09",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "sequence": 37
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_01_11_26",
+      "to": "statement_dan_khasis_01_12_09",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_14_30",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:14:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_14_30",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "sequence": 38
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_12_09",
+      "to": "statement_dan_khasis_01_14_30",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_18_50",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:18:50"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_18_50",
+      "to": "topic_custom_data_and_color_coding_system",
+      "properties": {
+        "sequence": 39
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_14_30",
+      "to": "statement_dan_khasis_01_18_50",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "decision_implement_dynamic_color_coding_by_any_property",
+      "properties": {
+        "label": "Implement Dynamic Color Coding by Any Property"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_implement_dynamic_color_coding_by_any_property",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "decision_add_label_system_with_colors",
+      "properties": {
+        "label": "Add Label System with Colors"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_label_system_with_colors",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "decision_enable_interim_hex_color_selection",
+      "properties": {
+        "label": "Enable Interim Hex Color Selection"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_enable_interim_hex_color_selection",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "action_enable_basic_hex_color_selecti",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_enable_basic_hex_color_selecti",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "action_design_and_implement_color_cod",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_and_implement_color_cod",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "action_implement_dynamic_colorization",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_dynamic_colorization",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_custom_data_and_color_coding_system",
+      "to": "action_build_smart_layering_system_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_build_smart_layering_system_fo",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_organization_settings_refactoring",
+      "properties": {
+        "time_range": "01:02:10 - 01:04:30"
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_dan_khasis_01_02_10",
+      "to": "person_dan_khasis",
+      "properties": {
+        "timestamp": "01:02:10"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_dan_khasis_01_02_10",
+      "to": "topic_organization_settings_refactoring",
+      "properties": {
+        "sequence": 40
+      }
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_vova_01_03_24",
+      "to": "person_vova",
+      "properties": {
+        "timestamp": "01:03:24"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_vova_01_03_24",
+      "to": "topic_organization_settings_refactoring",
+      "properties": {
+        "sequence": 41
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_dan_khasis_01_02_10",
+      "to": "statement_vova_01_03_24",
+      "properties": {}
+    },
+    {
+      "type": "SPOKEN_BY",
+      "from": "statement_artur_moskalenko_01_04_30",
+      "to": "person_artur_moskalenko",
+      "properties": {
+        "timestamp": "01:04:30"
+      }
+    },
+    {
+      "type": "DISCUSSES",
+      "from": "statement_artur_moskalenko_01_04_30",
+      "to": "topic_organization_settings_refactoring",
+      "properties": {
+        "sequence": 42
+      }
+    },
+    {
+      "type": "NEXT",
+      "from": "statement_vova_01_03_24",
+      "to": "statement_artur_moskalenko_01_04_30",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_organization_settings_refactoring",
+      "to": "decision_add_service_types_to_organization_settings",
+      "properties": {
+        "label": "Add Service Types to Organization Settings"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_service_types_to_organization_settings",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_organization_settings_refactoring",
+      "to": "action_design_and_implement_service_t",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_and_implement_service_t",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_organization_settings_refactoring",
+      "to": "action_create_service_types_database_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_service_types_database_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_comparison_routes_feature",
+      "properties": {
+        "time_range": "Various segments"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_routes_feature",
+      "to": "action_continue_comparison_routes_fea",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_continue_comparison_routes_fea",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_comparison_routes_feature",
+      "to": "action_support_comparison_routes_feat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_support_comparison_routes_feat",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_23_product_review___critical_facilities_issue___strategic_planner_evolution",
+      "to": "topic_activity_feed_updates",
+      "properties": {
+        "time_range": "Brief mentions"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_activity_feed_updates",
+      "to": "action_complete_activity_feed_updates",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_activity_feed_updates",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 123,
+    "total_relationships": 237,
+    "node_counts": {
+      "meetings": 1,
+      "people": 23,
+      "topics": 9,
+      "statements": 42,
+      "decisions": 18,
+      "action_items": 30
+    }
+  }
+}

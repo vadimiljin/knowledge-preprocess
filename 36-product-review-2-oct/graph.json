@@ -1,0 +1,1788 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:40.665793",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+        "type": "Meeting",
+        "title": "Product Review - Strategic Optimization, TimeZone, Weather Layer, Facility Snapshot",
+        "date": "2025-10-02",
+        "duration": "02:39:54",
+        "attendees": [
+          "Dan Khasis (CEO)",
+          "Semeyon S (VP Platform)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Vova (Design)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Manar Kurmanov (Frontend Engineer)",
+          "Eugene Bondarenko (Frontend Engineer)",
+          "Dmitry Smaliak (Frontend Engineer)",
+          "Alexey Gusentsov (Frontend Engineer)",
+          "David Palle",
+          "Parker Woodward",
+          "Artur Moskalenko (QA Director)",
+          "Kateryna Shevchenko (QA Lead)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_dan_khasis__ceo_",
+        "type": "Person",
+        "name": "Dan Khasis (CEO)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_vova__design_",
+        "type": "Person",
+        "name": "Vova (Design)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_manar_kurmanov__frontend_engineer_",
+        "type": "Person",
+        "name": "Manar Kurmanov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_eugene_bondarenko__frontend_engineer_",
+        "type": "Person",
+        "name": "Eugene Bondarenko (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_dmitry_smaliak__frontend_engineer_",
+        "type": "Person",
+        "name": "Dmitry Smaliak (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_david_palle",
+        "type": "Person",
+        "name": "David Palle",
+        "statements_count": 0
+      },
+      {
+        "id": "person_parker_woodward",
+        "type": "Person",
+        "name": "Parker Woodward",
+        "statements_count": 0
+      },
+      {
+        "id": "person_artur_moskalenko__qa_director_",
+        "type": "Person",
+        "name": "Artur Moskalenko (QA Director)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_kateryna_shevchenko__qa_lead_",
+        "type": "Person",
+        "name": "Kateryna Shevchenko (QA Lead)",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+        "type": "Topic",
+        "label": "TimeZone Architecture - Frontend vs Backend Responsibilities",
+        "time_range": "00:03:12 - 00:12:47",
+        "participants": [
+          "Dan Khasis",
+          "Semeyon S",
+          "Vova",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "timezone",
+          "architecture",
+          "frontend",
+          "backend",
+          "responsibilities"
+        ]
+      },
+      {
+        "id": "topic_integrations_gateway_renaming_and_architecture",
+        "type": "Topic",
+        "label": "Integrations Gateway Renaming and Architecture",
+        "time_range": "00:13:50 - 00:18:25",
+        "participants": [
+          "Dan Khasis",
+          "Igor Skrynkovskyy",
+          "Vova"
+        ],
+        "keywords": [
+          "integrations",
+          "gateway",
+          "renaming",
+          "architecture"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___wizard_column_updates",
+        "type": "Topic",
+        "label": "Strategic Optimization - Wizard Column Updates",
+        "time_range": "00:22:19 - 00:28:53",
+        "participants": [
+          "Igor Golovtsov",
+          "Dan Khasis",
+          "Vova",
+          "David Palle"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "wizard",
+          "column",
+          "updates"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___table_percentage_display",
+        "type": "Topic",
+        "label": "Strategic Optimization - Table Percentage Display",
+        "time_range": "00:45:03 - 00:48:34",
+        "participants": [
+          "Igor Golovtsov",
+          "Dan Khasis",
+          "Semeyon S",
+          "Vova"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "table",
+          "percentage",
+          "display"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___summary_tab__future_feature_",
+        "type": "Topic",
+        "label": "Strategic Optimization - Summary Tab (Future Feature)",
+        "time_range": "00:48:34 - 00:54:35",
+        "participants": [
+          "Dan Khasis",
+          "Vova",
+          "Alexey Afanasiev",
+          "Igor Golovtsov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "summary",
+          "tab",
+          "(future"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___map_tab_with_routes_display",
+        "type": "Topic",
+        "label": "Strategic Optimization - Map Tab with Routes Display",
+        "time_range": "01:00:15 - 01:07:25",
+        "participants": [
+          "Eugene Bondarenko",
+          "Dan Khasis",
+          "David Palle"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "map",
+          "tab",
+          "with"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization___applied_settings_tab",
+        "type": "Topic",
+        "label": "Strategic Optimization - Applied Settings Tab",
+        "time_range": "00:53:02 - 00:59:38",
+        "participants": [
+          "Manar Kurmanov",
+          "Dan Khasis",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "applied",
+          "settings",
+          "tab"
+        ]
+      },
+      {
+        "id": "topic_timezone_component_ui_implementation",
+        "type": "Topic",
+        "label": "TimeZone Component UI Implementation",
+        "time_range": "01:08:00 - 01:29:15",
+        "participants": [
+          "Igor Skrynkovskyy",
+          "Manar Kurmanov",
+          "Dan Khasis",
+          "Vova"
+        ],
+        "keywords": [
+          "timezone",
+          "component",
+          "implementation"
+        ]
+      },
+      {
+        "id": "topic_weather_layer___iteration_2_features",
+        "type": "Topic",
+        "label": "Weather Layer - Iteration 2 Features",
+        "time_range": "01:30:02 - 01:43:52",
+        "participants": [
+          "Eugene Bondarenko",
+          "Vova",
+          "Dan Khasis",
+          "Parker Woodward",
+          "David Palle"
+        ],
+        "keywords": [
+          "weather",
+          "layer",
+          "iteration",
+          "features"
+        ]
+      },
+      {
+        "id": "topic_facility_snapshot_feature",
+        "type": "Topic",
+        "label": "Facility Snapshot Feature",
+        "time_range": "01:51:05 - 02:15:18",
+        "participants": [
+          "Alexey Gusentsov",
+          "Dan Khasis",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "facility",
+          "snapshot",
+          "feature"
+        ]
+      },
+      {
+        "id": "topic_map_layers_organization_and_location_entity_naming",
+        "type": "Topic",
+        "label": "Map Layers Organization and Location Entity Naming",
+        "time_range": "02:33:15 - 02:39:50",
+        "participants": [
+          "Vova",
+          "Dan Khasis",
+          "Semeyon S",
+          "Alexey Afanasiev"
+        ],
+        "keywords": [
+          "map",
+          "layers",
+          "organization",
+          "location",
+          "entity"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_timezone_handling_must_move_to_backend",
+        "type": "Decision",
+        "description": "All TimeZone calculations, Time Window processing, and string processing must be handled by Backend, not Frontend. TimeZones must be configurable in organizational administrative settings with default behavior options (user TimeZone, depot TimeZone, or Facility TimeZone).",
+        "decided_by": "Dan Khasis",
+        "rationale": "Current Frontend-based TimeZone handling violates MVC and architectural principles, creates inconsistency between Frontend and other access methods (SDK, Web Service, mobile app), and causes performance issues when handling large datasets. Backend must handle this for consistency across all client types and to maintain architectural integrity. [CRITICAL_ARCHITECTURAL_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_timezone_architecture___frontend_vs_backend_responsibilities"
+      },
+      {
+        "id": "decision_rename_telematics_gateway_to_integrations_connections_gateway",
+        "type": "Decision",
+        "description": "Rename Telematics Gateway section to \"Integrations Gateway\" or \"Connections\" with Connection Type dropdown, consolidating all gateway types (Telematics, ERP, CRM) into single unified section. Add columns showing synced object types (orders, vehicles, customers, customer locations, items, assets).",
+        "decided_by": "Dan Khasis, Igor Skrynkovskyy",
+        "rationale": "No business need for multiple separate gateway sections when all gateways share same architectural pattern. Single section with type selector provides cleaner UX and prevents interface bloat. Dimensional data objects (orders, vehicles, customers, etc.) cover 99% of integration use cases. [CEO_STRATEGIC_DIRECTIVE]",
+        "alternatives": [
+          "Keep separate sections for each gateway type",
+          "Gradual migration approach"
+        ],
+        "topic_id": "topic_integrations_gateway_renaming_and_architecture"
+      },
+      {
+        "id": "decision_add_egress_webhook_logging_and_payload_examples",
+        "type": "Decision",
+        "description": "Log all outgoing (egress) webhooks in addition to incoming webhooks, including full payload contents. Provide users with example payloads/schemas to understand integration structure and enable API testing directly from Route4Me system.",
+        "decided_by": "Dan Khasis",
+        "rationale": "Users need visibility into what data Route4Me sends to their systems (ERP, CRM, etc.) for debugging, validation, and testing purposes. Integration checker requires sample payloads for testing. Full bidirectional webhook logging necessary for enterprise integrations. [CEO_TECHNICAL_REQUIREMENT]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization___wizard_column_updates"
+      },
+      {
+        "id": "decision_fix_percentage_display_formatting",
+        "type": "Decision",
+        "description": "Use proper rounding for percentage values (not truncation) and add percent symbol to make clear values are percentages. Keep one decimal place to avoid \"missing percent\" confusion.",
+        "decided_by": "Semeyon S, Dan Khasis",
+        "rationale": "Current truncation causes percents to not add up to 100% (confusion). Proper rounding solves this. Percent symbol needed for clarity. [MINOR_UX_FIX]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization___table_percentage_display"
+      },
+      {
+        "id": "decision_future_summary_tab_for_scenario_histogram_analysis",
+        "type": "Decision",
+        "description": "Add future \"Summary\" tab showing histogram/table view of scenarios grouped by quality metrics (% routed, % unrouted, etc.) with deep-link filtering to drill into specific scenario groups. Enables rapid analysis when testing hundreds of scenarios with different parameters.",
+        "decided_by": "Dan Khasis",
+        "rationale": "When users generate 50-250 scenarios testing different parameters (visit frequency, working days, vehicle count, etc.), they need quick way to identify best/worst performers without manually reviewing each scenario. Histogram with filters provides instant insight into results distribution. [CEO_PRODUCT_VISION]",
+        "alternatives": [
+          "Manual scenario review",
+          "Simple sorted list"
+        ],
+        "topic_id": "topic_strategic_optimization___summary_tab__future_feature_"
+      },
+      {
+        "id": "decision_map_tab_rendering_strategy",
+        "type": "Decision",
+        "description": "Implement Map tab with intelligent rendering - use clustering for dense areas, pagination for large datasets, and heatmap visualization option. Do not render all locations simultaneously when dealing with hundreds of thousands of addresses.",
+        "decided_by": "Dan Khasis, Eugene Bondarenko",
+        "rationale": "Performance requirements dictate that Frontend cannot hold and render massive datasets (150K+ addresses) all at once. Need pagination, clustering, and heatmap modes for different use cases and data volumes. Consistent with TimeZone architectural directive about moving heavy processing to Backend. [EXECUTING_CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes_display"
+      },
+      {
+        "id": "decision_applied_settings_tab_structure",
+        "type": "Decision",
+        "description": "Applied Settings tab displays all configuration parameters used in optimization with clear indication of source (organizational default, facility override, optimization-specific override). Settings inherit from organizational level but can be overridden at optimization level.",
+        "decided_by": "Dan Khasis, Manar Kurmanov",
+        "rationale": "Users need transparency into which settings were applied and why. Inheritance pattern (organization → facility → optimization) provides flexibility while maintaining consistency. Clear override indicators prevent confusion about where settings came from. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization___applied_settings_tab"
+      },
+      {
+        "id": "decision_timezone_component_implementation_approach",
+        "type": "Decision",
+        "description": "Implement TimeZone selector component that allows users to choose organizational default TimeZone preference (user TimeZone, depot TimeZone, facility TimeZone, or custom). All TimeZone calculations happen on Backend. Frontend component only sends preference and displays times in selected TimeZone.",
+        "decided_by": "Dan Khasis, Igor Skrynkovskyy, Manar Kurmanov",
+        "rationale": "Executing CEO's architectural directive that Backend must own TimeZone logic. Component provides user control while Backend ensures consistency across all access methods (web, mobile, API, SDK). Proper abstraction separates display (Frontend) from calculation (Backend). [EXECUTING_CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_timezone_component_ui_implementation"
+      },
+      {
+        "id": "decision_weather_layer_forecast_slider_implementation",
+        "type": "Decision",
+        "description": "Add forecast slider to Weather Layer allowing users to see predicted weather conditions at any point in route timeline. Slider scrubs through time showing weather overlay on map for selected forecast hour. Data refreshes based on API limits and cost considerations.",
+        "decided_by": "Dan Khasis, Eugene Bondarenko, Vova",
+        "rationale": "Weather forecast at specific route time is more valuable than current weather. Users need to see weather conditions when driver will actually be at location (e.g., \"will it rain at 2 PM when we're delivering?\"). Slider provides intuitive time-based weather exploration. [CEO_APPROVED]",
+        "alternatives": [
+          "Static weather snapshots",
+          "Text-only forecast display",
+          "No time-based forecast"
+        ],
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "decision_weather_layer_as_premium_feature",
+        "type": "Decision",
+        "description": "Position Weather Layer as premium feature for enterprise customers. Target industries most weather-dependent (construction, utilities, field service, delivery). Pricing separate from core routing to capture additional value.",
+        "decided_by": "Dan Khasis, Parker Woodward",
+        "rationale": "Weather Layer has real API costs (data providers charge per request). Enterprise customers in weather-sensitive industries willing to pay premium for accurate forecast integration. Competitive analysis shows few competitors have this capability. Strong sales differentiat or. [CEO_STRATEGIC_DECISION]",
+        "alternatives": [
+          "Include in base pricing",
+          "Usage-based pricing only",
+          "Limited free tier"
+        ],
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "decision_facility_snapshot_data_model_and_naming",
+        "type": "Decision",
+        "description": "Facility Snapshot is immutable point-in-time copy of facility data. Must clearly indicate \"Snapshot\" vs live \"Location\" data in UI. Snapshots support versioning, comparison between versions, and full audit trail of what changed since previous Snapshot. Once created, Snapshot never changes - new updates create new Snapshot version.",
+        "decided_by": "Dan Khasis, Alexey Gusentsov, Semeyon S",
+        "rationale": "Users need historical view of facility data for analysis, compliance, and troubleshooting. \"Snapshot\" naming makes clear this is frozen historical data, not live current data. Immutability ensures Snapshot integrity for audit purposes. Versioning enables trend analysis and change tracking. [CEO_TECHNICAL_REQUIREMENT]",
+        "alternatives": [
+          "Single latest Snapshot only",
+          "Editable Snapshots",
+          "Snapshot without version history"
+        ],
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "decision_map_layers_restructuring_and_naming_resolution",
+        "type": "Decision",
+        "description": "Restructure Map Layers to eliminate naming confusion. Top-level items are entity types (locations, facilities, assets, vehicles). Under each entity, sub-options for display mode (clustering, heatmap). Remove separate \"locations\" section. Map Layers shows data from database. Distinguish newly imported locations with qualifying label.",
+        "decided_by": "Dan Khasis, Semeyon S, Vova",
+        "rationale": "Current structure causes confusion - \"locations\" appears in multiple places with unclear meaning. Users confused whether seeing imported data vs database data. Clear hierarchy (entity type → display mode) eliminates ambiguity. Qualifier \"newly imported\" makes distinction clear. [CEO_UX_DIRECTIVE]",
+        "alternatives": [
+          "Keep current structure with better labels",
+          "Completely separate imported vs database views",
+          "Remove heatmap option entirely"
+        ],
+        "topic_id": "topic_map_layers_organization_and_location_entity_naming"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_implement_timezone_calculation",
+        "type": "ActionItem",
+        "description": "Implement TimeZone calculation and Time Window processing on Backend",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_timezone_architecture___frontend_vs_backend_responsibilities"
+      },
+      {
+        "id": "action_remove_timezone_business_logic",
+        "type": "ActionItem",
+        "description": "Remove TimeZone business logic from Frontend and call Backend for calculations",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_timezone_architecture___frontend_vs_backend_responsibilities"
+      },
+      {
+        "id": "action_create_organizational_configur",
+        "type": "ActionItem",
+        "description": "Create organizational configuration for TimeZone settings with default behavior options",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_timezone_architecture___frontend_vs_backend_responsibilities"
+      },
+      {
+        "id": "action_rename_telematics_gateway_sect",
+        "type": "ActionItem",
+        "description": "Rename Telematics Gateway section to Connections or Integrations Gateway",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_integrations_gateway_renaming_and_architecture"
+      },
+      {
+        "id": "action_add_connection_type_selector_d",
+        "type": "ActionItem",
+        "description": "Add Connection Type selector dropdown",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_integrations_gateway_renaming_and_architecture"
+      },
+      {
+        "id": "action_add_columns_for_dimensional_da",
+        "type": "ActionItem",
+        "description": "Add columns for dimensional data object counts (orders, vehicles, customers, locations, items, assets)",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_integrations_gateway_renaming_and_architecture"
+      },
+      {
+        "id": "action_update_support_pages_and_docum",
+        "type": "ActionItem",
+        "description": "Update support pages and documentation with new naming",
+        "owner_id": "person_igor_skrynkovskyy",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_integrations_gateway_renaming_and_architecture"
+      },
+      {
+        "id": "action_ensure_egress_webhooks_logged_",
+        "type": "ActionItem",
+        "description": "Ensure egress webhooks logged to BigQuery with full payload",
+        "owner_id": "person_backend_team",
+        "status": "done",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___wizard_column_updates"
+      },
+      {
+        "id": "action_create_ui_to_display_webhook_p",
+        "type": "ActionItem",
+        "description": "Create UI to display webhook payload examples and schemas",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___wizard_column_updates"
+      },
+      {
+        "id": "action_implement_integration_checker_",
+        "type": "ActionItem",
+        "description": "Implement integration checker/tester functionality",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___wizard_column_updates"
+      },
+      {
+        "id": "action_implement_proper_rounding__not",
+        "type": "ActionItem",
+        "description": "Implement proper rounding (not truncation) for percentage values",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___table_percentage_display"
+      },
+      {
+        "id": "action_add_percent_symbol_____to_perc",
+        "type": "ActionItem",
+        "description": "Add percent symbol (%) to percentage displays",
+        "owner_id": "person_igor_golovtsov",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___table_percentage_display"
+      },
+      {
+        "id": "action_design_summary_tab_with_histog",
+        "type": "ActionItem",
+        "description": "Design Summary tab with histogram visualization for scenario quality distribution",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___summary_tab__future_feature_"
+      },
+      {
+        "id": "action_implement_summary_tab_with_dee",
+        "type": "ActionItem",
+        "description": "Implement Summary tab with deep-link filtering to scenario groups",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___summary_tab__future_feature_"
+      },
+      {
+        "id": "action_optimize_scenario_generation_f",
+        "type": "ActionItem",
+        "description": "Optimize scenario generation for parallel processing to handle 100+ scenarios efficiently",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___summary_tab__future_feature_"
+      },
+      {
+        "id": "action_implement_map_pagination_for_l",
+        "type": "ActionItem",
+        "description": "Implement map pagination for large location datasets",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes_display"
+      },
+      {
+        "id": "action_add_clustering_mode_for_dense_",
+        "type": "ActionItem",
+        "description": "Add clustering mode for dense location areas",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes_display"
+      },
+      {
+        "id": "action_add_heatmap_visualization_opti",
+        "type": "ActionItem",
+        "description": "Add heatmap visualization option",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___map_tab_with_routes_display"
+      },
+      {
+        "id": "action_complete_applied_settings_tab_",
+        "type": "ActionItem",
+        "description": "Complete Applied Settings tab implementation with inheritance display",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___applied_settings_tab"
+      },
+      {
+        "id": "action_add_clear_visual_indicators_fo",
+        "type": "ActionItem",
+        "description": "Add clear visual indicators for setting overrides vs defaults",
+        "owner_id": "person_manar_kurmanov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___applied_settings_tab"
+      },
+      {
+        "id": "action_ensure_organizational_default_",
+        "type": "ActionItem",
+        "description": "Ensure organizational default settings properly cascade to facility and optimization levels",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization___applied_settings_tab"
+      },
+      {
+        "id": "action_complete_timezone_selector_com",
+        "type": "ActionItem",
+        "description": "Complete TimeZone selector component with organizational defaults",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_timezone_component_ui_implementation"
+      },
+      {
+        "id": "action_implement_timezone_calculation",
+        "type": "ActionItem",
+        "description": "Implement TimeZone calculation API that Frontend calls",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_timezone_component_ui_implementation"
+      },
+      {
+        "id": "action_design_timezone_selector_ui_wi",
+        "type": "ActionItem",
+        "description": "Design TimeZone selector UI with clear indication of current setting and source",
+        "owner_id": "person_vova",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_timezone_component_ui_implementation"
+      },
+      {
+        "id": "action_create_test_scenarios_covering",
+        "type": "ActionItem",
+        "description": "Create test scenarios covering DST transitions and all TimeZone conversion edge cases",
+        "owner_id": "person_qa_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_timezone_component_ui_implementation"
+      },
+      {
+        "id": "action_complete_weather_layer_forecas",
+        "type": "ActionItem",
+        "description": "Complete Weather Layer forecast slider implementation",
+        "owner_id": "person_eugene_bondarenko",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "action_finalize_forecast_slider_ui_de",
+        "type": "ActionItem",
+        "description": "Finalize forecast slider UI design with timeline integration",
+        "owner_id": "person_vova",
+        "status": "done",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "action_implement_weather_data_refresh",
+        "type": "ActionItem",
+        "description": "Implement weather data refresh logic balancing accuracy vs API costs",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "action_develop_weather_layer_sales_po",
+        "type": "ActionItem",
+        "description": "Develop Weather Layer sales positioning and pricing strategy",
+        "owner_id": "person_parker_woodward",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "action_define_weather_layer_packaging",
+        "type": "ActionItem",
+        "description": "Define Weather Layer packaging tiers and customer segments",
+        "owner_id": "person_product_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_weather_layer___iteration_2_features"
+      },
+      {
+        "id": "action_implement_facility_snapshot_wi",
+        "type": "ActionItem",
+        "description": "Implement Facility Snapshot with clear Snapshot vs Location naming",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "action_add_snapshot_versioning_and_ve",
+        "type": "ActionItem",
+        "description": "Add Snapshot versioning and version history display",
+        "owner_id": "person_alexey_gusentsov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "action_implement_snapshot_generation_",
+        "type": "ActionItem",
+        "description": "Implement Snapshot generation process and immutability enforcement",
+        "owner_id": "person_backend_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "action_create_snapshot_comparison_api",
+        "type": "ActionItem",
+        "description": "Create Snapshot comparison API for version-to-version diff",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "action_implement_full_audit_trail_for",
+        "type": "ActionItem",
+        "description": "Implement full audit trail for Snapshot changes",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_facility_snapshot_feature"
+      },
+      {
+        "id": "action_redesign_map_layers_structure_",
+        "type": "ActionItem",
+        "description": "Redesign Map Layers structure with entity types as parents and display modes as children",
+        "owner_id": "person_vova",
+        "status": "pending",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_map_layers_organization_and_location_entity_naming"
+      },
+      {
+        "id": "action_implement_restructured_map_lay",
+        "type": "ActionItem",
+        "description": "Implement restructured Map Layers UI",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_map_layers_organization_and_location_entity_naming"
+      },
+      {
+        "id": "action_add__newly_imported_locations_",
+        "type": "ActionItem",
+        "description": "Add \"newly imported locations\" qualifier to distinguish from database locations",
+        "owner_id": "person_frontend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_map_layers_organization_and_location_entity_naming"
+      },
+      {
+        "id": "action_create_clear_visual_distinctio",
+        "type": "ActionItem",
+        "description": "Create clear visual distinction between imported and database location layers",
+        "owner_id": "person_design_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_map_layers_organization_and_location_entity_naming"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_dan_khasis__ceo_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_vova__design_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_manar_kurmanov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_eugene_bondarenko__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_dmitry_smaliak__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_david_palle",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_parker_woodward",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_artur_moskalenko__qa_director_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "person_kateryna_shevchenko__qa_lead_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+      "properties": {
+        "time_range": "00:03:12 - 00:12:47"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+      "to": "decision_timezone_handling_must_move_to_backend",
+      "properties": {
+        "label": "TimeZone Handling Must Move to Backend"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_timezone_handling_must_move_to_backend",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+      "to": "action_implement_timezone_calculation",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_timezone_calculation",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+      "to": "action_remove_timezone_business_logic",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_remove_timezone_business_logic",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_architecture___frontend_vs_backend_responsibilities",
+      "to": "action_create_organizational_configur",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_organizational_configur",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_integrations_gateway_renaming_and_architecture",
+      "properties": {
+        "time_range": "00:13:50 - 00:18:25"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_integrations_gateway_renaming_and_architecture",
+      "to": "decision_rename_telematics_gateway_to_integrations_connections_gateway",
+      "properties": {
+        "label": "Rename Telematics Gateway to Integrations/Connections Gateway"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_rename_telematics_gateway_to_integrations_connections_gateway",
+      "to": "person_dan_khasis__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_integrations_gateway_renaming_and_architecture",
+      "to": "action_rename_telematics_gateway_sect",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_rename_telematics_gateway_sect",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_integrations_gateway_renaming_and_architecture",
+      "to": "action_add_connection_type_selector_d",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_connection_type_selector_d",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_integrations_gateway_renaming_and_architecture",
+      "to": "action_add_columns_for_dimensional_da",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_columns_for_dimensional_da",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_integrations_gateway_renaming_and_architecture",
+      "to": "action_update_support_pages_and_docum",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_update_support_pages_and_docum",
+      "to": "person_igor_skrynkovskyy",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_strategic_optimization___wizard_column_updates",
+      "properties": {
+        "time_range": "00:22:19 - 00:28:53"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___wizard_column_updates",
+      "to": "decision_add_egress_webhook_logging_and_payload_examples",
+      "properties": {
+        "label": "Add egress webhook logging and payload examples"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_add_egress_webhook_logging_and_payload_examples",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___wizard_column_updates",
+      "to": "action_ensure_egress_webhooks_logged_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_egress_webhooks_logged_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "done",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___wizard_column_updates",
+      "to": "action_create_ui_to_display_webhook_p",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_ui_to_display_webhook_p",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___wizard_column_updates",
+      "to": "action_implement_integration_checker_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_integration_checker_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_strategic_optimization___table_percentage_display",
+      "properties": {
+        "time_range": "00:45:03 - 00:48:34"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___table_percentage_display",
+      "to": "decision_fix_percentage_display_formatting",
+      "properties": {
+        "label": "Fix percentage display formatting"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_fix_percentage_display_formatting",
+      "to": "person_semeyon_s__dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___table_percentage_display",
+      "to": "action_implement_proper_rounding__not",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_proper_rounding__not",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___table_percentage_display",
+      "to": "action_add_percent_symbol_____to_perc",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_percent_symbol_____to_perc",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_strategic_optimization___summary_tab__future_feature_",
+      "properties": {
+        "time_range": "00:48:34 - 00:54:35"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___summary_tab__future_feature_",
+      "to": "decision_future_summary_tab_for_scenario_histogram_analysis",
+      "properties": {
+        "label": "Future summary tab for scenario histogram analysis"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_future_summary_tab_for_scenario_histogram_analysis",
+      "to": "person_dan_khasis",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___summary_tab__future_feature_",
+      "to": "action_design_summary_tab_with_histog",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_summary_tab_with_histog",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___summary_tab__future_feature_",
+      "to": "action_implement_summary_tab_with_dee",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_summary_tab_with_dee",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___summary_tab__future_feature_",
+      "to": "action_optimize_scenario_generation_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_optimize_scenario_generation_f",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_strategic_optimization___map_tab_with_routes_display",
+      "properties": {
+        "time_range": "01:00:15 - 01:07:25"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___map_tab_with_routes_display",
+      "to": "decision_map_tab_rendering_strategy",
+      "properties": {
+        "label": "Map tab rendering strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_map_tab_rendering_strategy",
+      "to": "person_dan_khasis__eugene_bondarenko",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___map_tab_with_routes_display",
+      "to": "action_implement_map_pagination_for_l",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_map_pagination_for_l",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___map_tab_with_routes_display",
+      "to": "action_add_clustering_mode_for_dense_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_clustering_mode_for_dense_",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___map_tab_with_routes_display",
+      "to": "action_add_heatmap_visualization_opti",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_heatmap_visualization_opti",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_strategic_optimization___applied_settings_tab",
+      "properties": {
+        "time_range": "00:53:02 - 00:59:38"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization___applied_settings_tab",
+      "to": "decision_applied_settings_tab_structure",
+      "properties": {
+        "label": "Applied Settings tab structure"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_applied_settings_tab_structure",
+      "to": "person_dan_khasis__manar_kurmanov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___applied_settings_tab",
+      "to": "action_complete_applied_settings_tab_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_applied_settings_tab_",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___applied_settings_tab",
+      "to": "action_add_clear_visual_indicators_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_clear_visual_indicators_fo",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization___applied_settings_tab",
+      "to": "action_ensure_organizational_default_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_ensure_organizational_default_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_timezone_component_ui_implementation",
+      "properties": {
+        "time_range": "01:08:00 - 01:29:15"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_timezone_component_ui_implementation",
+      "to": "decision_timezone_component_implementation_approach",
+      "properties": {
+        "label": "TimeZone component implementation approach"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_timezone_component_implementation_approach",
+      "to": "person_dan_khasis__igor_skrynkovskyy__manar_kurmanov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_component_ui_implementation",
+      "to": "action_complete_timezone_selector_com",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_timezone_selector_com",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_component_ui_implementation",
+      "to": "action_implement_timezone_calculation",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_timezone_calculation",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_component_ui_implementation",
+      "to": "action_design_timezone_selector_ui_wi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_design_timezone_selector_ui_wi",
+      "to": "person_vova",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_timezone_component_ui_implementation",
+      "to": "action_create_test_scenarios_covering",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_test_scenarios_covering",
+      "to": "person_qa_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_weather_layer___iteration_2_features",
+      "properties": {
+        "time_range": "01:30:02 - 01:43:52"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "decision_weather_layer_forecast_slider_implementation",
+      "properties": {
+        "label": "Weather Layer forecast slider implementation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_weather_layer_forecast_slider_implementation",
+      "to": "person_dan_khasis__eugene_bondarenko__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "decision_weather_layer_as_premium_feature",
+      "properties": {
+        "label": "Weather Layer as premium feature"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_weather_layer_as_premium_feature",
+      "to": "person_dan_khasis__parker_woodward",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "action_complete_weather_layer_forecas",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_weather_layer_forecas",
+      "to": "person_eugene_bondarenko",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "action_finalize_forecast_slider_ui_de",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_finalize_forecast_slider_ui_de",
+      "to": "person_vova",
+      "properties": {
+        "status": "done",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "action_implement_weather_data_refresh",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_weather_data_refresh",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "action_develop_weather_layer_sales_po",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_develop_weather_layer_sales_po",
+      "to": "person_parker_woodward",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_weather_layer___iteration_2_features",
+      "to": "action_define_weather_layer_packaging",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_define_weather_layer_packaging",
+      "to": "person_product_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_facility_snapshot_feature",
+      "properties": {
+        "time_range": "01:51:05 - 02:15:18"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_facility_snapshot_feature",
+      "to": "decision_facility_snapshot_data_model_and_naming",
+      "properties": {
+        "label": "Facility Snapshot data model and naming"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_facility_snapshot_data_model_and_naming",
+      "to": "person_dan_khasis__alexey_gusentsov__semeyon_s",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot_feature",
+      "to": "action_implement_facility_snapshot_wi",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_facility_snapshot_wi",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot_feature",
+      "to": "action_add_snapshot_versioning_and_ve",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_snapshot_versioning_and_ve",
+      "to": "person_alexey_gusentsov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot_feature",
+      "to": "action_implement_snapshot_generation_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_snapshot_generation_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot_feature",
+      "to": "action_create_snapshot_comparison_api",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_snapshot_comparison_api",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_facility_snapshot_feature",
+      "to": "action_implement_full_audit_trail_for",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_full_audit_trail_for",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_10_02_product_review___strategic_optimization__timezone__weather_layer__facility_snapshot",
+      "to": "topic_map_layers_organization_and_location_entity_naming",
+      "properties": {
+        "time_range": "02:33:15 - 02:39:50"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_map_layers_organization_and_location_entity_naming",
+      "to": "decision_map_layers_restructuring_and_naming_resolution",
+      "properties": {
+        "label": "Map Layers restructuring and naming resolution"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_map_layers_restructuring_and_naming_resolution",
+      "to": "person_dan_khasis__semeyon_s__vova",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_layers_organization_and_location_entity_naming",
+      "to": "action_redesign_map_layers_structure_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_redesign_map_layers_structure_",
+      "to": "person_vova",
+      "properties": {
+        "status": "pending",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_layers_organization_and_location_entity_naming",
+      "to": "action_implement_restructured_map_lay",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_restructured_map_lay",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_layers_organization_and_location_entity_naming",
+      "to": "action_add__newly_imported_locations_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add__newly_imported_locations_",
+      "to": "person_frontend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_map_layers_organization_and_location_entity_naming",
+      "to": "action_create_clear_visual_distinctio",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create_clear_visual_distinctio",
+      "to": "person_design_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 77,
+    "total_relationships": 127,
+    "node_counts": {
+      "meetings": 1,
+      "people": 14,
+      "topics": 11,
+      "statements": 0,
+      "decisions": 12,
+      "action_items": 39
+    }
+  }
+}

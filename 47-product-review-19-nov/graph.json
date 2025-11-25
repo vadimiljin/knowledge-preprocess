@@ -1,0 +1,958 @@
+{
+  "metadata": {
+    "processed_at": "2025-11-25T12:34:41.677326",
+    "schema_version": "1.0",
+    "parser_version": "1.0.0"
+  },
+  "nodes": {
+    "meetings": [
+      {
+        "id": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+        "type": "Meeting",
+        "title": "Product Progress Review - Strategic Optimization & Core Fixes",
+        "date": "2025-11-19",
+        "duration": "00:25:28",
+        "attendees": [
+          "Semeyon S (VP Platform)",
+          "Serhii Kasainov (Front-End Tech Lead)",
+          "Igor Skrynkovskyy (SVP Platform)",
+          "Igor Golovtsov (Senior Frontend Engineer)",
+          "Manar Kurmanov (Frontend Engineer)",
+          "Dmitry Smaliak (Frontend Engineer)",
+          "Alexey Afanasiev (Frontend Lead)",
+          "Eugene (Frontend Engineer)",
+          "Alexey Gusentsov (Frontend Engineer)"
+        ],
+        "purpose": ""
+      }
+    ],
+    "people": [
+      {
+        "id": "person_semeyon_s__vp_platform_",
+        "type": "Person",
+        "name": "Semeyon S (VP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_serhii_kasainov__front_end_tech_lead_",
+        "type": "Person",
+        "name": "Serhii Kasainov (Front-End Tech Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_skrynkovskyy__svp_platform_",
+        "type": "Person",
+        "name": "Igor Skrynkovskyy (SVP Platform)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_igor_golovtsov__senior_frontend_engineer_",
+        "type": "Person",
+        "name": "Igor Golovtsov (Senior Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_manar_kurmanov__frontend_engineer_",
+        "type": "Person",
+        "name": "Manar Kurmanov (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_dmitry_smaliak__frontend_engineer_",
+        "type": "Person",
+        "name": "Dmitry Smaliak (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_afanasiev__frontend_lead_",
+        "type": "Person",
+        "name": "Alexey Afanasiev (Frontend Lead)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_eugene__frontend_engineer_",
+        "type": "Person",
+        "name": "Eugene (Frontend Engineer)",
+        "statements_count": 0
+      },
+      {
+        "id": "person_alexey_gusentsov__frontend_engineer_",
+        "type": "Person",
+        "name": "Alexey Gusentsov (Frontend Engineer)",
+        "statements_count": 0
+      }
+    ],
+    "topics": [
+      {
+        "id": "topic_destinationdriver___tracking_number_fix",
+        "type": "Topic",
+        "label": "DestinationDriver & Tracking Number Fix",
+        "time_range": "00:00:00 - 00:04:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Alexey Afanasiev",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "destinationdriver",
+          "tracking",
+          "number",
+          "fix"
+        ]
+      },
+      {
+        "id": "topic_distance___drive_time_columns_addition",
+        "type": "Topic",
+        "label": "Distance & Drive Time Columns Addition",
+        "time_range": "00:02:00 - 00:04:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Semeyon S"
+        ],
+        "keywords": [
+          "distance",
+          "drive",
+          "time",
+          "columns",
+          "addition"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_filter_grouping",
+        "type": "Topic",
+        "label": "Strategic Optimization Filter Grouping",
+        "time_range": "00:04:00 - 00:09:00",
+        "participants": [
+          "Serhii Kasainov",
+          "Dmitry Smaliak",
+          "Semeyon S",
+          "Igor Skrynkovskyy",
+          "Igor Golovtsov"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "filter",
+          "grouping"
+        ]
+      },
+      {
+        "id": "topic_strategic_optimization_ui_development",
+        "type": "Topic",
+        "label": "Strategic Optimization UI Development",
+        "time_range": "00:09:00 - 00:20:00",
+        "participants": [
+          "Manar Kurmanov",
+          "Serhii Kasainov",
+          "Semeyon S",
+          "Igor Golovtsov",
+          "Igor Skrynkovskyy"
+        ],
+        "keywords": [
+          "strategic",
+          "optimization",
+          "development"
+        ]
+      },
+      {
+        "id": "topic_scenarios_table___inline_edit_mode",
+        "type": "Topic",
+        "label": "Scenarios Table & Inline Edit Mode",
+        "time_range": "00:20:00 - 00:22:30",
+        "participants": [
+          "Semeyon S",
+          "Igor Golovtsov",
+          "Eugene"
+        ],
+        "keywords": [
+          "scenarios",
+          "table",
+          "inline",
+          "edit",
+          "mode"
+        ]
+      },
+      {
+        "id": "topic_erp__documentation___assignment_board_status",
+        "type": "Topic",
+        "label": "ERP, Documentation & Assignment Board Status",
+        "time_range": "00:22:30 - 00:23:40",
+        "participants": [
+          "Alexey Afanasiev",
+          "Semeyon S",
+          "Eugene"
+        ],
+        "keywords": [
+          "erp",
+          "documentation",
+          "assignment",
+          "board",
+          "status"
+        ]
+      },
+      {
+        "id": "topic_meeting_wrap_up___demo_cancellation",
+        "type": "Topic",
+        "label": "Meeting Wrap-up & Demo Cancellation",
+        "time_range": "00:23:40 - 00:25:28",
+        "participants": [
+          "Igor Golovtsov",
+          "Semeyon S",
+          "Alexey Afanasiev",
+          "Eugene"
+        ],
+        "keywords": [
+          "meeting",
+          "wrap",
+          "demo",
+          "cancellation"
+        ]
+      }
+    ],
+    "statements": [],
+    "decisions": [
+      {
+        "id": "decision_backend_fix_deployment",
+        "type": "Decision",
+        "description": "Deploy backend fix to snapshots and routes.list for tracking number issue",
+        "decided_by": "Serhii Kasainov",
+        "rationale": "Tracking number fallback logic was broken on AZUGA and other white label accounts. Frontend has clunky fallback handling and backend conditionally doesn't send the key. Fix available in core.next. Requires coordination with Alexandr Kovtunov for backend deployment. [TEAM_LEVEL - technical fix]",
+        "alternatives": [],
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "decision_column_deployment_strategy",
+        "type": "Decision",
+        "description": "Deploy new distance and drive time columns to snapshots immediately after testing, bundled with tracking number fix",
+        "decided_by": "Serhii Kasainov, Dmitry Smaliak",
+        "rationale": "Dan specifically requested these two columns in a prior meeting. Columns tested with proper formatting, no issues found. Bundling with tracking number fix for efficient deployment via library update. [EXECUTING_CEO_DIRECTIVE]",
+        "alternatives": [],
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "decision_filter_group_naming",
+        "type": "Decision",
+        "description": "Create separate filter group named \"Strategic Routing\" instead of placing under \"Assignment and Attribution\"",
+        "decided_by": "Semeyon S, Serhii Kasainov, Igor Skrynkovskyy",
+        "rationale": "Filters relate to graph relationships and strategic planning concepts, not assignment or attribution. The menu section is called \"scenarios\" so naming should align. Team decided to implement and get feedback rather than request pre-approval from Dan, as asking wouldn't yield quick answers but implementing wrong will surface issues rapidly. [TEAM_LEVEL - awaiting validation]",
+        "alternatives": [
+          "Strategic Planning",
+          "Assignment and Attribution",
+          "Scenarios"
+        ],
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "decision_feature_flag_strategy",
+        "type": "Decision",
+        "description": "Keep multiple depot feature flag support - don't remove it. Will clarify requirements with Artur or Oleg Shulga on exact implementation.",
+        "decided_by": "Semeyon S, Igor Skrynkovskyy",
+        "rationale": "Product may be sold separately with different configurations. Only 5% of clients have multiple depot capability. Early assumptions about making it universal need validation from feature management team. Cannot predict which settings will be in which package ahead of time. [TEAM_LEVEL - requires leadership clarification]",
+        "alternatives": [
+          "Remove feature flag and make universal",
+          "Keep current single depot only"
+        ],
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "issue_multiple_depot_feature_flag_configuration",
+        "type": "TechnicalIssue",
+        "description": "**[00:12:53] Igor Skrynkovskyy**: What feature flags control display of this radio button for facilities vs start location? For facilities radio to show table, we have feature flag \"facility view\". For multiple vs single depot, feature was removed yesterday under assumption it wouldn't be needed.\n\n**[00:13:44] Semeyon S**: Initial discussion was to assume heavy strategic clients have multiple depots for first step, but must support single depot in next steps.\n\n**[00:14:35] Igor Skrynkovskyy**: 5% have multiple depot capability. Product might be sold separately with different configurations. Settings per package cannot be predicted ahead of time. Requires clarification from Artur or Oleg Shulga who manage features.",
+        "decided_by": "Team",
+        "rationale": "Technical constraint identified during discussion",
+        "alternatives": [],
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "decision_demo_cancellation",
+        "type": "Decision",
+        "description": "Cancel tomorrow's scheduled demo. This internal product review meeting serves as replacement.",
+        "decided_by": "Dan",
+        "rationale": "Dan cancelled the formal demo. Semeyon determined not worth coordinating large group attendance. Internal mini-demo provides necessary feedback for team to review results and continue progress. [CEO_APPROVED]",
+        "alternatives": [],
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      }
+    ],
+    "action_items": [
+      {
+        "id": "action_contact_alexandr_kovtunov_to_d",
+        "type": "ActionItem",
+        "description": "Contact Alexandr Kovtunov to deploy backend fix to snapshots",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "action_deploy_core_next_update_with_t",
+        "type": "ActionItem",
+        "description": "Deploy core.next update with tracking number fix",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "action_update_core_next_and_coordinat",
+        "type": "ActionItem",
+        "description": "Update core.next and coordinate with Alexandr Kovtunov for internal pages modules",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_destinationdriver___tracking_number_fix"
+      },
+      {
+        "id": "action_bundle_new_distance_and_drive_",
+        "type": "ActionItem",
+        "description": "Bundle new distance and drive time columns with tracking number fix for snapshot deployment",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "action_coordinate_link_logic_for_trac",
+        "type": "ActionItem",
+        "description": "Coordinate link logic for tracking number across all modules",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_distance___drive_time_columns_addition"
+      },
+      {
+        "id": "action_add_links_to_numbers_from_stra",
+        "type": "ActionItem",
+        "description": "Add links to numbers from strategic optimization to routes.list",
+        "owner_id": "person_igor_golovtsov",
+        "status": "assigned",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_create__strategic_routing__fil",
+        "type": "ActionItem",
+        "description": "Create \"Strategic Routing\" filter group and move relevant filters",
+        "owner_id": "person_dmitry_smaliak",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_add_master_route_filtering_to_",
+        "type": "ActionItem",
+        "description": "Add master route filtering to Strategic Routing group if available",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "low",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_filter_grouping"
+      },
+      {
+        "id": "action_clarify_multiple_depot_feature",
+        "type": "ActionItem",
+        "description": "Clarify multiple depot feature flag requirements with Artur or Oleg Shulga",
+        "owner_id": "person_manar_kurmanov",
+        "status": "assigned",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_push_strategic_optimization_to",
+        "type": "ActionItem",
+        "description": "Push strategic optimization to staging ASAP",
+        "owner_id": "person_manar_kurmanov",
+        "status": "in_progress",
+        "priority": "high",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_configure_default_field_set_fo",
+        "type": "ActionItem",
+        "description": "Configure default field set for optimization locations view",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_complete_design_review_for_cre",
+        "type": "ActionItem",
+        "description": "Complete design review for Create Optimization process with Vova",
+        "owner_id": "person_design_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_strategic_optimization_ui_development"
+      },
+      {
+        "id": "action_complete_inline_edit_mode_impl",
+        "type": "ActionItem",
+        "description": "Complete inline edit mode implementation for scenarios table",
+        "owner_id": "person_eugene",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "action_implement_pusher_support_for_o",
+        "type": "ActionItem",
+        "description": "Implement pusher support for optimization deletion to avoid manual page refresh",
+        "owner_id": "person_backend_team",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_scenarios_table___inline_edit_mode"
+      },
+      {
+        "id": "action_review_erp_items_and_pricing",
+        "type": "ActionItem",
+        "description": "Review ERP items and pricing",
+        "owner_id": "person_serhii_kasainov",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "2025-11-20",
+        "topic_id": "topic_erp__documentation___assignment_board_status"
+      },
+      {
+        "id": "action_complete_routes__location__sna",
+        "type": "ActionItem",
+        "description": "Complete routes, location, snapshot documentation",
+        "owner_id": "person_alexey_afanasiev",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_erp__documentation___assignment_board_status"
+      },
+      {
+        "id": "action_assignment_board_team_switchin",
+        "type": "ActionItem",
+        "description": "Assignment board team switching to new system",
+        "owner_id": "person_design_team",
+        "status": "in_progress",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_erp__documentation___assignment_board_status"
+      },
+      {
+        "id": "action_clarify_two_design_questions_f",
+        "type": "ActionItem",
+        "description": "Clarify two design questions for strategic optimization",
+        "owner_id": "person_eugene",
+        "status": "pending",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_erp__documentation___assignment_board_status"
+      },
+      {
+        "id": "action_attend_design_call_about_strat",
+        "type": "ActionItem",
+        "description": "Attend design call about strategic optimization with Eugene and Igor Golovtsov",
+        "owner_id": "person_alexey_afanasiev",
+        "status": "scheduled",
+        "priority": "normal",
+        "deadline": "",
+        "topic_id": "topic_meeting_wrap_up___demo_cancellation"
+      }
+    ]
+  },
+  "relationships": [
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_semeyon_s__vp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_serhii_kasainov__front_end_tech_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_igor_skrynkovskyy__svp_platform_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_igor_golovtsov__senior_frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_manar_kurmanov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_dmitry_smaliak__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_alexey_afanasiev__frontend_lead_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_eugene__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ATTENDEE",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "person_alexey_gusentsov__frontend_engineer_",
+      "properties": {}
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_destinationdriver___tracking_number_fix",
+      "properties": {
+        "time_range": "00:00:00 - 00:04:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "decision_backend_fix_deployment",
+      "properties": {
+        "label": "Backend Fix Deployment"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_backend_fix_deployment",
+      "to": "person_serhii_kasainov",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "action_contact_alexandr_kovtunov_to_d",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_contact_alexandr_kovtunov_to_d",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "action_deploy_core_next_update_with_t",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_deploy_core_next_update_with_t",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_destinationdriver___tracking_number_fix",
+      "to": "action_update_core_next_and_coordinat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_update_core_next_and_coordinat",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_distance___drive_time_columns_addition",
+      "properties": {
+        "time_range": "00:02:00 - 00:04:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "decision_column_deployment_strategy",
+      "properties": {
+        "label": "Column Deployment Strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_column_deployment_strategy",
+      "to": "person_serhii_kasainov__dmitry_smaliak",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "action_bundle_new_distance_and_drive_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_bundle_new_distance_and_drive_",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_distance___drive_time_columns_addition",
+      "to": "action_coordinate_link_logic_for_trac",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_coordinate_link_logic_for_trac",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_strategic_optimization_filter_grouping",
+      "properties": {
+        "time_range": "00:04:00 - 00:09:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "decision_filter_group_naming",
+      "properties": {
+        "label": "Filter Group Naming"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_filter_group_naming",
+      "to": "person_semeyon_s__serhii_kasainov__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_add_links_to_numbers_from_stra",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_links_to_numbers_from_stra",
+      "to": "person_igor_golovtsov",
+      "properties": {
+        "status": "assigned",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_create__strategic_routing__fil",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_create__strategic_routing__fil",
+      "to": "person_dmitry_smaliak",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_filter_grouping",
+      "to": "action_add_master_route_filtering_to_",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_add_master_route_filtering_to_",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "low"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_strategic_optimization_ui_development",
+      "properties": {
+        "time_range": "00:09:00 - 00:20:00"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "decision_feature_flag_strategy",
+      "properties": {
+        "label": "Feature Flag Strategy"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_feature_flag_strategy",
+      "to": "person_semeyon_s__igor_skrynkovskyy",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_clarify_multiple_depot_feature",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_clarify_multiple_depot_feature",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "assigned",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_push_strategic_optimization_to",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_push_strategic_optimization_to",
+      "to": "person_manar_kurmanov",
+      "properties": {
+        "status": "in_progress",
+        "priority": "high"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_configure_default_field_set_fo",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_configure_default_field_set_fo",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "action_complete_design_review_for_cre",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_design_review_for_cre",
+      "to": "person_design_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_TECHNICAL_ISSUE",
+      "from": "topic_strategic_optimization_ui_development",
+      "to": "issue_multiple_depot_feature_flag_configuration",
+      "properties": {
+        "label": "Multiple Depot Feature Flag Configuration"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_scenarios_table___inline_edit_mode",
+      "properties": {
+        "time_range": "00:20:00 - 00:22:30"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenarios_table___inline_edit_mode",
+      "to": "action_complete_inline_edit_mode_impl",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_inline_edit_mode_impl",
+      "to": "person_eugene",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_scenarios_table___inline_edit_mode",
+      "to": "action_implement_pusher_support_for_o",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_implement_pusher_support_for_o",
+      "to": "person_backend_team",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_erp__documentation___assignment_board_status",
+      "properties": {
+        "time_range": "00:22:30 - 00:23:40"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_erp__documentation___assignment_board_status",
+      "to": "action_review_erp_items_and_pricing",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_review_erp_items_and_pricing",
+      "to": "person_serhii_kasainov",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_erp__documentation___assignment_board_status",
+      "to": "action_complete_routes__location__sna",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_complete_routes__location__sna",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_erp__documentation___assignment_board_status",
+      "to": "action_assignment_board_team_switchin",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_assignment_board_team_switchin",
+      "to": "person_design_team",
+      "properties": {
+        "status": "in_progress",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_erp__documentation___assignment_board_status",
+      "to": "action_clarify_two_design_questions_f",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_clarify_two_design_questions_f",
+      "to": "person_eugene",
+      "properties": {
+        "status": "pending",
+        "priority": "normal"
+      }
+    },
+    {
+      "type": "CONTAINS_TOPIC",
+      "from": "meeting_2025_11_19_product_progress_review___strategic_optimization___core_fixes",
+      "to": "topic_meeting_wrap_up___demo_cancellation",
+      "properties": {
+        "time_range": "00:23:40 - 00:25:28"
+      }
+    },
+    {
+      "type": "HAS_DECISION",
+      "from": "topic_meeting_wrap_up___demo_cancellation",
+      "to": "decision_demo_cancellation",
+      "properties": {
+        "label": "Demo Cancellation"
+      }
+    },
+    {
+      "type": "DECIDED_BY",
+      "from": "decision_demo_cancellation",
+      "to": "person_dan",
+      "properties": {}
+    },
+    {
+      "type": "HAS_ACTION_ITEM",
+      "from": "topic_meeting_wrap_up___demo_cancellation",
+      "to": "action_attend_design_call_about_strat",
+      "properties": {}
+    },
+    {
+      "type": "ASSIGNED_TO",
+      "from": "action_attend_design_call_about_strat",
+      "to": "person_alexey_afanasiev",
+      "properties": {
+        "status": "scheduled",
+        "priority": "normal"
+      }
+    }
+  ],
+  "statistics": {
+    "total_nodes": 42,
+    "total_relationships": 65,
+    "node_counts": {
+      "meetings": 1,
+      "people": 9,
+      "topics": 7,
+      "statements": 0,
+      "decisions": 6,
+      "action_items": 19
+    }
+  }
+}
